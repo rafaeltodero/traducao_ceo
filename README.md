@@ -1,1 +1,5 @@
 # traducao_ceo
+
+## TRADUÇÃO DO JOGO CEO
+
+Se você encontrar algum erro e quiser contribuir, entre em contato comigo. 
