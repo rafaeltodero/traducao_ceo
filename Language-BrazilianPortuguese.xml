@@ -503,143 +503,143 @@
 	<String id="Scene.MultiplayerLobby.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.MultiplayerLobby.Players.Text">Jogadores</String>
 	<String id="Scene.MultiplayerLobby.StartGameButton.Text">COMEÇAR O JOGO</String>
-	<String id="Scene.MultiplayerLobby.WorldSettings.Text">Configurações do Mundo</String>
+	<String id="Scene.MultiplayerLobby.WorldSettings.Text">Config. do Mundo</String>
 	<String id="Scene.MultiplayerLobby.WorldSettingsPanel.Text">Configurações do Mundo</String>
 	<String id="Scene.Scenarios.Leaderboard.NoItems">Carregando pontuações...</String>
 	<String id="Scene.Scenarios.Leaderboard.Text">Leaderboard</String>
 	<String id="Scene.Scenarios.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Scenarios.Scenarios.Text">Cenários</String>
 	<String id="Scene.Scenarios.StartButton.Text">INICIAR</String>
-	<String id="Scene.Scenarios.StartGameButton.Text">START GAME</String>
-	<String id="Scene.Tutorials.MainMenuButton.Text">MAIN MENU</String>
+	<String id="Scene.Scenarios.StartGameButton.Text">INICIAR JOGO</String>
+	<String id="Scene.Tutorials.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Tutorials.StartButton.Text">INICIAR</String>
-	<String id="Scene.Tutorials.StartGameButton.Text">START GAME</String>
-	<String id="Settings.EconomyLevel0">Very easy</String>
-	<String id="Settings.EconomyLevel1">Easy</String>
+	<String id="Scene.Tutorials.StartGameButton.Text">INICIAR JOGO</String>
+	<String id="Settings.EconomyLevel0">Muito fácil</String>
+	<String id="Settings.EconomyLevel1">Fácil</String>
 	<String id="Settings.EconomyLevel2">Normal</String>
-	<String id="Settings.EconomyLevel3">Hard</String>
-	<String id="Settings.EconomyLevel4">Very hard</String>
-	<String id="Settings.Level0">Very low</String>
-	<String id="Settings.Level1">Low</String>
-	<String id="Settings.Level2">Medium</String>
-	<String id="Settings.Level3">High</String>
-	<String id="Settings.Level4">Very high</String>
-	<String id="Status.AquiredBuildingLogEntry.Text" P0="Building.Owner" P1="Building.GetName()" P2="oldOwner.Name" P3="price">{0} bought {1} from {2} for {3:n0}</String>
-	<String id="Status.AquiredTechnologyLogEntry.FailureText" P0="Buyer.Name" P1="None(always 0)" P2="ProductType.Title" P3="Seller.Name">{0} and {3} did not agree on {2} technology trade</String>
-	<String id="Status.AquiredTechnologyLogEntry.Text" P0="Buyer.Name" P1="Level" P2="ProductType.Title" P3="Seller.Name">{0} purchased level {1} of {2} technology from {3}</String>
-	<String id="Status.AquiredTechnologyLogEntry.Text" P0="buyer.Name" P1="targetLevel" P2="product.Title" P3="seller.Name">{0} aquired tech level {1} of {2} from {3}</String>
-	<String id="Status.AuctionBidLogEntry.Text" P0="Bidder.Name" P1="BidValue" P2="Target">{0} bid {1:n0} for {2}</String>
-	<String id="Status.AuctionOfferStartedLogEntry.BuildingStarted.Text">Building auction started</String>
-	<String id="Status.AuctionOfferStartedLogEntry.OfferStock.Recipient.Text" P0="Stock.Name">Offer for shares in {0} received</String>
-	<String id="Status.AuctionOfferStartedLogEntry.OfferStock.Sender.Text" P0="Stock.Name">Offer for shares in {0} sent</String>
-	<String id="Status.AuctionOfferStartedLogEntry.OfferTech.Recipient.Text" P0="ProductType.Title">Offer for {0} technology received</String>
-	<String id="Status.AuctionOfferStartedLogEntry.OfferTech.Sender.Text" P0="ProductType.Title">Offer for {0} technology sent</String>
-	<String id="Status.AuctionOfferStartedLogEntry.ResourceStarted.Text" P0="NaturalResource.Type.Title">{0} auction started</String>
-	<String id="Status.BankruptcyLogEntry.Text" P0="CorporationName">{0} has ceased operations and been liquidated.</String>
-	<String id="Status.BankruptcyWarningLogEntry.Text" P0="Corporation.Name">{0}'s creditors have petitioned for bankruptcy</String>
-	<String id="Status.CorporationStartupEntry.Text" P0="Corporation.Name">New startup - {0}</String>
-	<String id="Status.DemolishedBuildingLogEntry.Text" P0="Owner.Name" P1="Name" P2="Region.Name">{0} demolished {1} in {2}</String>
-	<String id="Status.MergerLogEntry.Text" P0="CorporationName" P1="Corporation.Name">{0} has merged into {1}</String>
-	<String id="Status.NaturalResourceDepletedEntry.Text" P0="NaturalResourceExtractionBuilding.GetName()">{0} is depleted.</String>
-	<String id="Status.NewBuildingLogEntry.Text" P0="Building.Owner.Name" P1="Building.GetName()" P2="Building.Region.Name">{0} built {1} in {2}</String>
-	<String id="Status.NewChairmanLogEntry.Text" P0="Person.Name" P1="Corporation.Name">{0} is now the chairman of {1}</String>
-	<String id="Status.NewNaturalResourceLogEntry.Text" P0="NaturalResource.Type.Title" P1="NaturalResource.Region.Name">New discovery of {0} in {1}</String>
-	<String id="Status.OfferBidLogEntry.StockRecipient.Text" P0="Bidder.Name" P1="BidValue" P2="Stock.Name">{0} offered {1:n0} for shares in {2}</String>
+	<String id="Settings.EconomyLevel3">Difícil</String>
+	<String id="Settings.EconomyLevel4">Muito difícil</String>
+	<String id="Settings.Level0">Muito baixo</String>
+	<String id="Settings.Level1">Baixo</String>
+	<String id="Settings.Level2">Médio</String>
+	<String id="Settings.Level3">Alto</String>
+	<String id="Settings.Level4">Muito alto</String>
+	<String id="Status.AquiredBuildingLogEntry.Text" P0="Building.Owner" P1="Building.GetName()" P2="oldOwner.Name" P3="price">{0} comprado {1} de {2} por {3:n0}</String>
+	<String id="Status.AquiredTechnologyLogEntry.FailureText" P0="Buyer.Name" P1="None(always 0)" P2="ProductType.Title" P3="Seller.Name">{0} e {3} não concordaram com o comércio de tecnologia {2}</String>
+	<String id="Status.AquiredTechnologyLogEntry.Text" P0="Buyer.Name" P1="Level" P2="ProductType.Title" P3="Seller.Name">{0} adquiriu o nível {1} ​​de tecnologia {2} de {3}</String>
+	<String id="Status.AquiredTechnologyLogEntry.Text" P0="buyer.Name" P1="targetLevel" P2="product.Title" P3="seller.Name">{0} adquiriu o nível de tecnologia {1} de {2} de {3}</String>
+	<String id="Status.AuctionBidLogEntry.Text" P0="Bidder.Name" P1="BidValue" P2="Target">{0} lance {1:n0} para {2}</String>
+	<String id="Status.AuctionOfferStartedLogEntry.BuildingStarted.Text">Leilão de construção iniciado</String>
+	<String id="Status.AuctionOfferStartedLogEntry.OfferStock.Recipient.Text" P0="Stock.Name">Oferta de ações em {0} recebida</String>
+	<String id="Status.AuctionOfferStartedLogEntry.OfferStock.Sender.Text" P0="Stock.Name">Oferta de ações em {0} enviada</String>
+	<String id="Status.AuctionOfferStartedLogEntry.OfferTech.Recipient.Text" P0="ProductType.Title">Oferta para {0} tecnologia recebida</String>
+	<String id="Status.AuctionOfferStartedLogEntry.OfferTech.Sender.Text" P0="ProductType.Title">Oferta para {0} tecnologia enviada</String>
+	<String id="Status.AuctionOfferStartedLogEntry.ResourceStarted.Text" P0="NaturalResource.Type.Title">{0} leilão iniciado</String>
+	<String id="Status.BankruptcyLogEntry.Text" P0="CorporationName">{0} cessou as operações e foi liquidada.</String>
+	<String id="Status.BankruptcyWarningLogEntry.Text" P0="Corporation.Name">{0} os credores do {0} solicitaram a falência</String>
+	<String id="Status.CorporationStartupEntry.Text" P0="Corporation.Name">Nova startup - {0}</String>
+	<String id="Status.DemolishedBuildingLogEntry.Text" P0="Owner.Name" P1="Name" P2="Region.Name">{0} demolido {1} em {2}</String>
+	<String id="Status.MergerLogEntry.Text" P0="CorporationName" P1="Corporation.Name">{0} fundiu-se em {1}</String>
+	<String id="Status.NaturalResourceDepletedEntry.Text" P0="NaturalResourceExtractionBuilding.GetName()">{0} está esgotado.</String>
+	<String id="Status.NewBuildingLogEntry.Text" P0="Building.Owner.Name" P1="Building.GetName()" P2="Building.Region.Name">{0} Construiu {1} em {2}</String>
+	<String id="Status.NewChairmanLogEntry.Text" P0="Person.Name" P1="Corporation.Name">{0} é agora o presidente de {1}</String>
+	<String id="Status.NewNaturalResourceLogEntry.Text" P0="NaturalResource.Type.Title" P1="NaturalResource.Region.Name">Nova descoberta de {0} em {1}</String>
+	<String id="Status.OfferBidLogEntry.StockRecipient.Text" P0="Bidder.Name" P1="BidValue" P2="Stock.Name">{0} ofereceu {1:n0} por ações em {2}</String>
 	<String id="Status.OfferBidLogEntry.StockSender.Text" P0="Bidder.Name" P1="BidValue" P2="Stock.Name">{0} asked for {1:n0} for shares in {2}</String>
-	<String id="Status.OfferBidLogEntry.TechRecipient.Text" P0="Bidder.Name" P1="BidValue" P2="ProductType.Title">{0} offered {1:n0} for {2} technology</String>
-	<String id="Status.OfferBidLogEntry.TechSender.Text" P0="Bidder.Name" P1="BidValue" P2="ProductType.Title">{0} asked for {1:n0} for {2} technology</String>
-	<String id="Status.ResearchProjectFinishedLogEntry.Text" P0="Research.Building.GetName()" P1="ProductType.Title" P2="NewLevel">{0} has researched {1} to level {2}</String>
-	<String id="Status.StockTransferLogEntry.Buy.Text" P0="to.Name" P1="share count" P2="stock.Name" P3="from.Name">{0} bought {1} shares of {2} from {3}</String>
-	<String id="Status.StockTransferLogEntry.BuyBack.Text" P0="to.Name" P1="share count" P2="stock.Name" P3="from.Name">{0} bought back {1} shares from {3}</String>
-	<String id="Status.StockTransferLogEntry.Failure.Text" P0="to.Name" P1="stock.Name" P2="from.Name">{0} and {2} could not agree on a trade for {1}</String>
-	<String id="Status.StockTransferLogEntry.PublicBuy.Text" P0="to.Name" P1="share count" P2="stock.Name">{0} bought {1} shares of {2}</String>
-	<String id="Status.StockTransferLogEntry.PublicBuyBack.Text" P0="to.Name" P1="share count" P2="stock.Name">{0} bought back {1} shares</String>
-	<String id="Status.StockTransferLogEntry.PublicSell.Text" P0="from.Name" P1="share count" P2="stock.Name">{0} sold {1} shares of {2}</String>
-	<String id="Status.SupplyLostLogEntry.Text" P0="Purchasing.Building.GetName()" P1="Purchasing.ProductType.Title">{0} lost supply of {1}</String>
-	<String id="Status.TechUpgradeAvailableLogEntry.Text" P0="Manufacturing.Building.GetName()" P1="Manufacturing.ProductType.Title">{0} can upgrade technology of {1}</String>
-	<String id="StatusBit.Advancement.Label">Advancement</String>
-	<String id="StatusBit.AdvertisingSpending.Label">Monthly cost</String>
-	<String id="StatusBit.AnimalCount.Label">Herd</String>
-	<String id="StatusBit.Availability.Label">Availability</String>
-	<String id="StatusBit.Brand.Label">Brand</String>
-	<String id="StatusBit.BrandConcern.Label">Brand concern</String>
-	<String id="StatusBit.Cash.Label">Cash</String>
-	<String id="StatusBit.Cost.Label">Cost</String>
-	<String id="StatusBit.CurrentLevel.Label">Current tech level</String>
-	<String id="StatusBit.Demand.Label">Demand</String>
-	<String id="StatusBit.Efficiency.Label">Efficiency</String>
-	<String id="StatusBit.Exhausted.Value">Resource is exhausted</String>
-	<String id="StatusBit.Goals.IndustriesDomineered.Label">Industries domineered</String>
-	<String id="StatusBit.Goals.MaxYears.Label">Max Years</String>
-	<String id="StatusBit.Goals.MaxYears.Value" P0="years elapsed" P1="target max years">{0:n0} of {1:n0} years</String>
-	<String id="StatusBit.Goals.NetWorth.Label">Net worth</String>
-	<String id="StatusBit.Goals.Ownership.Label">Ownership</String>
-	<String id="StatusBit.Goals.PersonNetWorth.Label">Personal net worth</String>
-	<String id="StatusBit.Goals.PersonNetWorthWorldRanking.Label">World's richest people</String>
-	<String id="StatusBit.Goals.ProductClassesDomineered.Label">Product classes domineered</String>
-	<String id="StatusBit.Goals.ProductClassesProduced.Label">Product classes produced</String>
-	<String id="StatusBit.Goals.ProductTypesDomineered.Label">Product types domineered</String>
-	<String id="StatusBit.Goals.ProductTypesProduced.Label">Product types produced</String>
-	<String id="StatusBit.Goals.Profit.Label">Annual profit</String>
-	<String id="StatusBit.Goals.ProfitMargin.Label">Profit margin</String>
-	<String id="StatusBit.Goals.Revenue.Label">Annual revenue</String>
-	<String id="StatusBit.GrowPeriod.Label">Grow period</String>
-	<String id="StatusBit.InputQualityN.Label" P0="Product type title">{0} Quality</String>
-	<String id="StatusBit.Invalid.Value">Idle</String>
-	<String id="StatusBit.Invalid_NoCrop.Value">Idle - no crop selected</String>
-	<String id="StatusBit.Invalid_NoLivestock.Value">Idle - no project selected</String>
-	<String id="StatusBit.Invalid_NoProduct.Value">Idle - no product selected</String>
-	<String id="StatusBit.Invalid_NoProductSupplier.Value">Idle - no supplier selected.</String>
-	<String id="StatusBit.Invalid_NoProject.Value">Idle - no project selected</String>
-	<String id="StatusBit.Invalid_NoSupplier.Value">No supplier</String>
-	<String id="StatusBit.LivestockDemand.Label">Livestock demand</String>
-	<String id="StatusBit.LivestockSupply.Label">Livestock supply</String>
-	<String id="StatusBit.MaxInventoryLevel.Label">Max level</String>
-	<String id="StatusBit.OwnRating.Label">Rating</String>
-	<String id="StatusBit.Price.Label">Price</String>
-	<String id="StatusBit.Progress.Label">Progress</String>
-	<String id="StatusBit.ProjectSize.Label">Project size</String>
-	<String id="StatusBit.ProjectSize.Value" P0="number of months">{0} months</String>
-	<String id="StatusBit.Quality.Label">Quality</String>
-	<String id="StatusBit.Quality.Label">Quality</String>
-	<String id="StatusBit.QualitySpending.Label">Monthly cost</String>
-	<String id="StatusBit.Reserve.Label">Reserve</String>
-	<String id="StatusBit.Settings.Auctions.Label">Auctions</String>
+	<String id="Status.OfferBidLogEntry.TechRecipient.Text" P0="Bidder.Name" P1="BidValue" P2="ProductType.Title">{0} ofereceu {1:n0} para tecnologia {2}</String>
+	<String id="Status.OfferBidLogEntry.TechSender.Text" P0="Bidder.Name" P1="BidValue" P2="ProductType.Title">{0} pediu {1:n0} para tecnologia {2}</String>
+	<String id="Status.ResearchProjectFinishedLogEntry.Text" P0="Research.Building.GetName()" P1="ProductType.Title" P2="NewLevel">{0} pesquisou {1} até o nível {2}</String>
+	<String id="Status.StockTransferLogEntry.Buy.Text" P0="to.Name" P1="share count" P2="stock.Name" P3="from.Name">{0} comprou {1} ações de {2} de {3}</String>
+	<String id="Status.StockTransferLogEntry.BuyBack.Text" P0="to.Name" P1="share count" P2="stock.Name" P3="from.Name">{0} comprou de volta {1} ações de {3}</String>
+	<String id="Status.StockTransferLogEntry.Failure.Text" P0="to.Name" P1="stock.Name" P2="from.Name">e {0} e {2} não conseguiram chegar a acordo sobre uma troca para {1}</String>
+	<String id="Status.StockTransferLogEntry.PublicBuy.Text" P0="to.Name" P1="share count" P2="stock.Name">{0} comprou {1} ações de {2}</String>
+	<String id="Status.StockTransferLogEntry.PublicBuyBack.Text" P0="to.Name" P1="share count" P2="stock.Name">{0} comprou de volta {1} ações</String>
+	<String id="Status.StockTransferLogEntry.PublicSell.Text" P0="from.Name" P1="share count" P2="stock.Name">{0} vendeu {1} ações de {2}</String>
+	<String id="Status.SupplyLostLogEntry.Text" P0="Purchasing.Building.GetName()" P1="Purchasing.ProductType.Title">{0} perdeu o fornecimento de {1}</String>
+	<String id="Status.TechUpgradeAvailableLogEntry.Text" P0="Manufacturing.Building.GetName()" P1="Manufacturing.ProductType.Title">{0} pode atualizar a tecnologia de {1}</String>
+	<String id="StatusBit.Advancement.Label">Progresso</String>
+	<String id="StatusBit.AdvertisingSpending.Label">Custo mensal</String>
+	<String id="StatusBit.AnimalCount.Label">Rebanho</String>
+	<String id="StatusBit.Availability.Label">Disponibilidade</String>
+	<String id="StatusBit.Brand.Label">Marca</String>
+	<String id="StatusBit.BrandConcern.Label">Preocupação com a marca</String>
+	<String id="StatusBit.Cash.Label">Dinheiro</String>
+	<String id="StatusBit.Cost.Label">Custo</String>
+	<String id="StatusBit.CurrentLevel.Label">Nível tecnológico atual</String>
+	<String id="StatusBit.Demand.Label">Demanda</String>
+	<String id="StatusBit.Efficiency.Label">Eficiência</String>
+	<String id="StatusBit.Exhausted.Value">O recurso está esgotado</String>
+	<String id="StatusBit.Goals.IndustriesDomineered.Label">Indústrias dominadas</String>
+	<String id="StatusBit.Goals.MaxYears.Label">Máx. de anos</String>
+	<String id="StatusBit.Goals.MaxYears.Value" P0="years elapsed" P1="target max years">{0:n0} de {1:n0} anos</String>
+	<String id="StatusBit.Goals.NetWorth.Label">Patrimônio líquido</String>
+	<String id="StatusBit.Goals.Ownership.Label">Propriedade</String>
+	<String id="StatusBit.Goals.PersonNetWorth.Label">Patrimônio líquido pessoal</String>
+	<String id="StatusBit.Goals.PersonNetWorthWorldRanking.Label">Os mais ricos do mundo</String>
+	<String id="StatusBit.Goals.ProductClassesDomineered.Label">Classes de produtos dominadas</String>
+	<String id="StatusBit.Goals.ProductClassesProduced.Label">Classes de produtos produzidos</String>
+	<String id="StatusBit.Goals.ProductTypesDomineered.Label">Tipos de produtos dominados</String>
+	<String id="StatusBit.Goals.ProductTypesProduced.Label">Tipos de produtos produzidos</String>
+	<String id="StatusBit.Goals.Profit.Label">Lucro anual</String>
+	<String id="StatusBit.Goals.ProfitMargin.Label">Margem de lucro</String>
+	<String id="StatusBit.Goals.Revenue.Label">Receita anual</String>
+	<String id="StatusBit.GrowPeriod.Label">Período de crescimento</String>
+	<String id="StatusBit.InputQualityN.Label" P0="Product type title">{0} Qualidade</String>
+	<String id="StatusBit.Invalid.Value">Parado</String>
+	<String id="StatusBit.Invalid_NoCrop.Value">Inativo - nenhum corte selecionado</String>
+	<String id="StatusBit.Invalid_NoLivestock.Value">Inativo - nenhum projeto selecionado</String>
+	<String id="StatusBit.Invalid_NoProduct.Value">Inativo - nenhum produto selecionado</String>
+	<String id="StatusBit.Invalid_NoProductSupplier.Value">Inativo - nenhum fornecedor selecionado.</String>
+	<String id="StatusBit.Invalid_NoProject.Value">Inativo - nenhum projeto selecionado</String>
+	<String id="StatusBit.Invalid_NoSupplier.Value">Nenhum fornecedor</String>
+	<String id="StatusBit.LivestockDemand.Label">Demanda de gado</String>
+	<String id="StatusBit.LivestockSupply.Label">Fornecimento de gado</String>
+	<String id="StatusBit.MaxInventoryLevel.Label">Nível máximo</String>
+	<String id="StatusBit.OwnRating.Label">Avaliação</String>
+	<String id="StatusBit.Price.Label">Preço</String>
+	<String id="StatusBit.Progress.Label">Progresso</String>
+	<String id="StatusBit.ProjectSize.Label">Tamanho do projeto</String>
+	<String id="StatusBit.ProjectSize.Value" P0="number of months">{0} meses</String>
+	<String id="StatusBit.Quality.Label">Qualidade</String>
+	<String id="StatusBit.Quality.Label">Qualidade</String>
+	<String id="StatusBit.QualitySpending.Label">Custo mensal</String>
+	<String id="StatusBit.Reserve.Label">Reserva</String>
+	<String id="StatusBit.Settings.Auctions.Label">Leilões</String>
 	<String id="StatusBit.Settings.Auctions.No">Off</String>
 	<String id="StatusBit.Settings.Auctions.Yes">On</String>
-	<String id="StatusBit.Settings.CompetitorCapital.Label">Competitor capital</String>
-	<String id="StatusBit.Settings.CompetitorCount.Label">Competitors</String>
-	<String id="StatusBit.Settings.CompetitorLevel.Label">Competitor level</String>
-	<String id="StatusBit.Settings.ConstantImports.Label">Constant Imports</String>
-	<String id="StatusBit.Settings.ConstantImports.No">No</String>
-	<String id="StatusBit.Settings.ConstantImports.Yes">Yes</String>
-	<String id="StatusBit.Settings.ConsumerSeaports.Label">Consumer Seaports</String>
-	<String id="StatusBit.Settings.EconomyLevel.Label">Economy level</String>
-	<String id="StatusBit.Settings.ImportQualityLevel.Label">Imports Quality Level</String>
-	<String id="StatusBit.Settings.IndustrialSeaports.Label">Industrial Seaports</String>
-	<String id="StatusBit.Settings.LocalVendorsLevel.Label">Local vendors level</String>
-	<String id="StatusBit.Settings.NaturalResourceAmount.Label">Natural Resources</String>
-	<String id="StatusBit.Settings.PlayerCapital.Label">Player capital</String>
-	<String id="StatusBit.Settings.PriceAgreements.Label">Price Agreements</String>
+	<String id="StatusBit.Settings.CompetitorCapital.Label">Capital concorrente</String>
+	<String id="StatusBit.Settings.CompetitorCount.Label">Concorrentes</String>
+	<String id="StatusBit.Settings.CompetitorLevel.Label">Nível do concorrente</String>
+	<String id="StatusBit.Settings.ConstantImports.Label">Importações constantes</String>
+	<String id="StatusBit.Settings.ConstantImports.No">NÃO</String>
+	<String id="StatusBit.Settings.ConstantImports.Yes">Sim</String>
+	<String id="StatusBit.Settings.ConsumerSeaports.Label">Portos Marítimos de Consumo</String>
+	<String id="StatusBit.Settings.EconomyLevel.Label">Nível econômico</String>
+	<String id="StatusBit.Settings.ImportQualityLevel.Label">Nível de qualidade das importações</String>
+	<String id="StatusBit.Settings.IndustrialSeaports.Label">Portos Industriais</String>
+	<String id="StatusBit.Settings.LocalVendorsLevel.Label">Nível de fornecedores locais</String>
+	<String id="StatusBit.Settings.NaturalResourceAmount.Label">Recursos Naturais</String>
+	<String id="StatusBit.Settings.PlayerCapital.Label">Capital do jogador</String>
+	<String id="StatusBit.Settings.PriceAgreements.Label">Acordos de preços</String>
 	<String id="StatusBit.Settings.PriceAgreements.No">Off</String>
 	<String id="StatusBit.Settings.PriceAgreements.Yes">On</String>
-	<String id="StatusBit.Settings.RegionCount.Label">Regions</String>
-	<String id="StatusBit.Settings.RegionCount.Value" P0="Region count">{0} regions</String>
-	<String id="StatusBit.Settings.StockMarket.Label">Stock Market</String>
-	<String id="StatusBit.Settings.StockMarket.No">Unavailable</String>
-	<String id="StatusBit.Settings.StockMarket.Yes">Available</String>
-	<String id="StatusBit.Settings.TradeSecrets.Label">Trade Secrets</String>
+	<String id="StatusBit.Settings.RegionCount.Label">Regiões</String>
+	<String id="StatusBit.Settings.RegionCount.Value" P0="Region count">{0} regiões</String>
+	<String id="StatusBit.Settings.StockMarket.Label">Mercado de ações</String>
+	<String id="StatusBit.Settings.StockMarket.No">Indisponível</String>
+	<String id="StatusBit.Settings.StockMarket.Yes">Disponível</String>
+	<String id="StatusBit.Settings.TradeSecrets.Label">Segredos comerciais</String>
 	<String id="StatusBit.Settings.TradeSecrets.No">Off</String>
 	<String id="StatusBit.Settings.TradeSecrets.Yes">On</String>
-	<String id="StatusBit.Shipping.Label">Shipping</String>
+	<String id="StatusBit.Shipping.Label">Transporte</String>
 	<String id="StatusBit.Stock.DividendYield.Label">Dividend Yield</String>
-	<String id="StatusBit.Stock.EarningsPerShare.Label">Earnings per share</String>
-	<String id="StatusBit.Stock.EquityPerShare.Label">Equity per share</String>
+	<String id="StatusBit.Stock.EarningsPerShare.Label">Lucro por ação</String>
+	<String id="StatusBit.Stock.EquityPerShare.Label">Patrimônio por ação</String>
 	<String id="StatusBit.Stock.Label">Stock</String>
-	<String id="StatusBit.Stock.PriceEarningsRatio.Label">Price/Earnings ratio</String>
-	<String id="StatusBit.Stock.ShareCount.Label">Total # of shares</String>
-	<String id="StatusBit.Stock.StockPrice.Label">Stock price</String>
-	<String id="StatusBit.Stock.TotalReturn.Label">Total return</String>
+	<String id="StatusBit.Stock.PriceEarningsRatio.Label">Índice Preço/Lucro</String>
+	<String id="StatusBit.Stock.ShareCount.Label">Nº total de ações</String>
+	<String id="StatusBit.Stock.StockPrice.Label">Preço da ação</String>
+	<String id="StatusBit.Stock.TotalReturn.Label">Retorno total</String>
 	<String id="StatusBit.Stocks.Label">Stocks</String>
 	<String id="StatusBit.Supply.Label">Supply</String>
 	<String id="StatusBit.Technology.Label">Technology</String>
