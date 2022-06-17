@@ -989,8 +989,8 @@
 	<String id="Window.PeopleListWindow.Worth.Text">Valor</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Brand.Text">Marca</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Price.Text">Preço</String>
-	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualidade</String>
-	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.QuantityOverRevenue.QuantityText">Qtd. vendida</String>
+	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualid.</String>
+	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.QuantityOverRevenue.QuantityText">Qtd. Vend.</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.QuantityOverRevenue.RevenueText">Receita</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Rating.Text">Avaliação</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Retailer.Text">Varejista</String>
@@ -1030,8 +1030,8 @@
 	<String id="Window.ProductInformationWindow.Local.Text">Local</String>
 	<String id="Window.ProductInformationWindow.MakesHeader.Text">Usado para fazer</String>
 	<String id="Window.ProductInformationWindow.MarketShare.Text">Market share</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.CropText">Crescido em um slot de Cultivo Crescendo em uma Fazenda</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.LivestockText">Feito em um slot de processamento de animal em uma fazenda</String>
+	<String id="Window.ProductInformationWindow.ProducedIn.CropText">Cresce no slot de Cultivo na Fazenda</String>
+	<String id="Window.ProductInformationWindow.ProducedIn.LivestockText">Faz em um slot de proc. animal na fazenda</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.LoggingText">Feito em um slot de Exploração madeireira em um Acampamento madeireiro</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.ManufacturingText">Feito em um slot de manufatura em uma fábrica</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.MineText">Feito em um slot de Mineração em uma Mina</String>
