@@ -595,13 +595,13 @@
 	<String id="StatusBit.LivestockDemand.Label">Demanda de Animais</String>
 	<String id="StatusBit.LivestockSupply.Label">Fornecimento de Animais</String>
 	<String id="StatusBit.MaxInventoryLevel.Label">Nível máximo</String>
-	<String id="StatusBit.OwnRating.Label">Avaliação</String>
+	<String id="StatusBit.OwnRating.Label">Avaliaç</String>
 	<String id="StatusBit.Price.Label">Preço</String>
 	<String id="StatusBit.Progress.Label">Progresso</String>
 	<String id="StatusBit.ProjectSize.Label">Tamanho do projeto</String>
 	<String id="StatusBit.ProjectSize.Value" P0="number of months">{0} meses</String>
-	<String id="StatusBit.Quality.Label">Qualidade</String>
-	<String id="StatusBit.Quality.Label">Qualidade</String>
+	<String id="StatusBit.Quality.Label">Qualid.</String>
+	<String id="StatusBit.Quality.Label">Qualid.</String>
 	<String id="StatusBit.QualitySpending.Label">Custo mensal</String>
 	<String id="StatusBit.Reserve.Label">Reserva</String>
 	<String id="StatusBit.Settings.Auctions.Label">Leilões</String>
@@ -968,7 +968,7 @@
 	<String id="Window.LogWindow.News.Title">Notícias</String>
 	<String id="Window.LogWindow.Settings.Title">Configurações</String>
 	<String id="Window.LogWindow.Title">Registro</String>
-	<String id="Window.MergerWindow.Cash.Text">Pagar à vista</String>
+	<String id="Window.MergerWindow.Cash.Text">Pagar à vista</String>aliação
 	<String id="Window.MergerWindow.MergeButton.Text">FUNDIR CORPORAÇÕES</String>
 	<String id="Window.MergerWindow.Query.Text">Como você pagará as ações restantes?</String>
 	<String id="Window.MergerWindow.Stocks.Text">Emitir Ações</String>
@@ -989,7 +989,7 @@
 	<String id="Window.PeopleListWindow.Worth.Text">Valor</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Brand.Text">Marca</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Price.Text">Preço</String>
-	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualid.</String>
+	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualidade</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.QuantityOverRevenue.QuantityText">Qtd. Vend.</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.QuantityOverRevenue.RevenueText">Receita</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Rating.Text">Avaliação</String>
@@ -1032,12 +1032,12 @@
 	<String id="Window.ProductInformationWindow.MarketShare.Text">Market share</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.CropText">Cresce no slot de Cultivo na Fazenda</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.LivestockText">Faz em um slot de proc. animal na fazenda</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.LoggingText">Feito em um slot de Exploração madeireira em um Acampamento madeireiro</String>
+	<String id="Window.ProductInformationWindow.ProducedIn.LoggingText">Faz no slot de Expl. mad. no Acam. Mad.</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.ManufacturingText">Feito em um slot de manufatura em uma fábrica</String>
 	<String id="Window.ProductInformationWindow.ProducedIn.MineText">Feito em um slot de Mineração em uma Mina</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.OilText">Feito em um slot de Extração de Petróleo em um Poço de Petróleo</String>
+	<String id="Window.ProductInformationWindow.ProducedIn.OilText">Faz no slot de Extr. Petr. no Poço de Petróleo</String>
 	<String id="Window.ProductInformationWindow.QtySold.Text">Qtd. vendida</String>
-	<String id="Window.ProductInformationWindow.QuanityOrRevenue.QuantityText">Qtd. vendida</String>
+	<String id="Window.ProductInformationWindow.QuanityOrRevenue.QuantityText">Qtd. Vend.</String>
 	<String id="Window.ProductInformationWindow.QuanityOrRevenue.RevenueText">Receita</String>
 	<String id="Window.ProductInformationWindow.ShowRecipePanel.HideText">Ocultar painel de receitas</String>
 	<String id="Window.ProductInformationWindow.ShowRecipePanel.ShowText">Mostrar painel de receitas</String>
