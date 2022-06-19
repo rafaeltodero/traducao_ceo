@@ -421,7 +421,7 @@
 	<String id="ProductType.WheatGermOil.Title">Óleo de gérmen de trigo</String>
 	<String id="ProductType.WheelTire.Title">Roda e Pneu</String>
 	<String id="ProductType.Wine.Title">Vinho</String>
-	<String id="ProductType.Wiring.Title">Wiring</String>
+	<String id="ProductType.Wiring.Title">Fio</String>
 	<String id="ProductType.Wool.Title">Lã</String>
 	<String id="ProductType.Yogurt.Title">Iogurte</String>
 	<String id="ProfitBarChartType.Advertising.Title">Publicidade</String>
@@ -883,9 +883,9 @@
 	<String id="Window.CorporationReportWindow.Policy.DividendPercentage.Value" P0="Profit ratio">{0:0.00%} dos lucros</String>
 	<String id="Window.CorporationReportWindow.Policy.Liquidation.Text">Liquidar</String>
 	<String id="Window.CorporationReportWindow.Policy.LiquidationButton.Text">LIQUIDAR A CORPORAÇÃO</String>
-	<String id="Window.CorporationReportWindow.Policy.NewBuildingDefaults.AutoApplyTech.Text">Aplicar automaticamente os avanços tecnológicos às unidades fabris</String>
+	<String id="Window.CorporationReportWindow.Policy.NewBuildingDefaults.AutoApplyTech.Text">Aplicar automa. os avanços tecnológicos às unidades fabris</String>
 	<String id="Window.CorporationReportWindow.Policy.NewBuildingDefaults.DefaultInternal.Text">Novos produtos padrão para vendas internas</String>
-	<String id="Window.CorporationReportWindow.Policy.NewBuildingDefaults.Text">New Building Defaults</String>
+	<String id="Window.CorporationReportWindow.Policy.NewBuildingDefaults.Text">Padrão para Novas Construções</String>
 	<String id="Window.CorporationReportWindow.Policy.QuarterlyDividend.Text">Dividendo Trimestral</String>
 	<String id="Window.CorporationReportWindow.Policy.Title">Política</String>
 	<String id="Window.CorporationReportWindow.Policy.YearlyBonus.Text">Bônus Anual</String>
