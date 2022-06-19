@@ -17,7 +17,7 @@
 	<String id="Action.Log.ToolTip">Log</String>
 	<String id="Action.MyCorporationReport.ToolTip">Relatório da Minha Empresa</String>
 	<String id="Action.NaturalResourcesList.ToolTip">Recursos naturais</String>
-	<String id="Action.Overlay.Corporations.ToolTip">Building ownership</String>
+	<String id="Action.Overlay.Corporations.ToolTip">Posse da construção</String>
 	<String id="Action.Overlay.LandValue.ToolTip">Valor do terreno</String>
 	<String id="Action.Overlay.None.ToolTip">Nenhum</String>
 	<String id="Action.Overlay.Profitability.ToolTip">Lucratividade</String>
@@ -438,10 +438,10 @@
 	<String id="ProfitBarChartType.StockReturn.Title">Stock returns</String>
 	<String id="ProfitBarChartType.Stocks.Title">Owned stock value</String>
 	<String id="ProfitBarChartType.WriteOffs.Title">Baixas</String>
-	<String id="Region.1.Name">The North</String>
-	<String id="Region.2.Name">The South</String>
-	<String id="Region.3.Name">The East</String>
-	<String id="Region.4.Name">The West</String>
+	<String id="Region.1.Name">O Norte</String>
+	<String id="Region.2.Name">O Sul</String>
+	<String id="Region.3.Name">O Leste</String>
+	<String id="Region.4.Name">O Oeste</String>
 	<String id="Region.5.Name">Midlands</String>
 	<String id="Region.6.Name">Seaside</String>
 	<String id="Region.7.Name">Oceanside</String>
@@ -498,7 +498,7 @@
 	<String id="Scene.MultiplayerLobby.Chat.Text">Chat</String>
 	<String id="Scene.MultiplayerLobby.ConfigureButton.Text">CONFIGURAR</String>
 	<String id="Scene.MultiplayerLobby.GameSettingsButton.Text">CONFIGURAÇÕES DO JOGO</String>
-	<String id="Scene.MultiplayerLobby.Goals.Text">Objectivos</String>
+	<String id="Scene.MultiplayerLobby.Goals.Text">Objetivos</String>
 	<String id="Scene.MultiplayerLobby.LeaveGameButton.Text">DEIXAR O JOGO</String>
 	<String id="Scene.MultiplayerLobby.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.MultiplayerLobby.Players.Text">Jogadores</String>
@@ -526,7 +526,7 @@
 	<String id="Settings.Level4">Muito alto</String>
 	<String id="Status.AquiredBuildingLogEntry.Text" P0="Building.Owner" P1="Building.GetName()" P2="oldOwner.Name" P3="price">{0} comprado {1} de {2} por {3:n0}</String>
 	<String id="Status.AquiredTechnologyLogEntry.FailureText" P0="Buyer.Name" P1="None(always 0)" P2="ProductType.Title" P3="Seller.Name">{0} e {3} não concordaram com o comércio de tecnologia {2}</String>
-	<String id="Status.AquiredTechnologyLogEntry.Text" P0="Buyer.Name" P1="Level" P2="ProductType.Title" P3="Seller.Name">{0} adquiriu o nível {1} ​​de tecnologia {2} de {3}</String>
+	<String id="Status.AquiredTechnologyLogEntry.Text" P0="Buyer.Name" P1="Level" P2="ProductType.Title" P3="Seller.Name">{0} adquiriu o nível {1} de tecnologia {2} de {3}</String>
 	<String id="Status.AquiredTechnologyLogEntry.Text" P0="buyer.Name" P1="targetLevel" P2="product.Title" P3="seller.Name">{0} adquiriu o nível de tecnologia {1} de {2} de {3}</String>
 	<String id="Status.AuctionBidLogEntry.Text" P0="Bidder.Name" P1="BidValue" P2="Target">{0} lance {1:n0} para {2}</String>
 	<String id="Status.AuctionOfferStartedLogEntry.BuildingStarted.Text">Leilão de construção iniciado</String>
@@ -657,8 +657,8 @@
 	<String id="StockOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.Ask50Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.RejectButton.ToolTip">Rejeitar oferta</String>
-	<String id="TechnologyOfferCard.AcceptButton.ToolTip">Accept offer</String>
-	<String id="TechnologyOfferCard.Ask100Button.ToolTip">Ask for 100% more</String>
+	<String id="TechnologyOfferCard.AcceptButton.ToolTip">Aceitar oferta</String>
+	<String id="TechnologyOfferCard.Ask100Button.ToolTip">Pedir 100% mais</String>
 	<String id="TechnologyOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
 	<String id="TechnologyOfferCard.Ask50Button.ToolTip">Pedir mais 25%</String>
 	<String id="TechnologyOfferCard.RejectButton.ToolTip">Rejeitar oferta</String>
