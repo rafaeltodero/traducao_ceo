@@ -58,7 +58,7 @@
 	<String id="BuildingType.Factory.Count" P0="count">{0} fábricas</String>
 	<String id="BuildingType.Factory.Title">Fábrica</String>
 	<String id="BuildingType.Farm.Count" P0="count">{0} fazendas</String>
-	<String id="BuildingType.Farm.Title">Farm</String>
+	<String id="BuildingType.Farm.Title">Fazenda</String>
 	<String id="BuildingType.IndustrialSeaport.Count" P0="count">{0} porto de mercadorias industriais</String>
 	<String id="BuildingType.IndustrialSeaport.Title">Porto de mercadorias industriais</String>
 	<String id="BuildingType.LoggingCamp.Count" P0="count">{0} acampamento Madereiro</String>
@@ -208,7 +208,7 @@
 	<String id="Panel.NaturalResourceAuctionCard.MadeBidButton.Text">FAZER LANCE</String>
 	<String id="Panel.NaturalResourceAuctionCard.NextBidLabel.Text">Próximo lance:</String>
 	<String id="Panel.OfferCard.StatusAsk.Text">Ask</String>
-	<String id="Panel.OfferCard.StatusBid.Text">Bid</String>
+	<String id="Panel.OfferCard.StatusBid.Text">Proposta</String>
 	<String id="Panel.ProductDetailCard.ProductionMarketShareHeader.BrandText">Marca</String>
 	<String id="Panel.ProductDetailCard.ProductionMarketShareHeader.ProductionText">Produção</String>
 	<String id="Panel.ProductDetailCard.Retail.Text">Varejo</String>
