@@ -1,32 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
 <Language name="Brazilian Portuguese" Culture="pt-BR">
 
-	<String id="Action.Auctions.ToolTip">Leilões</String>
+
+	<String id="Action.Auctions.ToolTip">Auctions|List of all ongoing auctions and stock/technology offers <= Linha alterada => Leilões</String>
 	<String id="Action.Build.Factory.ToolTip">Construir fábrica</String>
 	<String id="Action.Build.Farm.ToolTip">Construir fazenda</String>
-	<String id="Action.Build.LoggingCamp.ToolTip">Construir acampamento Madereiro</String>
+	<String id="Action.Build.LoggingCamp.ToolTip">Build  logging camp <= Linha alterada => Construir acampamento Madereiro</String>
 	<String id="Action.Build.Mine.ToolTip">Construir mina</String>
 	<String id="Action.Build.Offices.ToolTip">Construir escritórios</String>
 	<String id="Action.Build.OilWell.ToolTip">Construir poço de petróleo</String>
 	<String id="Action.Build.Store.ToolTip">Construir loja</String>
 	<String id="Action.Build.Warehouse.ToolTip">Construir armazém</String>
-	<String id="Action.BuildingsList.ToolTip">Edifícios</String>
+	<String id="Action.BuildingsList.ToolTip">Buildings|Filterable list of all buildings <= Linha alterada => Edifícios</String>
 	<String id="Action.ConstructionButton.ToolTip">Construir novo edifício</String>
-	<String id="Action.CorporationsList.ToolTip">Corporações</String>
+	<String id="Action.CorporationsList.ToolTip">Corporations|List of all corporations; gives access to other corporations' Corporate Report <= Linha alterada => Corporações</String>
+	<String id="Action.Guide.ToolTip">Guide|Learn about products and buildings <= Linha nova }</String>
 	<String id="Action.LoansList.ToolTip">Empréstimos Bancários</String>
-	<String id="Action.Log.ToolTip">Log</String>
-	<String id="Action.MyCorporationReport.ToolTip">Relatório da Minha Empresa</String>
-	<String id="Action.NaturalResourcesList.ToolTip">Recursos naturais</String>
+	<String id="Action.Log.ToolTip">Log|Log of news items, split by general news and financial.|Has settings to set which news pop up on screen <= Linha alterada => Log</String>
+	<String id="Action.MyCorporationReport.ToolTip">My Corporation Report|All details about your corporation|(To see the report for other corporations, open the Corporations list) <= Linha alterada => Relatório da Minha Empresa</String>
+	<String id="Action.NaturalResourcesList.ToolTip">Natural resources|List of all existing natural resources <= Linha alterada => Recursos naturais</String>
 	<String id="Action.Overlay.Corporations.ToolTip">Posse da construção</String>
 	<String id="Action.Overlay.LandValue.ToolTip">Valor do terreno</String>
 	<String id="Action.Overlay.None.ToolTip">Nenhum</String>
 	<String id="Action.Overlay.Profitability.ToolTip">Lucratividade</String>
-	<String id="Action.OverlayPanel.ToolTip">Sobreposição de mapa</String>
-	<String id="Action.PeopleList.ToolTip">Pessoas</String>
-	<String id="Action.ProductsList.ToolTip">Produtos</String>
-	<String id="Action.RegionsList.ToolTip">Regiões</String>
+	<String id="Action.OverlayPanel.ToolTip">Map overlay|Overlay geographic information on the region map <= Linha alterada => Sobreposição de mapa</String>
+	<String id="Action.PeopleList.ToolTip">People|List of people (players and investors) in the world <= Linha alterada => Pessoas</String>
+	<String id="Action.ProductsList.ToolTip">Products|Lists all known products with their financial indicators and marketing information <= Linha alterada => Produtos</String>
+	<String id="Action.RegionsList.ToolTip">Regions|Lists available regions in the world <= Linha alterada => Regiões</String>
 	<String id="Action.StockMarket.ToolTip">Bolsa de Valores</String>
 	<String id="Action.ToggleMinimap.ToolTip">Alternar minimapa</String>
+	<String id="AuctionOfferCard.NoCashWarning">Low cash warning <= Linha nova }</String>
 	<String id="BalanceSheetType.Assets.Title">Ativos</String>
 	<String id="BalanceSheetType.Cash.Title">Dinheiro</String>
 	<String id="BalanceSheetType.CommonStock.Title">Ações Ordinárias</String>
@@ -44,6 +47,7 @@
 	<String id="Building.Product.DecreasePriceButton.ToolTip">Diminuir preço</String>
 	<String id="Building.Product.IncreasePriceButton.ToolTip">Aumentar preço</String>
 	<String id="Building.Product.InternalSalesCheckbox.ToolTip">Venda apenas para seus próprios prédios</String>
+	<String id="Building.Product.StoreManager.ToolTip">Price controlled by Store Manager <= Linha nova }</String>
 	<String id="Building.Product.WarehouseOnlyCheckbox.ToolTip">Só vender para armazéns</String>
 	<String id="BuildingAuctionCard.GotoButton.ToolTip">Mostrar no mapa</String>
 	<String id="BuildingAuctionCard.OpenButton.ToolTip">Abrir edifício</String>
@@ -83,6 +87,12 @@
 	<String id="DepartmentType.Advertising.Title">Publicidade</String>
 	<String id="DepartmentType.CropGrowing.NoProductText">Nenhuma cultura</String>
 	<String id="DepartmentType.CropGrowing.Title">Cultivo</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Growing <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Growing <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Harvesting">Harvesting <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.None">- <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Sowing">Sowing <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Waiting">Waiting <= Linha nova }</String>
 	<String id="DepartmentType.Inventory.Title">Inventário</String>
 	<String id="DepartmentType.LivestockProcessing.Title">Processamento de Animais</String>
 	<String id="DepartmentType.LivestockRaising.NoProductText">Sem animais</String>
@@ -97,7 +107,6 @@
 	<String id="DepartmentType.Research.Title">Pesquisa</String>
 	<String id="DepartmentType.Sales.Title">Vendas</String>
 	<String id="DepartmentType.StoreManager.Title">Gerente de Loja</String>
-	<String id="IncomeStatementType.ProfitMargin.Title">Margem de Lucro</String>
 	<String id="IncomeStatementType.Advertising.Title">Publicidade</String>
 	<String id="IncomeStatementType.Construction.Title">Construção</String>
 	<String id="IncomeStatementType.EmployeeWages.Title">Salários</String>
@@ -108,6 +117,7 @@
 	<String id="IncomeStatementType.NetProfit.Title">Lucro líquido</String>
 	<String id="IncomeStatementType.OperatingOverhead.Title">Despesas gerais</String>
 	<String id="IncomeStatementType.Other.Title">Outros</String>
+	<String id="IncomeStatementType.ProfitMargin.Title">Margem de Lucro</String>
 	<String id="IncomeStatementType.PurchaseCost.Title">Custo de compra</String>
 	<String id="IncomeStatementType.SalesRevenue.Title">Receita</String>
 	<String id="IncomeStatementType.StockReturn.Title">Retorno das ações</String>
@@ -128,6 +138,7 @@
 	<String id="LogEntryCategory.Auctions.Title">Leilões</String>
 	<String id="LogEntryCategory.Miscellaneous.Title">Diversos</String>
 	<String id="LogEntryCategory.NewOffer.Title">Ofertas</String>
+	<String id="LogEntryCategory.NewResources.Title">New natural resources <= Linha nova }</String>
 	<String id="LogEntryCategory.OtherCorporationsBuilding.Title">Outras construções</String>
 	<String id="LogEntryCategory.OtherStocks.Title">Outras negociações de ações</String>
 	<String id="LogEntryCategory.PlayerCorporationBuilding.Title">Construção do jogador</String>
@@ -188,6 +199,7 @@
 	<String id="Panel.CorporationReportBrandCard.MonthlySpending.Text">Gastos mensais</String>
 	<String id="Panel.CorporationReportBrandCard.Rating.Text">Avaliação</String>
 	<String id="Panel.CorporationReportProductCard.CurrentResearch.Text">Pesquisa atual</String>
+	<String id="Panel.CorporationReportProductCard.CurrentResearch.TradeSecret">Researching <= Linha nova }</String>
 	<String id="Panel.CorporationReportProductCard.Technology.Text">Tecnologia</String>
 	<String id="Panel.CorporationSummaryCard.AnnualProfit.Text">Lucro anual</String>
 	<String id="Panel.CorporationSummaryCard.AnnualRevenue.Text">Receita anual</String>
@@ -204,6 +216,7 @@
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Dismissive">Não</String>
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Query" P0="Player's name">Expulsar {0} do jogo?</String>
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Title">Expulsar</String>
+	<String id="Panel.LobbyPlayerCard.Ready">Ready <= Linha nova }</String>
 	<String id="Panel.NaturalResourceAuctionCard.LeadingBidLabel.Text">Lance principal:</String>
 	<String id="Panel.NaturalResourceAuctionCard.MadeBidButton.Text">FAZER LANCE</String>
 	<String id="Panel.NaturalResourceAuctionCard.NextBidLabel.Text">Próximo lance:</String>
@@ -216,6 +229,8 @@
 	<String id="Panel.ProductDetailCorporateTechCard.AnnualRevenue.Label">Receita Anual</String>
 	<String id="Panel.ProductDetailCorporateTechCard.CurrentResearch.Label">Pesquisa atual</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Level.Label">Nível</String>
+	<String id="Panel.ProductDetailCorporateTechCard.OfferBuy.Text">OFFER TO BUY <= Linha nova }</String>
+	<String id="Panel.ProductDetailCorporateTechCard.TechLevelToBuy.Label">Tech. level <= Linha nova }</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Technology.Label">Tecnologia</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Value.Label">Valor</String>
 	<String id="Panel.ProductDetailRetailAverageCard.ConcernLabel.Text">Interesse:</String>
@@ -255,6 +270,7 @@
 	<String id="Panel.TechnologyOfferCard.CurrentLevel.Text">Nível atual</String>
 	<String id="Panel.TechnologyOfferCard.DeclineButton.Text">NÃO</String>
 	<String id="Panel.TechnologyOfferCard.Product.Text" P0="TechnologyLevel" P1="Product title">Nível {0:n0} de {1}</String>
+	<String id="Panel.TechnologyOfferCard.Title">Technology offer <= Linha nova }</String>
 	<String id="Panel.TechnologyOfferCard.TopLevel.Text">Top level</String>
 	<String id="Panel.Tutorial.Continue.Text">CONTINUE</String>
 	<String id="PlayerDisconnectReason.Authentication">Autenticação</String>
@@ -267,7 +283,7 @@
 	<String id="ProductClass.AnimalProducts.Title">Produtos Animais</String>
 	<String id="ProductClass.Appliances.Title">Eletrodomésticos</String>
 	<String id="ProductClass.Automotive.Title">Automotivo</String>
-	<String id="ProductClass.BeautyPersonalCare.Title">Beleza &amp; Cuidado Pessoal</String>
+	<String id="ProductClass.BeautyPersonalCare.Title">Beauty &amp; Personal Care <= Linha alterada => Beleza &amp; Cuidado Pessoal</String>
 	<String id="ProductClass.Beverages.Title">Bebidas</String>
 	<String id="ProductClass.Computers.Title">Computadores</String>
 	<String id="ProductClass.Crops.Title">Crops</String>
@@ -277,7 +293,7 @@
 	<String id="ProductClass.Furniture.Title">Móveis</String>
 	<String id="ProductClass.Gadgets.Title">Gadgets</String>
 	<String id="ProductClass.Health.Title">Saúde</String>
-	<String id="ProductClass.HealthHygiene.Title">Saúde &amp; Higiene</String>
+	<String id="ProductClass.HealthHygiene.Title">Health &amp; Hygiene <= Linha alterada => Saúde &amp; Higiene</String>
 	<String id="ProductClass.Household.Title">Doméstico</String>
 	<String id="ProductClass.Intermediate.Title">Intermediário</String>
 	<String id="ProductClass.Jewelry.Title">Jóias</String>
@@ -438,15 +454,21 @@
 	<String id="ProfitBarChartType.StockReturn.Title">Stock returns</String>
 	<String id="ProfitBarChartType.Stocks.Title">Owned stock value</String>
 	<String id="ProfitBarChartType.WriteOffs.Title">Baixas</String>
+	<String id="Recipe.ProducedIn.CropText">Grown in a Crop Growing slot in a Farm <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.LivestockText">Made in a Livestock Processing slot in a Farm <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.LoggingText">Made in a Logging slot in a Logging camp <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.ManufacturingText">Made in a Manufacturing slot in a Factory <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.MineText">Made in a Mining slot in a Mine <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.OilText">Made in an Oil Extraction slot in an Oil Well <= Linha nova }</String>
 	<String id="Region.1.Name">O Norte</String>
 	<String id="Region.2.Name">O Sul</String>
+	<String id="Region.255.Name">Tutorialville</String>
 	<String id="Region.3.Name">O Leste</String>
 	<String id="Region.4.Name">O Oeste</String>
 	<String id="Region.5.Name">Midlands</String>
 	<String id="Region.6.Name">Seaside</String>
 	<String id="Region.7.Name">Oceanside</String>
 	<String id="Region.8.Name">Lakeside</String>
-	<String id="Region.255.Name">Tutorialville</String>
 	<String id="RichPeople.Elon Musk">Elon Musk</String>
 	<String id="RichPeople.Jeff Bezos">Jeff Bezos</String>
 	<String id="Scenario.Barren.Description">Regiões áridas incapazes de manter os animais ou de produzir plantações, mas com importações industriais extra</String>
@@ -476,8 +498,17 @@
 	<String id="Scene.CustomGame.StartGameButton.Text">INICIAR JOGO</String>
 	<String id="Scene.CustomGame.WorldSettings.Text">Configurações do Mundo</String>
 	<String id="Scene.GameResults.DetailedScore.Text">Pontuação detalhada</String>
+	<String id="Scene.GameResults.Goals.Text">Goals <= Linha nova }</String>
+	<String id="Scene.GameResults.MultiplayerNoCorporation.Text">No corporation <= Linha nova }</String>
+	<String id="Scene.GameResults.NoCorporation.Text">Liquidated <= Linha nova }</String>
+	<String id="Scene.GameResults.NotCompleted.Text">Game not completed <= Linha nova }</String>
 	<String id="Scene.GameResults.OkButton.Text">OK</String>
 	<String id="Scene.GameResults.Players.Text">Jogadores</String>
+	<String id="Scene.GameResults.Result.AchievedGoals.Text">You achieved all goals <= Linha nova }</String>
+	<String id="Scene.GameResults.Result.FailedAchieveGoals.Text">You failed to achieve all goals <= Linha nova }</String>
+	<String id="Scene.GameResults.Result.MultiplayerNoCorporation.Text">You do not control a corporation - you failed the game <= Linha nova }</String>
+	<String id="Scene.GameResults.Result.NoCorporation.Text">Your corporation was liquidated - you failed the game <= Linha nova }</String>
+	<String id="Scene.GameResults.Result.NoGoals.Text">Game is over <= Linha nova }</String>
 	<String id="Scene.GameResults.ScoreLabel.Text">Pontos:</String>
 	<String id="Scene.MainLobby.ContinueButton.Text">CONTINUAR O JOGO</String>
 	<String id="Scene.MainLobby.CreditsButton.Text">CRÉDITOS</String>
@@ -489,10 +520,19 @@
 	<String id="Scene.MainLobby.ScenariosButton.Text">CENÁRIOS</String>
 	<String id="Scene.MainLobby.TutorialsButton.Text">TUTORIAIS</String>
 	<String id="Scene.Multiplayer.DirectConnectButton.Text">CONEXÃO DIRETA</String>
+	<String id="Scene.Multiplayer.GameList.NoGames1">No games found <= Linha nova }</String>
+	<String id="Scene.Multiplayer.GameList.NoGames2">Wait for a game to be created or start a new game yourself <= Linha nova }</String>
 	<String id="Scene.Multiplayer.HostGameButton.Text">NOVO JOGO</String>
 	<String id="Scene.Multiplayer.JoinGameButton.Text">ENTRAR NO JOGO</String>
 	<String id="Scene.Multiplayer.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Multiplayer.MultiplayerGames.Text">Jogos Multiplayer</String>
+	<String id="Scene.Multiplayer.NewGame.CreateGame.Text">CREATE GAME <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.GameName.HintText">Game name <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.GameName.Label">Game name <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.MaxPlayers.Label">Max players <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.Password.HintText">Optional password <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.Password.Label">Password <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.Title">New game <= Linha nova }</String>
 	<String id="Scene.Multiplayer.SwitchLanGameButton.Text">LAN</String>
 	<String id="Scene.MultiplayerLobby.AbortGameButton.Text">ABORTAR JOGO</String>
 	<String id="Scene.MultiplayerLobby.Chat.Text">Chat</String>
@@ -514,6 +554,12 @@
 	<String id="Scene.Tutorials.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Tutorials.StartButton.Text">INICIAR</String>
 	<String id="Scene.Tutorials.StartGameButton.Text">INICIAR JOGO</String>
+	<String id="Settings.Difficulty0">Very easy <= Linha nova }</String>
+	<String id="Settings.Difficulty1">Easy <= Linha nova }</String>
+	<String id="Settings.Difficulty2">Normal <= Linha nova }</String>
+	<String id="Settings.Difficulty3">Hard <= Linha nova }</String>
+	<String id="Settings.Difficulty4">Very hard <= Linha nova }</String>
+	<String id="Settings.DifficultyCustom">Custom <= Linha nova }</String>
 	<String id="Settings.EconomyLevel0">Muito fácil</String>
 	<String id="Settings.EconomyLevel1">Fácil</String>
 	<String id="Settings.EconomyLevel2">Normal</String>
@@ -558,32 +604,77 @@
 	<String id="Status.SupplyLostLogEntry.Text" P0="Purchasing.Building.GetName()" P1="Purchasing.ProductType.Title">{0} perdeu o fornecimento de {1}</String>
 	<String id="Status.TechUpgradeAvailableLogEntry.Text" P0="Manufacturing.Building.GetName()" P1="Manufacturing.ProductType.Title">{0} pode atualizar a tecnologia de {1}</String>
 	<String id="StatusBit.Advancement.Label">Progresso</String>
+	<String id="StatusBit.Advancement.ToolTip">The increase in technology levels after this project completes <= Linha nova }</String>
 	<String id="StatusBit.AdvertisingSpending.Label">Custo mensal</String>
+	<String id="StatusBit.AdvertisingSpending.ToolTip">How much is spent per month for advertising by this unit <= Linha nova }</String>
 	<String id="StatusBit.AnimalCount.Label">Rebanho</String>
+	<String id="StatusBit.AnimalCount.ToolTip">Size of the herd in number of animals <= Linha nova }</String>
+	<String id="StatusBit.AnimalDemand.Label">Demand <= Linha nova }</String>
+	<String id="StatusBit.AnimalDemand.ToolTip">Current Demand for this livestock.  If this bar is higher than Supply-bar, the herd is too small to meet demand. <= Linha nova }</String>
+	<String id="StatusBit.AnimalQuality.Label">Quality <= Linha nova }</String>
+	<String id="StatusBit.AnimalQuality.ToolTip">The livestock's current quality <= Linha nova }</String>
+	<String id="StatusBit.AnimalSupply.Label">Supply <= Linha nova }</String>
+	<String id="StatusBit.AnimalSupply.ToolTip">Currently available Supply of this livestock.  If bar is full, the herd is big enough to meet the demand. <= Linha nova }</String>
 	<String id="StatusBit.Availability.Label">Disponibilidade</String>
+	<String id="StatusBit.Availability.ToolTip">Period this product is available (can be produced) <= Linha nova }</String>
+	<String id="StatusBit.AverageBrand.Label">Brand <= Linha nova }</String>
+	<String id="StatusBit.AverageBrand.ToolTip">Average Brand-rating of products sold <= Linha nova }</String>
+	<String id="StatusBit.AveragePrice.Label">Price <= Linha nova }</String>
+	<String id="StatusBit.AveragePrice.ToolTip">Average price of products sold <= Linha nova }</String>
+	<String id="StatusBit.AverageQuality.Label">Quality <= Linha nova }</String>
+	<String id="StatusBit.AverageQuality.ToolTip">Average Quality-rating of products sold <= Linha nova }</String>
+	<String id="StatusBit.AverageRating.Label">Rating <= Linha nova }</String>
+	<String id="StatusBit.AverageRating.ToolTip">Average (weighted) rating of products sold <= Linha nova }</String>
 	<String id="StatusBit.Brand.Label">Marca</String>
+	<String id="StatusBit.Brand.ToolTip">The current rating for this brand <= Linha nova }</String>
 	<String id="StatusBit.BrandConcern.Label">Preocupação com a marca</String>
+	<String id="StatusBit.BrandConcern.ToolTip">Shows the effect the Brand rating has on the overall product rating. <= Linha nova }</String>
 	<String id="StatusBit.Cash.Label">Dinheiro</String>
+	<String id="StatusBit.ContainerPerDay.Label">Container/day <= Linha nova }</String>
+	<String id="StatusBit.ContainerPerDay.ToolTip">Number of containers produced per day in a size 1 unit at 100% efficiency <= Linha nova }</String>
+	<String id="StatusBit.ContainerPerDay.Value" P="unit count">{0:n0} <= Linha nova }</String>
 	<String id="StatusBit.Cost.Label">Custo</String>
+	<String id="StatusBit.Cost.ToolTip">Cost per unit <= Linha nova }</String>
+	<String id="StatusBit.CropProgress.Label">Progress <= Linha nova }</String>
+	<String id="StatusBit.CropProgress.ToolTip">The current stage of the growing process.  The progress bar starts at sowing and stops at the end of harvesting <= Linha nova }</String>
 	<String id="StatusBit.CurrentLevel.Label">Nível tecnológico atual</String>
+	<String id="StatusBit.CurrentLevel.ToolTip">Corporation's current Technology level <= Linha nova }</String>
 	<String id="StatusBit.Demand.Label">Demanda</String>
+	<String id="StatusBit.Demand.ToolTip">Current Demand for this product.  If this bar is higher than Supply-bar, there is not enough supply to meet demand. <= Linha nova }</String>
 	<String id="StatusBit.Efficiency.Label">Eficiência</String>
+	<String id="StatusBit.Efficiency.ToolTip">The efficiency of this unit.|Higher efficiency units can move/store/produce more units per day.|Can be increased with training. <= Linha nova }</String>
 	<String id="StatusBit.Exhausted.Value">O recurso está esgotado</String>
+	<String id="StatusBit.FreightPerContainer.Label">Freight/container <= Linha nova }</String>
+	<String id="StatusBit.FreightPerContainer.ToolTip">Base freight cost per container|Adjusted for distance|Freight to or from a warehouse only pays 1/3 <= Linha nova }</String>
+	<String id="StatusBit.FreightPerContainer.Value" P="cost per container">{0:n2} <= Linha nova }</String>
 	<String id="StatusBit.Goals.IndustriesDomineered.Label">Indústrias dominadas</String>
+	<String id="StatusBit.Goals.IndustriesDomineered.LongLabel"># of industries domineered <= Linha nova }</String>
 	<String id="StatusBit.Goals.MaxYears.Label">Máx. de anos</String>
+	<String id="StatusBit.Goals.MaxYears.LongLabel">Years to accomplish goals <= Linha nova }</String>
 	<String id="StatusBit.Goals.MaxYears.Value" P0="years elapsed" P1="target max years">{0:n0} de {1:n0} anos</String>
 	<String id="StatusBit.Goals.NetWorth.Label">Patrimônio líquido</String>
+	<String id="StatusBit.Goals.NetWorth.LongLabel">Net worth <= Linha nova }</String>
 	<String id="StatusBit.Goals.Ownership.Label">Propriedade</String>
+	<String id="StatusBit.Goals.Ownership.LongLabel">Personal ownership <= Linha nova }</String>
 	<String id="StatusBit.Goals.PersonNetWorth.Label">Patrimônio líquido pessoal</String>
+	<String id="StatusBit.Goals.PersonNetWorth.LongLabel">Personal net worth <= Linha nova }</String>
 	<String id="StatusBit.Goals.PersonNetWorthWorldRanking.Label">Os mais ricos do mundo</String>
 	<String id="StatusBit.Goals.ProductClassesDomineered.Label">Classes de produtos dominadas</String>
+	<String id="StatusBit.Goals.ProductClassesDomineered.LongLabel"># of product classes domineered <= Linha nova }</String>
 	<String id="StatusBit.Goals.ProductClassesProduced.Label">Classes de produtos produzidos</String>
+	<String id="StatusBit.Goals.ProductClassesProduced.LongLabel"># of product classes produced <= Linha nova }</String>
 	<String id="StatusBit.Goals.ProductTypesDomineered.Label">Tipos de produtos dominados</String>
+	<String id="StatusBit.Goals.ProductTypesDomineered.LongLabel"># of product types domineered <= Linha nova }</String>
 	<String id="StatusBit.Goals.ProductTypesProduced.Label">Tipos de produtos produzidos</String>
+	<String id="StatusBit.Goals.ProductTypesProduced.LongLabel"># of product types produced <= Linha nova }</String>
 	<String id="StatusBit.Goals.Profit.Label">Lucro anual</String>
+	<String id="StatusBit.Goals.Profit.LongLabel">Annual profit <= Linha nova }</String>
 	<String id="StatusBit.Goals.ProfitMargin.Label">Margem de lucro</String>
+	<String id="StatusBit.Goals.ProfitMargin.LongLabel">Profit margin <= Linha nova }</String>
 	<String id="StatusBit.Goals.Revenue.Label">Receita anual</String>
+	<String id="StatusBit.Goals.Revenue.LongLabel">Annual revenue <= Linha nova }</String>
 	<String id="StatusBit.GrowPeriod.Label">Período de crescimento</String>
+	<String id="StatusBit.GrowPeriod.ToolTip">The first month is the sowing month, the last is the harvesting month.  The months in between is when the crops are growing. <= Linha nova }</String>
 	<String id="StatusBit.InputQualityN.Label" P0="Product type title">{0} Qualidade</String>
 	<String id="StatusBit.Invalid.Value">Parado</String>
 	<String id="StatusBit.Invalid_NoCrop.Value">Inativo - nenhum corte selecionado</String>
@@ -593,23 +684,43 @@
 	<String id="StatusBit.Invalid_NoProject.Value">Inativo - nenhum projeto selecionado</String>
 	<String id="StatusBit.Invalid_NoSupplier.Value">Nenhum fornecedor</String>
 	<String id="StatusBit.LivestockDemand.Label">Demanda de Animais</String>
+	<String id="StatusBit.LivestockDemand.ToolTip">This unit's current Demand for livestock.  If this bar is higher than Supply-bar, the herds are too small to meet demand. <= Linha nova }</String>
 	<String id="StatusBit.LivestockSupply.Label">Fornecimento de Animais</String>
+	<String id="StatusBit.LivestockSupply.ToolTip">Currently available Supply of this product.  If bar is full, the herds are big enough to meet this unit's demand. <= Linha nova }</String>
+	<String id="StatusBit.LocalVendorsBrand.Label">Brand <= Linha nova }</String>
+	<String id="StatusBit.LocalVendorsPrice.Label">Price <= Linha nova }</String>
+	<String id="StatusBit.LocalVendorsQuality.Label">Quality <= Linha nova }</String>
+	<String id="StatusBit.LocalVendorsRating.Label">Rating <= Linha nova }</String>
+	<String id="StatusBit.ManufacturingInputQuality.ToolTip">The quality of this input product and its effect on the manufactured product's quality <= Linha nova }</String>
+	<String id="StatusBit.ManufacturingInputStock.ToolTip">Current stock level of this input product <= Linha nova }</String>
+	<String id="StatusBit.ManufacturingTechnology.Label">Technology <= Linha nova }</String>
+	<String id="StatusBit.ManufacturingTechnology.ToolTip">Current technology and its effect on the manufactured product's quality <= Linha nova }</String>
 	<String id="StatusBit.MaxInventoryLevel.Label">Nível máximo</String>
 	<String id="StatusBit.OwnRating.Label">Avaliaç</String>
+	<String id="StatusBit.OwnRating.ToolTip">Product's current Rating|Rating is a combination of Brand rating, Quality rating and Price attractiveness <= Linha nova }</String>
 	<String id="StatusBit.Price.Label">Preço</String>
-	<String id="StatusBit.Progress.Label">Progresso</String>
+	<String id="StatusBit.Price.ToolTip">Price per unit <= Linha nova }</String>
+	<String id="StatusBit.Production.Label">Production <= Linha nova }</String>
+	<String id="StatusBit.Production.ToolTip">Number of units produced yesterday and yesterday's production capacity <= Linha nova }</String>
 	<String id="StatusBit.ProjectSize.Label">Tamanho do projeto</String>
+	<String id="StatusBit.ProjectSize.ToolTip">Size of the project in months <= Linha nova }</String>
 	<String id="StatusBit.ProjectSize.Value" P0="number of months">{0} meses</String>
 	<String id="StatusBit.Quality.Label">Qualid.</String>
-	<String id="StatusBit.Quality.Label">Qualid.</String>
+	<String id="StatusBit.Quality.ToolTip">The product's current quality <= Linha nova }</String>
 	<String id="StatusBit.QualitySpending.Label">Custo mensal</String>
+	<String id="StatusBit.QualitySpending.ToolTip">How much is spent per month to increase quality in this unit <= Linha nova }</String>
+	<String id="StatusBit.ResearchProgress.Label">Progress <= Linha nova }</String>
+	<String id="StatusBit.ResearchProgress.ToolTip">Shows the progress of this research progress.  Project ends when bar is full. <= Linha nova }</String>
 	<String id="StatusBit.Reserve.Label">Reserva</String>
+	<String id="StatusBit.Reserve.ToolTip">How much natural resource is left to extract before this resource is exhausted <= Linha nova }</String>
+	<String id="StatusBit.Settings.Auctions.CheckboxLabel">Use auctions <= Linha nova }</String>
 	<String id="StatusBit.Settings.Auctions.Label">Leilões</String>
 	<String id="StatusBit.Settings.Auctions.No">Off</String>
 	<String id="StatusBit.Settings.Auctions.Yes">On</String>
 	<String id="StatusBit.Settings.CompetitorCapital.Label">Capital concorrente</String>
 	<String id="StatusBit.Settings.CompetitorCount.Label">Concorrentes</String>
 	<String id="StatusBit.Settings.CompetitorLevel.Label">Nível do concorrente</String>
+	<String id="StatusBit.Settings.ConstantImports.CheckboxLabel">Constant <= Linha nova }</String>
 	<String id="StatusBit.Settings.ConstantImports.Label">Importações constantes</String>
 	<String id="StatusBit.Settings.ConstantImports.No">NÃO</String>
 	<String id="StatusBit.Settings.ConstantImports.Yes">Sim</String>
@@ -620,18 +731,22 @@
 	<String id="StatusBit.Settings.LocalVendorsLevel.Label">Nível de fornecedores locais</String>
 	<String id="StatusBit.Settings.NaturalResourceAmount.Label">Recursos Naturais</String>
 	<String id="StatusBit.Settings.PlayerCapital.Label">Capital do jogador</String>
+	<String id="StatusBit.Settings.PriceAgreements.CheckboxLabel">Can not undercut producer <= Linha nova }</String>
 	<String id="StatusBit.Settings.PriceAgreements.Label">Acordos de preços</String>
 	<String id="StatusBit.Settings.PriceAgreements.No">Off</String>
 	<String id="StatusBit.Settings.PriceAgreements.Yes">On</String>
 	<String id="StatusBit.Settings.RegionCount.Label">Regiões</String>
 	<String id="StatusBit.Settings.RegionCount.Value" P0="Region count">{0} regiões</String>
+	<String id="StatusBit.Settings.StockMarket.CheckboxLabel">Available <= Linha nova }</String>
 	<String id="StatusBit.Settings.StockMarket.Label">Mercado de ações</String>
 	<String id="StatusBit.Settings.StockMarket.No">Indisponível</String>
 	<String id="StatusBit.Settings.StockMarket.Yes">Disponível</String>
+	<String id="StatusBit.Settings.TradeSecrets.CheckboxLabel">Hide trade secrets <= Linha nova }</String>
 	<String id="StatusBit.Settings.TradeSecrets.Label">Segredos comerciais</String>
 	<String id="StatusBit.Settings.TradeSecrets.No">Off</String>
 	<String id="StatusBit.Settings.TradeSecrets.Yes">On</String>
 	<String id="StatusBit.Shipping.Label">Transporte</String>
+	<String id="StatusBit.Shipping.ToolTip">Transportation cost per unit <= Linha nova }</String>
 	<String id="StatusBit.Stock.DividendYield.Label">Dividend Yield</String>
 	<String id="StatusBit.Stock.EarningsPerShare.Label">Lucro por ação</String>
 	<String id="StatusBit.Stock.EquityPerShare.Label">Patrimônio por ação</String>
@@ -639,24 +754,33 @@
 	<String id="StatusBit.Stock.PriceEarningsRatio.Label">Índice Preço/Lucro</String>
 	<String id="StatusBit.Stock.ShareCount.Label">Nº total de ações</String>
 	<String id="StatusBit.Stock.StockPrice.Label">Preço da ação</String>
+	<String id="StatusBit.Stock.ToolTip">How much stock is stored in the unit <= Linha nova }</String>
 	<String id="StatusBit.Stock.TotalReturn.Label">Retorno total</String>
 	<String id="StatusBit.Stocks.Label">Estoque</String>
 	<String id="StatusBit.Supply.Label">Oferta</String>
+	<String id="StatusBit.Supply.ToolTip">Currently available Supply of this product.  If bar is full, all demand is met. <= Linha nova }</String>
 	<String id="StatusBit.Technology.Label">Tecnologia</String>
 	<String id="StatusBit.Technology.Value" P0="TechnologyQualityPart" P1="TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)" P3="ProductType.Recipe.QualityTechnologyShare">{0} ({1} / {2} × {3:0%})</String>
 	<String id="StatusBit.TechnologyLevel.Label">Technology Level</String>
-	<String id="StatusBit.TechnologyLevel.Value" P0="TechnologyLevel" P1="Building.Ope    rator.CorporationProductTypes[ProductType].TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)">{0} of {1} (Top {2})</String>
+	<String id="StatusBit.TechnologyLevel.ToolTip">Current Technology Level in use in this unit, Corporation's Technology Level and World's Technology Level <= Linha nova }</String>
+	<String id="StatusBit.TechnologyLevel.Value" P0="TechnologyLevel" P1="Building.Operator.CorporationProductTypes[ProductType].TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)">{0} of {1} (Top {2}) <= Linha nova }</String>
 	<String id="StatusBit.TrainingSpending.Label">Nível de treinamento</String>
+	<String id="StatusBit.TrainingSpending.ToolTip">The current monthly spending on training (as a percentage of current monthly wages) <= Linha nova }</String>
+	<String id="StatusBit.UnitPerContainer.Label">Units/container <= Linha nova }</String>
+	<String id="StatusBit.UnitPerContainer.ToolTip">Number of units per container <= Linha nova }</String>
+	<String id="StatusBit.UnitPerContainer.Value" P="unit count">{0:n0} <= Linha nova }</String>
 	<String id="StatusBit.Utilization.Label">Utilização</String>
-	<String id="StatusBit.Utilization.Label">Utilização</String>
+	<String id="StatusBit.Utilization.ToolTip">Shows the average level of utilization for this unit over the last month.|100% means that the unit is unable to do any more work. <= Linha nova }</String>
 	<String id="StatusBit.Value.Label">Valor</String>
 	<String id="StatusBit.Wages.Label">Salários mensais</String>
+	<String id="StatusBit.Wages.ToolTip">Monthly cost of wages for this unit <= Linha nova }</String>
 	<String id="StatusBit.Worth.Label">Worth</String>
 	<String id="StockOfferCard.AcceptButton.ToolTip">Aceitar oferta</String>
 	<String id="StockOfferCard.Ask100Button.ToolTip">Pedir mais 100%</String>
 	<String id="StockOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.Ask50Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.RejectButton.ToolTip">Rejeitar oferta</String>
+	<String id="StockOfferCard.Title">Stock offer <= Linha nova }</String>
 	<String id="TechnologyOfferCard.AcceptButton.ToolTip">Aceitar oferta</String>
 	<String id="TechnologyOfferCard.Ask100Button.ToolTip">Pedir 100% mais</String>
 	<String id="TechnologyOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
@@ -666,7 +790,7 @@
 	<String id="TopHud.GameMenu.ToolTip">Menu do Jogo</String>
 	<String id="TopHud.GameOverIndicator.ToolTip">O jogo acabou - sair do jogo</String>
 	<String id="TopHud.ProfitBar.ToolTip">Lucro nos últimos 12 meses</String>
-	<String id="TopHud.SpeedSlider.ToolTip">Velocidade do jogo</String>
+	<String id="TopHud.SpeedSlider.ToolTip">Game speed|Use keyboard keys 0-4 to set speed, or Spacebar to toggle pause (speed 0) <= Linha alterada => Velocidade do jogo</String>
 	<String id="TopHud.UserReporting.ToolTip">Relate bug/problema ou faça uma sugestão/comentário</String>
 	<String id="UI.BankruptcyWarning" P0="Day count">Falência em {0} dias</String>
 	<String id="UI.BuildingSize.1">Pequena</String>
@@ -678,6 +802,8 @@
 	<String id="UI.DefaultPlayerName">Jogador</String>
 	<String id="UI.HUD.AutoSaving">Auto-saving game</String>
 	<String id="UI.HUD.Cash" P0="Cash amount">{0:n0}</String>
+	<String id="UI.HUD.Cash.K" P0="Cash amount in thousands">{0:n0} K <= Linha nova }</String>
+	<String id="UI.HUD.Cash.M" P0="Cash amount in millions">{0:n0} M <= Linha nova }</String>
 	<String id="UI.HUD.NumberInMillions" P0="Number in 1000000" P1="Number in 10000">{0:n0} M</String>
 	<String id="UI.HUD.WorldDate" P0="Date">{0:MMM d yyyy}</String>
 	<String id="UI.LivestockFilterCriteria.All">Todos animais</String>
@@ -691,15 +817,17 @@
 	<String id="UI.Multiplayer.ConnectionFailed.Title">Falha</String>
 	<String id="UI.Multiplayer.NewGameName" P0="Creator player name">{0}'s game</String>
 	<String id="UI.Multiplayer.PasswordDialog.Affirmative">CONECTAR</String>
-	<String id="UI.Multiplayer.PasswordDialog.PasswordLabel">Senha</String>
 	<String id="UI.Multiplayer.PasswordDialog.PasswordHint">Digite a senha</String>
+	<String id="UI.Multiplayer.PasswordDialog.PasswordLabel">Senha</String>
 	<String id="UI.Multiplayer.PasswordDialog.Title">Entrar no jogo com senha</String>
+	<String id="UI.Multiplayer.Refused.Desynced">Out of sync with host <= Linha nova }</String>
 	<String id="UI.Multiplayer.Refused.GameFull">O jogo estava cheio</String>
 	<String id="UI.Multiplayer.Refused.GameStarted">O jogo tinha começado</String>
 	<String id="UI.Multiplayer.Refused.IncorrectPassword">A senha estava incorreta</String>
 	<String id="UI.Multiplayer.Refused.KickedByHost">Você foi expulso pelo host</String>
 	<String id="UI.Multiplayer.Refused.Title">Desconectado do jogo</String>
 	<String id="UI.Multiplayer.Refused.UnknownError">Você foi desconectado do jogo</String>
+	<String id="UI.Multiplayer.Refused.UnsupportedVersion">You and host run different versions <= Linha nova }</String>
 	<String id="UI.Preferences.PreferQuantityOverRevenue.FalseCommandLabel">Mostrar quantidade vendida</String>
 	<String id="UI.Preferences.PreferQuantityOverRevenue.TrueCommandLabel">Mostrar receita</String>
 	<String id="UI.ProductClassesFilterCriteria.All">Todas classes</String>
@@ -741,6 +869,9 @@
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuilding.DemolishButton.Text">DEMOLIR</String>
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuilding.Text">Demolir prédio</String>
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuildingExplanation.Text">Demolir o prédio e vender o terreno.</String>
+	<String id="Window.BuildingWindow.BuildingManager.Layouts.Text">Building layouts <= Linha nova }</String>
+	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.Text">LAYOUT LIBRARY <= Linha nova }</String>
+	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.ToolTip">Save current library to library or apply another layout to this building <= Linha nova }</String>
 	<String id="Window.BuildingWindow.BuildingManager.RenameBuilding.Text">Renomear prédio</String>
 	<String id="Window.BuildingWindow.BuildingManager.SellBuilding.OfferButton.Text">PÔR EDIFÍCIO À VENDA</String>
 	<String id="Window.BuildingWindow.BuildingManager.SellBuilding.StopSaleButton.Text">PARAR A VENDA</String>
@@ -773,6 +904,18 @@
 	<String id="Window.BuildingWindow.Department.TechUpgrade.Auto.Text">Atualize autom. quando uma nova tecnologia estiver disponível</String>
 	<String id="Window.BuildingWindow.Department.TechUpgrade.Text">Atualização de tecnologia</String>
 	<String id="Window.BuildingWindow.Department.UpgradeTechButton.Text">UPGRADE TECH</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.AddButton.Text">ADD <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.AddToLibraryHeader.Text">Add current layout to library <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make1Text">Make {0} <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make2Text">Make {0} and {1} <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Affirmative">Yes <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Dismissive">No <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Query">Delete layout? <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Title">Delete layout <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.ExistingLayoutsHeader.Text">Existing layouts <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.NoItems.Text">No layouts <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.SearchField.HintText">Search <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Text">Layout library <= Linha nova }</String>
 	<String id="Window.BuildingWindow.ManagerButton.Text">GERENTE</String>
 	<String id="Window.BuildingWindow.NewDepartment.Space.Text" P0="units free" P1="unit capacity" P2="slots free" P3="slot capacity">{0} de {1} unidades e {2} de {3} vagas disponíveis.</String>
 	<String id="Window.BuildingWindow.NewDepartment.Text">Nova unidade</String>
@@ -813,6 +956,7 @@
 	<String id="Window.BuildTools.Small.Text">Pequeno</String>
 	<String id="Window.BuildTools.Title" P0="Building name">Construir {0}</String>
 	<String id="Window.BuildTools.TotalCost.Text">Custo total</String>
+	<String id="Window.ConfigurePlayerWindow.CloseButton.Text">CLOSE <= Linha nova }</String>
 	<String id="Window.ConfigurePlayerWindow.CorporationName.Text">Nome da Corporação</String>
 	<String id="Window.ConfigurePlayerWindow.Name.Text">Nome</String>
 	<String id="Window.ConfigurePlayerWindow.Title">Configure</String>
@@ -867,7 +1011,7 @@
 	<String id="Window.CorporationReportWindow.NetProfitPanel.Text">Lucro líquido</String>
 	<String id="Window.CorporationReportWindow.Overview.Title">Visão geral</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Class.Text">Política de Classe de Produto</String>
-	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Info.Text">Com a política de Produto, cada produto tem uma marca única. Com a política de classe, todos os produtos da mesma classe usam a mesma marca.</String>
+	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Info.Text">With the Product policy, each product has a unique brand.  With the Class policy, all products in the same class use the same brand. <= Linha alterada => Com a política de Produto, cada produto tem uma marca única. Com a política de classe, todos os produtos da mesma classe usam a mesma marca.</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Product.Text">Política de tipo de produto</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Text">Política de Marca</String>
 	<String id="Window.CorporationReportWindow.Policy.CEOBonus.ModifiedValue" P0="Profit ratio">({0:0.00%}) dos lucros</String>
@@ -941,6 +1085,15 @@
 	<String id="Window.GameOverWindow.VictoryTitle">VITÓRIA</String>
 	<String id="Window.GoalsSetupWindow.Close.Text">Fechar</String>
 	<String id="Window.GoalsSetupWindow.Title">Metas</String>
+	<String id="Window.GuideWindow.Buildings.Title">Buildings <= Linha nova }</String>
+	<String id="Window.GuideWindow.Information.Title">Information <= Linha nova }</String>
+	<String id="Window.GuideWindow.InputProductTypesFilterCriteria.AllCaption">Input products <= Linha nova }</String>
+	<String id="Window.GuideWindow.NextOutputProduct.ToolTip">Next product made with this as input <= Linha nova }</String>
+	<String id="Window.GuideWindow.PreviousOutputProduct.ToolTip">Previous product made with this as input <= Linha nova }</String>
+	<String id="Window.GuideWindow.ProductDetail.Text">DETAILS <= Linha nova }</String>
+	<String id="Window.GuideWindow.ProductDetail.ToolTip">Show Product Details for this product <= Linha nova }</String>
+	<String id="Window.GuideWindow.Products.Title">Products <= Linha nova }</String>
+	<String id="Window.GuideWindow.Title">Guide <= Linha nova }</String>
 	<String id="Window.IssueStockWindow.CurrentShares.Text">Ações atuais</String>
 	<String id="Window.IssueStockWindow.IssueButton.Text">EMITIR AÇÕES</String>
 	<String id="Window.IssueStockWindow.IssuePrice.Text">Preço de emissão</String>
@@ -966,14 +1119,30 @@
 	<String id="Window.LogWindow.FinancialNews.Title">Notícias Financeiras</String>
 	<String id="Window.LogWindow.News.NoItems.Text">Nenhuma notícia</String>
 	<String id="Window.LogWindow.News.Title">Notícias</String>
+	<String id="Window.LogWindow.Settings.HelpText">Checked items will show as notification popup with sound <= Linha nova }</String>
 	<String id="Window.LogWindow.Settings.Title">Configurações</String>
 	<String id="Window.LogWindow.Title">Registro</String>
-	<String id="Window.MergerWindow.Cash.Text">Pagar à vista</String>aliação
+	<String id="Window.MergerWindow.Acquiring.Text">acquiring <= Linha nova }</String>
+	<String id="Window.MergerWindow.Cash.Text">Pagar à vista</String>
+	<String id="Window.MergerWindow.Cash.ToolTip">Buy all remaining shares using cash <= Linha nova }</String>
+	<String id="Window.MergerWindow.MarketSharePrice.Text">Market share price <= Linha nova }</String>
+	<String id="Window.MergerWindow.MarketSharePrice.ToolTip">Current market price per share <= Linha nova }</String>
 	<String id="Window.MergerWindow.MergeButton.Text">FUNDIR CORPORAÇÕES</String>
+	<String id="Window.MergerWindow.MergeButton.ToolTip">Merge the selected corporation into your corporation <= Linha nova }</String>
+	<String id="Window.MergerWindow.OwnShareDilution.Text">Stock dilution <= Linha nova }</String>
+	<String id="Window.MergerWindow.OwnShareDilution.ToolTip">How much your owner's current ownership share will be diluted after issuing new shares.|Note - you are also diluting your own ownership share <= Linha nova }</String>
+	<String id="Window.MergerWindow.OwnShareIssueCount.Text">Own shares to issue <= Linha nova }</String>
+	<String id="Window.MergerWindow.OwnShareIssueCount.ToolTip">Number of shares you need to issue in your corporation to swap with current owners <= Linha nova }</String>
 	<String id="Window.MergerWindow.Query.Text">Como você pagará as ações restantes?</String>
-	<String id="Window.MergerWindow.Stocks.Text">Emitir Ações</String>
+	<String id="Window.MergerWindow.RemainingShares.Text">Remaining shares <= Linha nova }</String>
+	<String id="Window.MergerWindow.RemainingShares.ToolTip">Number of shares that is not owned by your corporation <= Linha nova }</String>
+	<String id="Window.MergerWindow.Stocks.Text">Issue Shares <= Linha alterada => Emitir Ações</String>
+	<String id="Window.MergerWindow.Stocks.ToolTip">Issue shares to swap with owners <= Linha nova }</String>
+	<String id="Window.MergerWindow.TakeoverCost.Text">Total takeover cost <= Linha nova }</String>
+	<String id="Window.MergerWindow.TakeoverCost.ToolTip">Total cost to buy all remaining shares with cash <= Linha nova }</String>
+	<String id="Window.MergerWindow.TakeoverSharePrice.Text">Takeover share price <= Linha nova }</String>
+	<String id="Window.MergerWindow.TakeoverSharePrice.ToolTip">Price you have to pay per share to ensure all owners accept the offer <= Linha nova }</String>
 	<String id="Window.MergerWindow.Title">Fusão</String>
-	<String id="Window.MergerWindow.xxx.Text">xxx</String>
 	<String id="Window.NaturalResourcesListWindow.Title">Recursos Naturais</String>
 	<String id="Window.OptionsWindow.EffectsVolume.Text">Volume dos efeitos</String>
 	<String id="Window.OptionsWindow.Fullscreen.Text">Fullscreen</String>
@@ -987,6 +1156,7 @@
 	<String id="Window.PeopleListWindow.Stocks.Text">Ações</String>
 	<String id="Window.PeopleListWindow.Title">Pessoas</String>
 	<String id="Window.PeopleListWindow.Worth.Text">Valor</String>
+	<String id="Window.ProductDetailWindow.BrandPieHeader.Text">Brand <= Linha nova }</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Brand.Text">Marca</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Price.Text">Preço</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualidade</String>
@@ -1005,6 +1175,7 @@
 	<String id="Window.ProductDetailWindow.Recipe.QualityFactorsDescription.Header" P0="Product title">A qualidade de {0} é determinada por:</String>
 	<String id="Window.ProductDetailWindow.Recipe.Technology.Text">Tecnologia</String>
 	<String id="Window.ProductDetailWindow.Recipe.Title">Receita</String>
+	<String id="Window.ProductDetailWindow.RetailPieHeader.Text">Retail <= Linha nova }</String>
 	<String id="Window.ProductDetailWindow.Tech.AnnualProfit.Text">Lucro Anual</String>
 	<String id="Window.ProductDetailWindow.Tech.AnnualRevenue.Text">Receita Anual</String>
 	<String id="Window.ProductDetailWindow.Tech.Corporation.Text">Corporação</String>
@@ -1030,12 +1201,6 @@
 	<String id="Window.ProductInformationWindow.Local.Text">Local</String>
 	<String id="Window.ProductInformationWindow.MakesHeader.Text">Usado para fazer</String>
 	<String id="Window.ProductInformationWindow.MarketShare.Text">Market share</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.CropText">Cresce no slot de Cultivo na Fazenda</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.LivestockText">Faz em um slot de proc. animal na fazenda</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.LoggingText">Faz no slot de Expl. mad. no Acam. Mad.</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.ManufacturingText">Feito em um slot de manufatura em uma fábrica</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.MineText">Feito em um slot de Mineração em uma Mina</String>
-	<String id="Window.ProductInformationWindow.ProducedIn.OilText">Faz no slot de Extr. Petr. no Poço de Petróleo</String>
 	<String id="Window.ProductInformationWindow.QtySold.Text">Qtd. vendida</String>
 	<String id="Window.ProductInformationWindow.QuanityOrRevenue.QuantityText">Qtd. Vend.</String>
 	<String id="Window.ProductInformationWindow.QuanityOrRevenue.RevenueText">Receita</String>
@@ -1111,240 +1276,243 @@
 	<String id="Window.StockMarketWindow.Sell.Total.Text">Total</String>
 	<String id="Window.StockMarketWindow.SellButton.Text">VENDER</String>
 	<String id="Window.StockMarketWindow.Title">Bolsa de Valores</String>
+	<String id="WorkBuildingTemplateCard.DeleteLayoutButton.Text">DELETE <= Linha nova }</String>
+	<String id="WorkBuildingTemplateCard.UseLayoutButton.Text">USE LAYOUT <= Linha nova }</String>
+	<String id="WorkBuildingWindow.SizeOverview">Units in use (filled) and available units (unfilled).|You can build new units or upgrade existing ones to use the free units <= Linha nova }</String>
 
 
 	<String id="Tutorial.Resources.Title">Fazendo estantes de madeira</String>
-	<String id="Tutorial.Resources.Description">Aprenda como funcionam os recursos naturais e como refinar a madeira em estante e vender em uma loja</String>
-	<String id="Tutorial.Retailing.Title">Varejo</String>
-	<String id="Tutorial.Retailing.Description">Aprenda como construir lojas, comprar mercadorias e vendê-las com lucro</String>
-	<String id="Tutorial.Farming.Title">Agricultura</String>
-	<String id="Tutorial.Farming.Description">Aprenda a criar animais e cultivar colheitas</String>
-	<String id="Tutorial.Factories.Title">Fábricas</String>
-	<String id="Tutorial.Factories.Description">Aprenda a produzir mercadorias em fábricas</String>
+		<String id="Tutorial.Resources.Description">Aprenda como funcionam os recursos naturais e como refinar a madeira em estante e vender em uma loja</String>
+		<String id="Tutorial.Retailing.Title">Varejo</String>
+		<String id="Tutorial.Retailing.Description">Aprenda como construir lojas, comprar mercadorias e vendê-las com lucro</String>
+		<String id="Tutorial.Farming.Title">Agricultura</String>
+		<String id="Tutorial.Farming.Description">Aprenda a criar animais e cultivar colheitas</String>
+		<String id="Tutorial.Factories.Title">Fábricas</String>
+		<String id="Tutorial.Factories.Description">Aprenda a produzir mercadorias em fábricas</String>
 
-	<String id="Tutorial.Resources.Intro">Neste tutorial você aprenderá como passar de um recurso natural para um produto refinado vendido em uma loja.</String>
-	<String id="Tutorial.Resources.CheckProduct_Intro">Primeiro vamos encontrar um produto adequado para fazer.</String>
-	<String id="Tutorial.Resources.CheckProduct_OpenList">Clique no botão de produtos para abrir a lista de todos os tipos de produtos</String>
-	<String id="Tutorial.Resources.CheckProduct_Find">Vamos dar uma olhada na Estante.  Clique sobre ela para selecioná-la.</String>
-	<String id="Tutorial.Resources.CheckProduct_Find_LookTimber">Aqui vemos o que é preciso para fazer estantes.  A única entrada é madeira cuja qualidade determina 40% da qualidade da estante.</String>
-	<String id="Tutorial.Resources.CheckProduct_Find_LookTech">Seu nível tecnológico também afeta a qualidade das estantes.  Seu nível atual é de 30 de 100.  Aqui vemos que ele determina os 60% restantes.</String>
-	<String id="Tutorial.Resources.CheckProduct_Close">Vamos começar a fazer estantes.  Feche esta janela, clicando no X no canto</String>
-	<String id="Tutorial.Resources.BuildLogging_Intro">Como a entrada é madeira, precisamos de um acampamento madeireiro.  Se houvesse algum concorrente vendendo madeira ou um porto marítimo importando madeira, poderíamos comprar de lá.  Estamos sozinhos nesta região, portanto, precisamos construir nosso próprio acampamento.</String>
-	<String id="Tutorial.Resources.BuildLogging_OpenList">Clique no botão Recursos Naturais para abrir a lista de recursos na região</String>
-	<String id="Tutorial.Resources.BuildLogging_Find">Há apenas uma floresta, portanto, selecione esta.  Se houvesse várias, você precisaria comparar qualidade, reserva e preço para encontrar aquela que você deseja.</String>
-	<String id="Tutorial.Resources.BuildLogging_ClickBuild">Clique no botão Construir</String>
-	<String id="Tutorial.Resources.BuildLogging_ConfirmBuild">Não se pode simplesmente construir um acampamento madeireiro.  Primeiro você precisa comprar o recurso em um leilão.  Clique no botão para iniciar um leilão.</String>
-	<String id="Tutorial.Resources.BuildLogging_WaitForBuilding">Se houvesse algum concorrente, eles poderiam dar um lance neste recurso e você poderia fazer outro lance.  Espere que o cronômetro no canto chegue a zero.</String>
-	<String id="Tutorial.Resources.BuildLogging_AddLogging_NewDepButton">Parabéns - você ganhou o leilão e agora é o orgulhoso proprietário de um acampamento madeireiro.  Agora você precisará adicionar uma unidade de exploração madeireira para cortar madeira.  Clique no botão "mais".</String>
-	<String id="Tutorial.Resources.BuildLogging_InfoUnitSizes">Um acampamento de madeira é um edifício de tamanho médio.  Os edifícios de médio porte têm espaço para 13 unidades.  Ao adicionar unidades a edifícios, você pode escolher unidades Pequenas, Médias ou Grandes. Unidades pequenas têm o tamanho de 1. Médio é o mesmo que duas Pequenas e Grandes é o mesmo que duas Médias.</String>
-	<String id="Tutorial.Resources.BuildLogging_InfoSlots">Os edifícios de médio porte têm 14 espaços para unidades.  Uma unidade ocupa 1 slot independentemente do tamanho da unidade</String>
-	<String id="Tutorial.Resources.BuildLogging_AddLogging_BuildDepButton">Selecione uma unidade de extração média.  Uma unidade Média trabalha duas vezes mais rápido que uma Pequena e metade mais rápida que uma Grande.</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Stock">O estoque informa quantas unidades (de madeira) estão armazenadas dentro da unidade.</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Utilization">A utilização é o quanto a unidade está ocupada.  Se estiver a 100% por muitos dias, a unidade está muito ocupada para fazer todo o trabalho.  Neste caso, você pode aumentar o nível de treinamento, atualizando para uma unidade maior ou construindo uma segunda unidade.  Muitas unidades novas começam a 100% porque trabalham duro para encher o depósito de estoque (que, é claro, está inicialmente vazio).</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Reserve">A reserva lhe diz quanto de madeira permanece na floresta.  Quando isso chega a zero, o acampamento madeireiro é destruído.</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Quality">A qualidade desta madeira é o valor que afetará a qualidade final de suas estantes.</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Wages">Os salários são os salários mensais pagos aos funcionários desta unidade</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_Efficiency">A eficiência mostra a rapidez com que a unidade funciona.  Uma unidade a 66% funciona duas vezes mais rápido que uma unidade a 33%.  Todas as unidades começam com 33%.</String>
-	<String id="Tutorial.Resources.BuildLogging_Logging_TrainingSpending">A eficiência pode ser aumentada gastando dinheiro em treinamento.</String>
-	<String id="Tutorial.Resources.BuildLogging_AddTimberSales_NewDepButton">Você também precisará de uma unidade de vendas para vender a madeira.  Clique no botão "+".</String>
-	<String id="Tutorial.Resources.BuildLogging_AddTimberSales_BuildDepButton">Selecione uma unidade pequena</String>
-	<String id="Tutorial.Resources.BuildLogging_AddTimberSales_ConnectProcessing">Conecte as unidades de exploração madereira e vendas clicando na seta.  A madeira fluirá da exploração madeireira para as vendas.</String>
-	<String id="Tutorial.Resources.BuildLogging_CloseLoggingCampBuildingWindow">Terminamos de montar o acampamento madeireiro.  Sua madeira já está disponível no mercado.  Feche a janela</String>
-	<String id="Tutorial.Resources.BuildLogging_CloseNaturalResources">Acabamos com os recursos naturais, então feche essa janela também.</String>
-	<String id="Tutorial.Resources.BuildFactory_Intro">Agora que temos o Madeira, precisamos de uma fábrica que possa transformá-la em estantes.</String>
-	<String id="Tutorial.Resources.BuildFactory_PressBuildButton_Factory">Clique no botão construir</String>
-	<String id="Tutorial.Resources.BuildFactory_PressFactoryButton">Clique no botão de fábrica</String>
-	<String id="Tutorial.Resources.BuildFactory_PlaceFactoryBuilding">Coloque a fábrica na região.  Mova-a para que fique ao lado de uma estrada.</String>
-	<String id="Tutorial.Resources.BuildFactory_SelectSmall">Note que você está construindo uma fábrica de pequeno porte</String>
-	<String id="Tutorial.Resources.BuildFactory_PressFactoryButton_Confirm">Confirme o edifício.</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_NewDepButton">Você precisa de uma unidade de compra para comprar a madeira de seu acampamento madeireiro.  Clique no botão "+".</String>
-	<String id="Tutorial.Resources.BuildFactory_InfoUnitSizes">As pequenas construções têm capacidade para 6 unidades.</String>
-	<String id="Tutorial.Resources.BuildFactory_InfoSlots">Os edifícios pequenos têm apenas 9 slots e também têm setas em menos direções do que os edifícios médios</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_BuildDepButton">Selecione uma unidade pequena</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_OpenSelectWindow">Clique no botão Selecionar Fornecedor</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_SelectTimber">Selecione a madeira que você está vendendo.  Você sabe que é a madeira que você está fabricando porque tem a cor de sua corporação.</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_ConfirmTimber">Confirme sua seleção</String>
-	<String id="Tutorial.Resources.BuildFactory_AddManufacturing_NewDepButton">Você precisa de uma unidade de Manufatura para fazer estantes.  Clique no botão "+".</String>
-	<String id="Tutorial.Resources.BuildFactory_AddManufacturing_BuildDepButton">Selecione uma unidade Média</String>
-	<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_ConnectRaising">Conecte as unidades de Compra e Manufatura clicando na seta.  A madeira fluirá de Compras para Manufatura.</String>
-	<String id="Tutorial.Resources.BuildFactory_AddManufacturing_OpenSelectWindow">Você precisa dizer à sua unidade da manufatura o que fazer.  Clique no botão Selecionar Produto</String>
-	<String id="Tutorial.Resources.BuildFactory_AddManufacturing_SelectBookshelf">Selecione Estante</String>
-	<String id="Tutorial.Resources.BuildFactory_AddManufacturing_ConfirmBookshelf">Confirme sua escolha</String>
-	<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_NewDepButton">Você também precisará de uma unidade de vendas para vender as estantes.  Clique no botão "+".</String>
-	<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_BuildDepButton">Construir uma unidade pequena</String>
-	<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_ConnectProcessing">Agora conecte suas unidades de Manufatura e Vendas.  As estantes fluirão da Manufatura para as Vendas.</String>
-	<String id="Tutorial.Resources.BuildFactory_CloseFactoryBuildingWindow">Você montou a linha completa de fabricação de estantes de livros.  Feche a janela</String>
-	<String id="Tutorial.Resources.BuildStore_Intro">Agora você está construindo estantes, mas seus clientes não podem comprar diretamente de uma fábrica.  Você precisa de uma loja.</String>
-	<String id="Tutorial.Resources.BuildStore_PressBuildButton_Store">Clique no botão Construir</String>
-	<String id="Tutorial.Resources.BuildStore_PressStoreButton">Clique no botão Lojas</String>
-	<String id="Tutorial.Resources.BuildStore_SelectSmall">Selecione Pequeno edifício</String>
-	<String id="Tutorial.Resources.BuildStore_PlaceStoreBuilding">Coloque a loja dentro da cidade (perto das casas).  O terreno custa mais dentro da cidade, mas você terá mais clientes.  Precisa estar ao lado de uma estrada.</String>
-	<String id="Tutorial.Resources.BuildStore_PressStoreButton_Confirm">Confirme a construção</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_OpenNewProduct">Você precisa de uma unidade de Compras e de Vendas.  Clique no botão "mais" para novos produtos, para adicionar automaticamente ambos.</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_SelectBookshelf">Selecione a Estante que você está fazendo</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_ConfirmBookshelf">Confirme sua escolha</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_ConfirmProduct">Precisamos apenas de pequenas unidades.  Confirme a seleção.</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_InfoSelling">Um novo produto não aparece na lista de produtos até que a unidade de Compras tenha comprado as estantes e elas tenham fluído para a unidade de Vendas</String>
-	<String id="Tutorial.Resources.BuildStore_ConfigureBookshelf_Select">Selecione suas estantes</String>
-	<String id="Tutorial.Resources.BuildStore_AddBookshelf_InfoSelling2">Observe que suas estantes estão agora sendo compradas por pessoas e a cada dia o número de unidades vendidas aumenta</String>
-	<String id="Tutorial.Resources.BuildStore_CloseStoreBuildingWindow">Tudo está feito.  Você pode fechar a janela.</String>
-	<String id="Tutorial.Resources.Finished">Você completou o tutorial.  Você aprendeu como construir e vender produtos baseados em recursos naturais</String>
+		<String id="Tutorial.Resources.Intro">Neste tutorial você aprenderá como passar de um recurso natural para um produto refinado vendido em uma loja.</String>
+		<String id="Tutorial.Resources.CheckProduct_Intro">Primeiro vamos encontrar um produto adequado para fazer.</String>
+		<String id="Tutorial.Resources.CheckProduct_OpenList">Clique no botão de produtos para abrir a lista de todos os tipos de produtos</String>
+		<String id="Tutorial.Resources.CheckProduct_Find">Vamos dar uma olhada na Estante.  Clique sobre ela para selecioná-la.</String>
+		<String id="Tutorial.Resources.CheckProduct_Find_LookTimber">Aqui vemos o que é preciso para fazer estantes.  A única entrada é madeira cuja qualidade determina 40% da qualidade da estante.</String>
+		<String id="Tutorial.Resources.CheckProduct_Find_LookTech">Seu nível tecnológico também afeta a qualidade das estantes.  Seu nível atual é de 30 de 100.  Aqui vemos que ele determina os 60% restantes.</String>
+		<String id="Tutorial.Resources.CheckProduct_Close">Vamos começar a fazer estantes.  Feche esta janela, clicando no X no canto</String>
+		<String id="Tutorial.Resources.BuildLogging_Intro">Como a entrada é madeira, precisamos de um acampamento madeireiro.  Se houvesse algum concorrente vendendo madeira ou um porto marítimo importando madeira, poderíamos comprar de lá.  Estamos sozinhos nesta região, portanto, precisamos construir nosso próprio acampamento.</String>
+		<String id="Tutorial.Resources.BuildLogging_OpenList">Clique no botão Recursos Naturais para abrir a lista de recursos na região</String>
+		<String id="Tutorial.Resources.BuildLogging_Find">Há apenas uma floresta, portanto, selecione esta.  Se houvesse várias, você precisaria comparar qualidade, reserva e preço para encontrar aquela que você deseja.</String>
+		<String id="Tutorial.Resources.BuildLogging_ClickBuild">Clique no botão Construir</String>
+		<String id="Tutorial.Resources.BuildLogging_ConfirmBuild">Não se pode simplesmente construir um acampamento madeireiro.  Primeiro você precisa comprar o recurso em um leilão.  Clique no botão para iniciar um leilão.</String>
+		<String id="Tutorial.Resources.BuildLogging_WaitForBuilding">Se houvesse algum concorrente, eles poderiam dar um lance neste recurso e você poderia fazer outro lance.  Espere que o cronômetro no canto chegue a zero.</String>
+		<String id="Tutorial.Resources.BuildLogging_AddLogging_NewDepButton">Parabéns - você ganhou o leilão e agora é o orgulhoso proprietário de um acampamento madeireiro.  Agora você precisará adicionar uma unidade de exploração madeireira para cortar madeira.  Clique no botão "mais".</String>
+		<String id="Tutorial.Resources.BuildLogging_InfoUnitSizes">Um acampamento de madeira é um edifício de tamanho médio.  Os edifícios de médio porte têm espaço para 13 unidades.  Ao adicionar unidades a edifícios, você pode escolher unidades Pequenas, Médias ou Grandes. Unidades pequenas têm o tamanho de 1. Médio é o mesmo que duas Pequenas e Grandes é o mesmo que duas Médias.</String>
+		<String id="Tutorial.Resources.BuildLogging_InfoSlots">Os edifícios de médio porte têm 14 espaços para unidades.  Uma unidade ocupa 1 slot independentemente do tamanho da unidade</String>
+		<String id="Tutorial.Resources.BuildLogging_AddLogging_BuildDepButton">Selecione uma unidade de extração média.  Uma unidade Média trabalha duas vezes mais rápido que uma Pequena e metade mais rápida que uma Grande.</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Stock">O estoque informa quantas unidades (de madeira) estão armazenadas dentro da unidade.</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Utilization">A utilização é o quanto a unidade está ocupada.  Se estiver a 100% por muitos dias, a unidade está muito ocupada para fazer todo o trabalho.  Neste caso, você pode aumentar o nível de treinamento, atualizando para uma unidade maior ou construindo uma segunda unidade.  Muitas unidades novas começam a 100% porque trabalham duro para encher o depósito de estoque (que, é claro, está inicialmente vazio).</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Reserve">A reserva lhe diz quanto de madeira permanece na floresta.  Quando isso chega a zero, o acampamento madeireiro é destruído.</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Quality">A qualidade desta madeira é o valor que afetará a qualidade final de suas estantes.</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Wages">Os salários são os salários mensais pagos aos funcionários desta unidade</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_Efficiency">A eficiência mostra a rapidez com que a unidade funciona.  Uma unidade a 66% funciona duas vezes mais rápido que uma unidade a 33%.  Todas as unidades começam com 33%.</String>
+		<String id="Tutorial.Resources.BuildLogging_Logging_TrainingSpending">A eficiência pode ser aumentada gastando dinheiro em treinamento.</String>
+		<String id="Tutorial.Resources.BuildLogging_AddTimberSales_NewDepButton">Você também precisará de uma unidade de vendas para vender a madeira.  Clique no botão "+".</String>
+		<String id="Tutorial.Resources.BuildLogging_AddTimberSales_BuildDepButton">Selecione uma unidade pequena</String>
+		<String id="Tutorial.Resources.BuildLogging_AddTimberSales_ConnectProcessing">Conecte as unidades de exploração madereira e vendas clicando na seta.  A madeira fluirá da exploração madeireira para as vendas.</String>
+		<String id="Tutorial.Resources.BuildLogging_CloseLoggingCampBuildingWindow">Terminamos de montar o acampamento madeireiro.  Sua madeira já está disponível no mercado.  Feche a janela</String>
+		<String id="Tutorial.Resources.BuildLogging_CloseNaturalResources">Acabamos com os recursos naturais, então feche essa janela também.</String>
+		<String id="Tutorial.Resources.BuildFactory_Intro">Agora que temos o Madeira, precisamos de uma fábrica que possa transformá-la em estantes.</String>
+		<String id="Tutorial.Resources.BuildFactory_PressBuildButton_Factory">Clique no botão construir</String>
+		<String id="Tutorial.Resources.BuildFactory_PressFactoryButton">Clique no botão de fábrica</String>
+		<String id="Tutorial.Resources.BuildFactory_PlaceFactoryBuilding">Coloque a fábrica na região.  Mova-a para que fique ao lado de uma estrada.</String>
+		<String id="Tutorial.Resources.BuildFactory_SelectSmall">Note que você está construindo uma fábrica de pequeno porte</String>
+		<String id="Tutorial.Resources.BuildFactory_PressFactoryButton_Confirm">Confirme o edifício.</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_NewDepButton">Você precisa de uma unidade de compra para comprar a madeira de seu acampamento madeireiro.  Clique no botão "+".</String>
+		<String id="Tutorial.Resources.BuildFactory_InfoUnitSizes">As pequenas construções têm capacidade para 6 unidades.</String>
+		<String id="Tutorial.Resources.BuildFactory_InfoSlots">Os edifícios pequenos têm apenas 9 slots e também têm setas em menos direções do que os edifícios médios</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_BuildDepButton">Selecione uma unidade pequena</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_OpenSelectWindow">Clique no botão Selecionar Fornecedor</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_SelectTimber">Selecione a madeira que você está vendendo.  Você sabe que é a madeira que você está fabricando porque tem a cor de sua corporação.</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_ConfirmTimber">Confirme sua seleção</String>
+		<String id="Tutorial.Resources.BuildFactory_AddManufacturing_NewDepButton">Você precisa de uma unidade de Manufatura para fazer estantes.  Clique no botão "+".</String>
+		<String id="Tutorial.Resources.BuildFactory_AddManufacturing_BuildDepButton">Selecione uma unidade Média</String>
+		<String id="Tutorial.Resources.BuildFactory_AddPurchaseTimber_ConnectRaising">Conecte as unidades de Compra e Manufatura clicando na seta.  A madeira fluirá de Compras para Manufatura.</String>
+		<String id="Tutorial.Resources.BuildFactory_AddManufacturing_OpenSelectWindow">Você precisa dizer à sua unidade da manufatura o que fazer.  Clique no botão Selecionar Produto</String>
+		<String id="Tutorial.Resources.BuildFactory_AddManufacturing_SelectBookshelf">Selecione Estante</String>
+		<String id="Tutorial.Resources.BuildFactory_AddManufacturing_ConfirmBookshelf">Confirme sua escolha</String>
+		<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_NewDepButton">Você também precisará de uma unidade de vendas para vender as estantes.  Clique no botão "+".</String>
+		<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_BuildDepButton">Construir uma unidade pequena</String>
+		<String id="Tutorial.Resources.BuildFactory_AddBookshelfSales_ConnectProcessing">Agora conecte suas unidades de Manufatura e Vendas.  As estantes fluirão da Manufatura para as Vendas.</String>
+		<String id="Tutorial.Resources.BuildFactory_CloseFactoryBuildingWindow">Você montou a linha completa de fabricação de estantes de livros.  Feche a janela</String>
+		<String id="Tutorial.Resources.BuildStore_Intro">Agora você está construindo estantes, mas seus clientes não podem comprar diretamente de uma fábrica.  Você precisa de uma loja.</String>
+		<String id="Tutorial.Resources.BuildStore_PressBuildButton_Store">Clique no botão Construir</String>
+		<String id="Tutorial.Resources.BuildStore_PressStoreButton">Clique no botão Lojas</String>
+		<String id="Tutorial.Resources.BuildStore_SelectSmall">Selecione Pequeno edifício</String>
+		<String id="Tutorial.Resources.BuildStore_PlaceStoreBuilding">Coloque a loja dentro da cidade (perto das casas).  O terreno custa mais dentro da cidade, mas você terá mais clientes.  Precisa estar ao lado de uma estrada.</String>
+		<String id="Tutorial.Resources.BuildStore_PressStoreButton_Confirm">Confirme a construção</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_OpenNewProduct">Você precisa de uma unidade de Compras e de Vendas.  Clique no botão "mais" para novos produtos, para adicionar automaticamente ambos.</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_SelectBookshelf">Selecione a Estante que você está fazendo</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_ConfirmBookshelf">Confirme sua escolha</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_ConfirmProduct">Precisamos apenas de pequenas unidades.  Confirme a seleção.</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_InfoSelling">Um novo produto não aparece na lista de produtos até que a unidade de Compras tenha comprado as estantes e elas tenham fluído para a unidade de Vendas</String>
+		<String id="Tutorial.Resources.BuildStore_ConfigureBookshelf_Select">Selecione suas estantes</String>
+		<String id="Tutorial.Resources.BuildStore_AddBookshelf_InfoSelling2">Observe que suas estantes estão agora sendo compradas por pessoas e a cada dia o número de unidades vendidas aumenta</String>
+		<String id="Tutorial.Resources.BuildStore_CloseStoreBuildingWindow">Tudo está feito.  Você pode fechar a janela.</String>
+		<String id="Tutorial.Resources.Finished">Você completou o tutorial.  Você aprendeu como construir e vender produtos baseados em recursos naturais</String>
 
-	<String id="Tutorial.Retailing.Intro">Neste tutorial você aprenderá sobre o varejo - compra e venda de produtos nas lojas</String>
-	<String id="Tutorial.Retailing.Intro2">Primeiro vamos construir uma loja. As lojas precisam estar perto das pessoas para atrair compradores. Você pode construí-la nos arredores da cidade ou pode comprar algumas casas e colocá-la no meio do centro da cidade.</String>
-	<String id="Tutorial.Retailing.PressBuildButton_Store">Clique no botão Construir</String>
-	<String id="Tutorial.Retailing.PressStoreButton">Clique no botão Loja</String>
-	<String id="Tutorial.Retailing.PlaceStoreBuilding">Agora você precisa colocar a loja em algum lugar do mundo. O único requisito é que tenha acesso a uma estrada, mas é inteligente construí-lo perto das pessoas. Um contorno verde significa um local válido.</String>
-	<String id="Tutorial.Retailing.PressStoreButton_Confirm">Você pode construir uma loja média ou grande, mas vamos ficar com uma loja pequena. Maior custa mais, mas pode vender mais produtos. Pressione o botão Construir para confirmar a localização da sua loja.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_NewDepButton">Antes de vender algo, você precisa comprar algo. Primeiro precisamos de uma unidade de Compras. Clique no botão de adição.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_BuildDepButton">Construa uma pequena unidade de compras</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_OpenSelectWindow">Agora você precisa selecionar o que comprar. Clique no botão Selecionar fornecedor.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_SelectBoardGames">Neste tutorial não temos muitas opções. Tudo o que está disponível são as duas mercadorias importadas pelo porto. Em um jogo normal, você também encontraria produtos produzidos por você e seus concorrentes. Selecione jogos de tabuleiro.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_ConfirmBoardGames">Confirme sua seleção. Sua unidade de compras começará a comprar jogos de tabuleiro no Porto Marítimo.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Stock">O estoque mostra quantas unidades estão armazenadas por sua unidade de compra.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Supply">A oferta mostra a situação de oferta do vendedor (em comparação com a demanda). Se esta barra não estiver cheia, o vendedor não poderá vender tanto quanto você deseja comprar</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Demand">A demanda mostra a demanda pelos bens do vendedor.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Utilization">Isso mostra a utilização de sua unidade de compra. Se isso estiver em 100%, sua unidade está sobrecarregada e não pode comprar tanto quanto você precisa.</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Cost">Isso mostra o preço que você paga por unidade ao vendedor</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Shipping">Isso mostra o custo de envio de uma unidade do vendedor para você</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Quality">Isso mostra a qualidade do produto</String>
-	<String id="Tutorial.Retailing.AddPurchaseBoardGames_Brand">Isso mostra a classificação da marca do produto</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_NewDepButton">Você também precisa de uma unidade de vendas para vender os jogos de tabuleiro. Clique no botão de adição.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_BuildDepButton">Selecione uma pequena unidade de vendas</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_ConnectProcessing">Você precisa conectar a unidade de Compras e Vendas clicando na seta. Observe a direção da seta - as mercadorias só podem fluir em um sentido. Clique na seta.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_AboutSales">Os jogos de tabuleiro agora fluirão de sua unidade de compras para sua unidade de vendas. Unidade de Vendas de uma Loja vai vender para a população da região</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_Stock">Isso mostra quantas unidades sua unidade de vendas tem em estoque. O estoque flui por aqui, a partir de sua unidade de compras</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_Supply">Isso mostra sua situação de fornecimento. Se a barra não estiver cheia, você não poderá atender à demanda deste produto.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_Demand">Isso mostra a demanda por este produto.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_Utilization">Isso mostra o quanto sua unidade de vendas está ocupada. Se estiver em 100%, você precisa considerar aumentar o nível de treinamento ou atualizar para uma unidade maior.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_AdvertisingBrand">Isso mostra a classificação da marca para o produto.</String>
-	<String id="Tutorial.Retailing.AddBoardGamesSales_AdvertisingSpending">Isso mostra os gastos mensais com publicidade desta unidade. Você pode usar o controle deslizante para alterar os gastos.</String>
-	<String id="Tutorial.Retailing.AddBuildingBlocks_OpenNewProduct">A parte superior desta janela lista os produtos que você está vendendo. Outra maneira de começar a vender um novo produto é clicar no botão de adição aqui. Faça isso</String>
-	<String id="Tutorial.Retailing.AddBuildingBlocks_SelectBuildingBlocks">Desta vez, selecione os blocos de montar.</String>
-	<String id="Tutorial.Retailing.AddBuildingBlocks_ConfirmBuildingBlocks">Confirme sua escolha</String>
-	<String id="Tutorial.Retailing.AddBuildingBlocks_ConfirmProduct">As unidades de Compras e Vendas serão criadas automaticamente para você. Você só precisa selecionar o tamanho que deseja. Deixe ambos como Pequenos e clique no botão Construir.</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_Select">Selecione o produto Jogos de tabuleiro</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_ProductRating_Rating">Isso mostra a classificação do seu produto</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_RegionRating_Rating">Isso mostra a classificação média deste produto nesta região. Se isso for significativamente maior do que sua classificação, suas vendas serão lentas.</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_ProductRating_Details">Isso mostra a classificação detalhada dos três fatores que compõem a classificação do produto; Marca, Qualidade e Preço.</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_RegionRating_Details">Isso mostra as mesmas classificações médias para a região</String>
-	<String id="Tutorial.Retailing.ConfigureBoardGames_Concern">Isso mostra o quanto as pessoas nesta região se preocupam com cada um dos fatores. Isso varia para cada produto e também de uma região para outra.</String>
-	<String id="Tutorial.Retailing.CloseStoreBuildingWindow">Feche a janela clicando no X no canto</String>
-	<String id="Tutorial.Retailing.Finished">Você concluiu o tutorial. Você aprendeu a construir uma loja e vender produtos</String>
+		<String id="Tutorial.Retailing.Intro">Neste tutorial você aprenderá sobre o varejo - compra e venda de produtos nas lojas</String>
+		<String id="Tutorial.Retailing.Intro2">Primeiro vamos construir uma loja. As lojas precisam estar perto das pessoas para atrair compradores. Você pode construí-la nos arredores da cidade ou pode comprar algumas casas e colocá-la no meio do centro da cidade.</String>
+		<String id="Tutorial.Retailing.PressBuildButton_Store">Clique no botão Construir</String>
+		<String id="Tutorial.Retailing.PressStoreButton">Clique no botão Loja</String>
+		<String id="Tutorial.Retailing.PlaceStoreBuilding">Agora você precisa colocar a loja em algum lugar do mundo. O único requisito é que tenha acesso a uma estrada, mas é inteligente construí-lo perto das pessoas. Um contorno verde significa um local válido.</String>
+		<String id="Tutorial.Retailing.PressStoreButton_Confirm">Você pode construir uma loja média ou grande, mas vamos ficar com uma loja pequena. Maior custa mais, mas pode vender mais produtos. Pressione o botão Construir para confirmar a localização da sua loja.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_NewDepButton">Antes de vender algo, você precisa comprar algo. Primeiro precisamos de uma unidade de Compras. Clique no botão de adição.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_BuildDepButton">Construa uma pequena unidade de compras</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_OpenSelectWindow">Agora você precisa selecionar o que comprar. Clique no botão Selecionar fornecedor.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_SelectBoardGames">Neste tutorial não temos muitas opções. Tudo o que está disponível são as duas mercadorias importadas pelo porto. Em um jogo normal, você também encontraria produtos produzidos por você e seus concorrentes. Selecione jogos de tabuleiro.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_ConfirmBoardGames">Confirme sua seleção. Sua unidade de compras começará a comprar jogos de tabuleiro no Porto Marítimo.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Stock">O estoque mostra quantas unidades estão armazenadas por sua unidade de compra.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Supply">A oferta mostra a situação de oferta do vendedor (em comparação com a demanda). Se esta barra não estiver cheia, o vendedor não poderá vender tanto quanto você deseja comprar</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Demand">A demanda mostra a demanda pelos bens do vendedor.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Utilization">Isso mostra a utilização de sua unidade de compra. Se isso estiver em 100%, sua unidade está sobrecarregada e não pode comprar tanto quanto você precisa.</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Cost">Isso mostra o preço que você paga por unidade ao vendedor</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Shipping">Isso mostra o custo de envio de uma unidade do vendedor para você</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Quality">Isso mostra a qualidade do produto</String>
+		<String id="Tutorial.Retailing.AddPurchaseBoardGames_Brand">Isso mostra a classificação da marca do produto</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_NewDepButton">Você também precisa de uma unidade de vendas para vender os jogos de tabuleiro. Clique no botão de adição.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_BuildDepButton">Selecione uma pequena unidade de vendas</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_ConnectProcessing">Você precisa conectar a unidade de Compras e Vendas clicando na seta. Observe a direção da seta - as mercadorias só podem fluir em um sentido. Clique na seta.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_AboutSales">Os jogos de tabuleiro agora fluirão de sua unidade de compras para sua unidade de vendas. Unidade de Vendas de uma Loja vai vender para a população da região</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_Stock">Isso mostra quantas unidades sua unidade de vendas tem em estoque. O estoque flui por aqui, a partir de sua unidade de compras</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_Supply">Isso mostra sua situação de fornecimento. Se a barra não estiver cheia, você não poderá atender à demanda deste produto.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_Demand">Isso mostra a demanda por este produto.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_Utilization">Isso mostra o quanto sua unidade de vendas está ocupada. Se estiver em 100%, você precisa considerar aumentar o nível de treinamento ou atualizar para uma unidade maior.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_AdvertisingBrand">Isso mostra a classificação da marca para o produto.</String>
+		<String id="Tutorial.Retailing.AddBoardGamesSales_AdvertisingSpending">Isso mostra os gastos mensais com publicidade desta unidade. Você pode usar o controle deslizante para alterar os gastos.</String>
+		<String id="Tutorial.Retailing.AddBuildingBlocks_OpenNewProduct">A parte superior desta janela lista os produtos que você está vendendo. Outra maneira de começar a vender um novo produto é clicar no botão de adição aqui. Faça isso</String>
+		<String id="Tutorial.Retailing.AddBuildingBlocks_SelectBuildingBlocks">Desta vez, selecione os blocos de montar.</String>
+		<String id="Tutorial.Retailing.AddBuildingBlocks_ConfirmBuildingBlocks">Confirme sua escolha</String>
+		<String id="Tutorial.Retailing.AddBuildingBlocks_ConfirmProduct">As unidades de Compras e Vendas serão criadas automaticamente para você. Você só precisa selecionar o tamanho que deseja. Deixe ambos como Pequenos e clique no botão Construir.</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_Select">Selecione o produto Jogos de tabuleiro</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_ProductRating_Rating">Isso mostra a classificação do seu produto</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_RegionRating_Rating">Isso mostra a classificação média deste produto nesta região. Se isso for significativamente maior do que sua classificação, suas vendas serão lentas.</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_ProductRating_Details">Isso mostra a classificação detalhada dos três fatores que compõem a classificação do produto; Marca, Qualidade e Preço.</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_RegionRating_Details">Isso mostra as mesmas classificações médias para a região</String>
+		<String id="Tutorial.Retailing.ConfigureBoardGames_Concern">Isso mostra o quanto as pessoas nesta região se preocupam com cada um dos fatores. Isso varia para cada produto e também de uma região para outra.</String>
+		<String id="Tutorial.Retailing.CloseStoreBuildingWindow">Feche a janela clicando no X no canto</String>
+		<String id="Tutorial.Retailing.Finished">Você concluiu o tutorial. Você aprendeu a construir uma loja e vender produtos</String>
 
-	<String id="Tutorial.Farming.Intro">Neste tutorial, você aprenderá o básico da criação de frangos.||Você criará frangos para produzir ovos e carne de frango, cultivará trigo, e aprenderá como aumentar a qualidade tanto do seu animais quanto das colheitas.</String>
-	<String id="Tutorial.Farming.PressBuildButton_Farm">Primeiro você precisará construir uma fazenda.||Clique no botão Construir</String>
-	<String id="Tutorial.Farming.PressFarmButton">Clique no botão Fazenda</String>
-	<String id="Tutorial.Farming.SelectMediumFarm">Mude para uma fazenda média.  As pequenas fazendas não podem cultivar, apenas criar animais.</String>
-	<String id="Tutorial.Farming.PlaceFarmBuilding">Coloque o edifício da fazenda na visualização da região. Você precisa colocá-lo próximo a uma estrada e não deve colocá-lo dentro da cidade, pois o terreno custa mais lá.||Você pode se mover pela região com as setas do teclado.</String>
-	<String id="Tutorial.Farming.PressFarmButton_Confirm">Bom - agora você só precisa confirmar a construção da fazenda. Usaremos o tamanho médio padrão.</String>
-	<String id="Tutorial.Farming.AddLivestockRaising_NewDepButton">Agora que sua fazenda está construída, você precisa acrescentar as unidades que farão a agricultura propriamente dita.  Primeiro começamos com uma unidade de Criação de Animais para a criação de frangos.  Clique no ícone de adição para adicionar uma nova unidade nesse espaço.</String>
-	<String id="Tutorial.Farming.AddLivestockRaising_BuildDepButton">Clique na unidade de Criação de animais média.||As unidades de Criação de animais são ..... </String>
-	<String id="Tutorial.Farming.AddLivestockRaising_OpenSelectWindow">Agora você precisa selecionar qual animal criar nesta unidade.  Clique no botão Selecionar animais</String>
-	<String id="Tutorial.Farming.AddLivestockRaising_SelectChicken">Selecione Frango</String>
-	<String id="Tutorial.Farming.AddLivestockRaising_ConfirmChicken">Confirme sua seleção</String>
-	<String id="Tutorial.Farming.LivestockRaising_Supply">As barras de oferta e demanda mostra se você tem animais suficientes.  Se a barra azul de oferta for maior que a barra vermelha de demanda, você terá animais suficientes.  Se a barra de demanda for maior, sua unidade de Criação de Animais não é capaz de fornecer animais suficientes para todas as suas unidades de Processamento de Animais.</String>
-	<String id="Tutorial.Farming.LivestockRaising_Quality">A qualidade de seus animais começa baixa. Todos os produtos processados ​​a partir deste, compartilharão a mesma qualidade.</String>
-	<String id="Tutorial.Farming.LivestockRaising_QualitySlider">A qualidade pode ser aumentada por gastos mensais na melhoria da qualidade. Arraste o controle deslizante para que o gasto mensal seja de pelo menos 200.000</String>
-	<String id="Tutorial.Farming.LivestockRaising_QualityConfirm">Confirmar os gastos.</String>
-	<String id="Tutorial.Farming.LivestockRaising_AnimalCount">O tamanho do rebanho é baseado na eficiência da unidade.  Uma unidade mais eficiente é capaz de lidar com um rebanho maior.</String>
-	<String id="Tutorial.Farming.LivestockRaising_Efficiency">A eficiência mostra quantos animais a unidade pode manejar.  A unidade começa em 33%.  Se a unidade for treinada para 66% de eficiência, o rebanho terá o dobro do tamanho.</String>
-	<String id="Tutorial.Farming.LivestockRaising_TrainingSlider">Para aumentar a eficiência, é necessário aumentar o nível de treinamento.  Use o controle deslizante para definir isto para pelo menos 50%.</String>
-	<String id="Tutorial.Farming.LivestockRaising_TrainingConfirm">Confirme o nível de treinamento</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_NewDepButton">Agora você precisa adicionar uma unidade de Processamento de Animais.  Esta unidade processa o animal de uma unidade de Criação de Animais em produtos acabados.  Clique no ícone de adição para adicionar uma nova unidade.</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_BuildDepButton">Clique no botão para unidade de processamento de animais pequena</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_ConnectRaising">Agora que você tem tanto uma unidade de Criação de animais quanto uma unidade de Processamento de animais, precisamos conectá-los para que a unidade de Processamento possa obter animais da unidade de Criação de animais.  Clique na seta que aponta da unidade de Criação de animais para a unidade de Processamento de animais.</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_OpenSelectWindow">Agora você precisa selecionar em que produto processar o frango.  Clique no botão Selecionar produto</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_SelectPoultry">Selecione Carne de frango</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_ConfirmPoultry">Confirme sua seleção</String>
-	<String id="Tutorial.Farming.LivestockProcessing_Supply">As barras de oferta e demanda lhe dizem se você está processando animais suficientes em produtos acabados.||Se a barra vermelha de demanda for mais longa, sua unidade de processamento de animais não será capaz de satisfazer a demanda atual.</String>
-	<String id="Tutorial.Farming.LivestockProcessing_Utilization">A utilização mostra como a unidade está ocupada.  Se permanecer em 100%, a unidade está muito ocupada para processar tanto Frango quanto solicitado.  Neste caso, você deve aumentar a eficiência, atualizar para uma unidade maior ou construir uma segunda unidade.</String>
-	<String id="Tutorial.Farming.LivestockProcessing_Efficiency">A eficiência mostra a rapidez com que a unidade funciona.  A unidade começa em 33%.  Se a unidade for treinada para 66% de eficiência, ela processará o dobro do frango.</String>
-	<String id="Tutorial.Farming.LivestockProcessing_TrainingSlider">Para aumentar a eficiência, é necessário aumentar o nível de treinamento.  Use o controle deslizante para definir isto para pelo menos 50%.</String>
-	<String id="Tutorial.Farming.AddPoultryProcessing_TrainingConfirm">Confirme o nível de treinamento</String>
-	<String id="Tutorial.Farming.AddPoultrySales_NewDepButton">Agora o frango é processado em carne de frango.  Agora você só precisa de uma unidade de vendas para vender sua carne.  Clique no ícone de mais para adicionar uma terceira unidade.</String>
-	<String id="Tutorial.Farming.AddPoultrySales_BuildDepButton">Selecione a unidade de vendas pequena</String>
-	<String id="Tutorial.Farming.AddPoultrySales_ConnectProcessing">Agora conecte a unidade de processamento de animais com a unidade de vendas para começar a vender sua carne.  Clique nas setas entre as unidades.</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_NewDepButton">Além da carne, as galinhas também fornecem ovos.  Você precisa de uma nova unidade de Processamento de Animais para obter os ovos de sua galinha.  Clique no ícone de adição para adicionar uma nova unidade.</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_BuildDepButton">Selecione novamente a unidade de processamento de animais pequena</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_ConnectRaising">Conecte a unidade de Criação de Animais que construímos no início com a nova unidade de Processamento de Animais.  Clique na seta para conectá-los.</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_OpenSelectWindow">Clique no botão Selecionar Produto</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_SelectEggs">Desta vez, selecione os ovos</String>
-	<String id="Tutorial.Farming.AddEggsProcessing_ConfirmEggs">Confirme sua seleção</String>
-	<String id="Tutorial.Farming.AddEggsSales_NewDepButton">Para vender seus ovos, precisamos de uma segunda unidade de venda.  Clique no ícone de mais.</String>
-	<String id="Tutorial.Farming.AddEggsSales_BuildDepButton">Selecione outra unidade de vendas pequena</String>
-	<String id="Tutorial.Farming.AddEggsSales_ConnectProcessing">Clique na seta para conectar sua nova unidade de Processamento de Animais à sua nova unidade de Vendas</String>
-	<String id="Tutorial.Farming.AddCornGrowing_NewDepButton">Agora você vai cultivar sua primeira safra.  Para isso, você precisará de uma unidade de cultivo.  Clique no ícone de mais para adicioná-la.</String>
-	<String id="Tutorial.Farming.AddCornGrowing_BuildDepButton">Clique na unidade de cultivo pequena</String>
-	<String id="Tutorial.Farming.AddCornGrowing_OpenSelectWindow">Agora você precisa selecionar qual cultura cultivar.  Clique no botão Selecione Cultura</String>
-	<String id="Tutorial.Farming.AddCornGrowing_SelectCorn">Selecione Milho.  Observe como ele é semeado em um mês específico e colhido em outro.</String>
-	<String id="Tutorial.Farming.AddCornGrowing_ConfirmCorn">Confirme sua seleção</String>
-	<String id="Tutorial.Farming.AddCornGrowing_Stock">O estoque mostra quanto milho é armazenado por esta unidade.  Isto aumentará durante o mês de colheita.  Quando a colheita começa, qualquer Milho velho aqui será descartado.</String>
-	<String id="Tutorial.Farming.AddCornGrowing_Quality">Isto lhe mostra a qualidade do Milho.  Você pode aumentá-la investindo na melhoria da Qualidade</String>
-	<String id="Tutorial.Farming.AddCornGrowing_Progress">Isto lhe mostra o progresso do Milho.  O milho é plantado em maio e colhido em outubro.  Até que você tenha sua primeira colheita, nenhum Milho estará disponível nesta fazenda.</String>
-	<String id="Tutorial.Farming.AddCornGrowing_Efficiency">A eficiência determina a quantidade de milho que a unidade é capaz de colher durante o mês da colheita.  O aumento do nível de treinamento aumentará a colheita.</String>
-	<String id="Tutorial.Farming.AddCornInventory_NewDepButton">Quando a colheita começa, a unidade de cultivo limpa seu estoque existente. Adicione uma unidade de inventário para ter espaço de armazenamento extra para as safras.  Clique no ícone "mais".</String>
-	<String id="Tutorial.Farming.AddCornInventory_BuildDepButton">Selecione a unidade de inventário pequena</String>
-	<String id="Tutorial.Farming.AddCornInventory_ConnectGrowing">Clique na seta para conectar sua unidade de cultivo à sua nova unidade de Inventário.</String>
-	<String id="Tutorial.Farming.AddCornSales_NewDepButton">Para vender seu milho, você precisa de uma nova unidade de vendas.  Clique no ícone "mais".</String>
-	<String id="Tutorial.Farming.AddCornSales_BuildDepButton">Selecione novamente a unidade de vendas pequena</String>
-	<String id="Tutorial.Farming.AddCornSales_ConnectInventory">Clique na seta para conectar sua unidade de Estoque à sua nova unidade de Vendas.</String>
-	<String id="Tutorial.Farming.CloseFarmBuildingWindow">Seu milho não estará pronto para venda até que ele tenha crescido e sido colhido. Não vamos esperar por isto neste tutorial. Clique no X para fechar a janela.</String>
-	<String id="Tutorial.Farming.Finished">Neste tutorial, você aprendeu como criar animais e processá-los em produtos acabados e aprendeu a cultivar.</String>
+		<String id="Tutorial.Farming.Intro">Neste tutorial, você aprenderá o básico da criação de frangos.||Você criará frangos para produzir ovos e carne de frango, cultivará trigo, e aprenderá como aumentar a qualidade tanto do seu animais quanto das colheitas.</String>
+		<String id="Tutorial.Farming.PressBuildButton_Farm">Primeiro você precisará construir uma fazenda.||Clique no botão Construir</String>
+		<String id="Tutorial.Farming.PressFarmButton">Clique no botão Fazenda</String>
+		<String id="Tutorial.Farming.SelectMediumFarm">Mude para uma fazenda média.  As pequenas fazendas não podem cultivar, apenas criar animais.</String>
+		<String id="Tutorial.Farming.PlaceFarmBuilding">Coloque o edifício da fazenda na visualização da região. Você precisa colocá-lo próximo a uma estrada e não deve colocá-lo dentro da cidade, pois o terreno custa mais lá.||Você pode se mover pela região com as setas do teclado.</String>
+		<String id="Tutorial.Farming.PressFarmButton_Confirm">Bom - agora você só precisa confirmar a construção da fazenda. Usaremos o tamanho médio padrão.</String>
+		<String id="Tutorial.Farming.AddLivestockRaising_NewDepButton">Agora que sua fazenda está construída, você precisa acrescentar as unidades que farão a agricultura propriamente dita.  Primeiro começamos com uma unidade de Criação de Animais para a criação de frangos.  Clique no ícone de adição para adicionar uma nova unidade nesse espaço.</String>
+		<String id="Tutorial.Farming.AddLivestockRaising_BuildDepButton">Clique na unidade de Criação de animais média.||As unidades de Criação de animais são ..... </String>
+		<String id="Tutorial.Farming.AddLivestockRaising_OpenSelectWindow">Agora você precisa selecionar qual animal criar nesta unidade.  Clique no botão Selecionar animais</String>
+		<String id="Tutorial.Farming.AddLivestockRaising_SelectChicken">Selecione Frango</String>
+		<String id="Tutorial.Farming.AddLivestockRaising_ConfirmChicken">Confirme sua seleção</String>
+		<String id="Tutorial.Farming.LivestockRaising_Supply">As barras de oferta e demanda mostra se você tem animais suficientes.  Se a barra azul de oferta for maior que a barra vermelha de demanda, você terá animais suficientes.  Se a barra de demanda for maior, sua unidade de Criação de Animais não é capaz de fornecer animais suficientes para todas as suas unidades de Processamento de Animais.</String>
+		<String id="Tutorial.Farming.LivestockRaising_Quality">A qualidade de seus animais começa baixa. Todos os produtos processados ​​a partir deste, compartilharão a mesma qualidade.</String>
+		<String id="Tutorial.Farming.LivestockRaising_QualitySlider">A qualidade pode ser aumentada por gastos mensais na melhoria da qualidade. Arraste o controle deslizante para que o gasto mensal seja de pelo menos 200.000</String>
+		<String id="Tutorial.Farming.LivestockRaising_QualityConfirm">Confirmar os gastos.</String>
+		<String id="Tutorial.Farming.LivestockRaising_AnimalCount">O tamanho do rebanho é baseado na eficiência da unidade.  Uma unidade mais eficiente é capaz de lidar com um rebanho maior.</String>
+		<String id="Tutorial.Farming.LivestockRaising_Efficiency">A eficiência mostra quantos animais a unidade pode manejar.  A unidade começa em 33%.  Se a unidade for treinada para 66% de eficiência, o rebanho terá o dobro do tamanho.</String>
+		<String id="Tutorial.Farming.LivestockRaising_TrainingSlider">Para aumentar a eficiência, é necessário aumentar o nível de treinamento.  Use o controle deslizante para definir isto para pelo menos 50%.</String>
+		<String id="Tutorial.Farming.LivestockRaising_TrainingConfirm">Confirme o nível de treinamento</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_NewDepButton">Agora você precisa adicionar uma unidade de Processamento de Animais.  Esta unidade processa o animal de uma unidade de Criação de Animais em produtos acabados.  Clique no ícone de adição para adicionar uma nova unidade.</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_BuildDepButton">Clique no botão para unidade de processamento de animais pequena</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_ConnectRaising">Agora que você tem tanto uma unidade de Criação de animais quanto uma unidade de Processamento de animais, precisamos conectá-los para que a unidade de Processamento possa obter animais da unidade de Criação de animais.  Clique na seta que aponta da unidade de Criação de animais para a unidade de Processamento de animais.</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_OpenSelectWindow">Agora você precisa selecionar em que produto processar o frango.  Clique no botão Selecionar produto</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_SelectPoultry">Selecione Carne de frango</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_ConfirmPoultry">Confirme sua seleção</String>
+		<String id="Tutorial.Farming.LivestockProcessing_Supply">As barras de oferta e demanda lhe dizem se você está processando animais suficientes em produtos acabados.||Se a barra vermelha de demanda for mais longa, sua unidade de processamento de animais não será capaz de satisfazer a demanda atual.</String>
+		<String id="Tutorial.Farming.LivestockProcessing_Utilization">A utilização mostra como a unidade está ocupada.  Se permanecer em 100%, a unidade está muito ocupada para processar tanto Frango quanto solicitado.  Neste caso, você deve aumentar a eficiência, atualizar para uma unidade maior ou construir uma segunda unidade.</String>
+		<String id="Tutorial.Farming.LivestockProcessing_Efficiency">A eficiência mostra a rapidez com que a unidade funciona.  A unidade começa em 33%.  Se a unidade for treinada para 66% de eficiência, ela processará o dobro do frango.</String>
+		<String id="Tutorial.Farming.LivestockProcessing_TrainingSlider">Para aumentar a eficiência, é necessário aumentar o nível de treinamento.  Use o controle deslizante para definir isto para pelo menos 50%.</String>
+		<String id="Tutorial.Farming.AddPoultryProcessing_TrainingConfirm">Confirme o nível de treinamento</String>
+		<String id="Tutorial.Farming.AddPoultrySales_NewDepButton">Agora o frango é processado em carne de frango.  Agora você só precisa de uma unidade de vendas para vender sua carne.  Clique no ícone de mais para adicionar uma terceira unidade.</String>
+		<String id="Tutorial.Farming.AddPoultrySales_BuildDepButton">Selecione a unidade de vendas pequena</String>
+		<String id="Tutorial.Farming.AddPoultrySales_ConnectProcessing">Agora conecte a unidade de processamento de animais com a unidade de vendas para começar a vender sua carne.  Clique nas setas entre as unidades.</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_NewDepButton">Além da carne, as galinhas também fornecem ovos.  Você precisa de uma nova unidade de Processamento de Animais para obter os ovos de sua galinha.  Clique no ícone de adição para adicionar uma nova unidade.</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_BuildDepButton">Selecione novamente a unidade de processamento de animais pequena</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_ConnectRaising">Conecte a unidade de Criação de Animais que construímos no início com a nova unidade de Processamento de Animais.  Clique na seta para conectá-los.</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_OpenSelectWindow">Clique no botão Selecionar Produto</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_SelectEggs">Desta vez, selecione os ovos</String>
+		<String id="Tutorial.Farming.AddEggsProcessing_ConfirmEggs">Confirme sua seleção</String>
+		<String id="Tutorial.Farming.AddEggsSales_NewDepButton">Para vender seus ovos, precisamos de uma segunda unidade de venda.  Clique no ícone de mais.</String>
+		<String id="Tutorial.Farming.AddEggsSales_BuildDepButton">Selecione outra unidade de vendas pequena</String>
+		<String id="Tutorial.Farming.AddEggsSales_ConnectProcessing">Clique na seta para conectar sua nova unidade de Processamento de Animais à sua nova unidade de Vendas</String>
+		<String id="Tutorial.Farming.AddCornGrowing_NewDepButton">Agora você vai cultivar sua primeira safra.  Para isso, você precisará de uma unidade de cultivo.  Clique no ícone de mais para adicioná-la.</String>
+		<String id="Tutorial.Farming.AddCornGrowing_BuildDepButton">Clique na unidade de cultivo pequena</String>
+		<String id="Tutorial.Farming.AddCornGrowing_OpenSelectWindow">Agora você precisa selecionar qual cultura cultivar.  Clique no botão Selecione Cultura</String>
+		<String id="Tutorial.Farming.AddCornGrowing_SelectCorn">Selecione Milho.  Observe como ele é semeado em um mês específico e colhido em outro.</String>
+		<String id="Tutorial.Farming.AddCornGrowing_ConfirmCorn">Confirme sua seleção</String>
+		<String id="Tutorial.Farming.AddCornGrowing_Stock">O estoque mostra quanto milho é armazenado por esta unidade.  Isto aumentará durante o mês de colheita.  Quando a colheita começa, qualquer Milho velho aqui será descartado.</String>
+		<String id="Tutorial.Farming.AddCornGrowing_Quality">Isto lhe mostra a qualidade do Milho.  Você pode aumentá-la investindo na melhoria da Qualidade</String>
+		<String id="Tutorial.Farming.AddCornGrowing_Progress">Isto lhe mostra o progresso do Milho.  O milho é plantado em maio e colhido em outubro.  Até que você tenha sua primeira colheita, nenhum Milho estará disponível nesta fazenda.</String>
+		<String id="Tutorial.Farming.AddCornGrowing_Efficiency">A eficiência determina a quantidade de milho que a unidade é capaz de colher durante o mês da colheita.  O aumento do nível de treinamento aumentará a colheita.</String>
+		<String id="Tutorial.Farming.AddCornInventory_NewDepButton">Quando a colheita começa, a unidade de cultivo limpa seu estoque existente. Adicione uma unidade de inventário para ter espaço de armazenamento extra para as safras.  Clique no ícone "mais".</String>
+		<String id="Tutorial.Farming.AddCornInventory_BuildDepButton">Selecione a unidade de inventário pequena</String>
+		<String id="Tutorial.Farming.AddCornInventory_ConnectGrowing">Clique na seta para conectar sua unidade de cultivo à sua nova unidade de Inventário.</String>
+		<String id="Tutorial.Farming.AddCornSales_NewDepButton">Para vender seu milho, você precisa de uma nova unidade de vendas.  Clique no ícone "mais".</String>
+		<String id="Tutorial.Farming.AddCornSales_BuildDepButton">Selecione novamente a unidade de vendas pequena</String>
+		<String id="Tutorial.Farming.AddCornSales_ConnectInventory">Clique na seta para conectar sua unidade de Estoque à sua nova unidade de Vendas.</String>
+		<String id="Tutorial.Farming.CloseFarmBuildingWindow">Seu milho não estará pronto para venda até que ele tenha crescido e sido colhido. Não vamos esperar por isto neste tutorial. Clique no X para fechar a janela.</String>
+		<String id="Tutorial.Farming.Finished">Neste tutorial, você aprendeu como criar animais e processá-los em produtos acabados e aprendeu a cultivar.</String>
 
-	<String id="Tutorial.Factories.Intro">Neste tutorial você aprenderá como produzir bens em fábricas</String>
-	<String id="Tutorial.Factories.PressBuildButton_Factory">Clique no botão Construir</String>
-	<String id="Tutorial.Factories.PressFactoryButton">Clique no botão Fábrica</String>
-	<String id="Tutorial.Factories.PlaceFactoryBuilding">Coloque a fábrica na região.  Ela precisa estar ao lado de uma estrada.  Observe o custo do terreno - mais próximo da cidade é mais caro.</String>
-	<String id="Tutorial.Factories.PressFactoryButton_Confirm">Confirme sua localização.  Você poderia construir uma fábrica pequena ou grande, mas nós ficaremos com uma fábrica média neste tutorial.</String>
-	<String id="Tutorial.Factories.AddManufacturing_NewDepButton">Você precisa de uma unidade de manufatura para fabricar um produto.  Clique no botão "mais".</String>
-	<String id="Tutorial.Factories.AddManufacturing_BuildDepButton">Selecione uma unidade Média</String>
-	<String id="Tutorial.Factories.AddManufacturing_OpenSelectWindow">Você precisa selecionar um produto para fabricar.  Clique no botão Selecionar Produto.</String>
-	<String id="Tutorial.Factories.AddManufacturing_SelectSocks">Não temos muitas opções neste tutorial.  Selecione as meias.</String>
-	<String id="Tutorial.Factories.AddManufacturing_ConfirmSocks">Confirme sua seleção</String>
-	<String id="Tutorial.Factories.Manufacturing_Input">Observe como precisamos de Lã e tecidos para fazer meias.  Precisamos comprar os dois produtos.</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_NewDepButton">Pressione o botão "mais" para construir a primeira unidade de compra</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_BuildDepButton">Selecione uma unidade de compras pequena</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_ConnectRaising">Vincule as duas unidades para que os produtos comprados pela unidade de Compras possam fluir para a unidade de Manufatura</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_OpenSelectWindow">Em seguida, você precisará selecionar um fornecedor. Clique no botão Selecionar fornecedor</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_SelectWool">Selecione Lã</String>
-	<String id="Tutorial.Factories.AddPurchaseWool_ConfirmWool">Confirme sua escolha</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_NewDepButton">Em seguida, você precisará de outra unidade de Compras para comprar tecidos. Clique no botão mais</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_BuildDepButton">Selecione outra unidade de Compra Pequena</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_ConnectRaising">Conecte a unidade de compras à unidade de manufatura. Clique na seta.</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_OpenSelectWindow">Clique no botão Selecionar fornecedor</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_SelectTextiles">Selecione tecidos</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_ConfirmTextiles">Confirme a escolha</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_Stock">Isso mostra a quantidade de tecidos armazenados na unidade de compras. Isso fluirá para a Manufatura.</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_Supply">Observe as barras de oferta e demanda. Estes são para os tecidos vendidos pelo Porto marítimo. Se a demanda se tornar maior do que a oferta, o porto não poderá fornecer tecidos suficientes e você pode precisar procurar outro fornecedor.</String>
-	<String id="Tutorial.Factories.AddPurchaseTextiles_AutoLinkSupplierCheckbox">Às vezes o fornecimento para, seja porque uma fábrica deixa de fabricar ou um porto deixa de importar. Neste caso, a unidade de Compras pode procurar um fornecedor substituto.</String>
-	<String id="Tutorial.Factories.AddSocksSales_NewDepButton">Você também precisa de uma unidade de vendas para vender suas meias. Clique no botão mais</String>
-	<String id="Tutorial.Factories.AddSocksSales_BuildDepButton">Selecione uma unidade de venda pequena</String>
-	<String id="Tutorial.Factories.AddSocksSales_ConnectProcessing">Conecte as unidades de Processamento e Vendas para que as meias possam fluir para as Vendas. Clique na seta</String>
-	<String id="Tutorial.Factories.QualityInfo_SelectManufacturing">Selecione sua unidade de manufatura</String>
-	<String id="Tutorial.Factories.Manufacturing_Stock">Isso mostra a quantidade de produto acabado armazenado na unidade. O estoque daqui fluirá para Vendas conforme necessário.</String>
-	<String id="Tutorial.Factories.Manufacturing_InputStock0">Isso mostra a quantidade de Lã armazenada nesta unidade, pronta para ser usada na produção</String>
-	<String id="Tutorial.Factories.Manufacturing_InputStock1">Isso mostra a quantidade de tecidos armazenados nesta unidade, prontos para serem usados na produção</String>
-	<String id="Tutorial.Factories.Manufacturing_Utilization">Isso mostra o quanto a unidade de manufatura está ocupada. Se permanecer em 100%, a unidade está muito ocupada para produzir produtos suficientes.</String>
-	<String id="Tutorial.Factories.Manufacturing_Quality">Esta parte informa a qualidade do seu produto acabado.</String>
-	<String id="Tutorial.Factories.Manufacturing_QualityParts">Isso mostra como a qualidade é calculada. É a soma do valor de cada um dos produtos de entrada e o nível de tecnologia.</String>
-	<String id="Tutorial.Factories.Manufacturing_TechnologyLevel">Isso mostra o nível de tecnologia em uso por esta unidade, bem como o nível de tecnologia de sua corporação. Esta unidade usa o nível 30 do nível tecnológico de sua corporação de 30. O nível tecnológico mais alto do mundo é 100.</String>
-	<String id="Tutorial.Factories.Manufacturing_Efficiency">A eficiência informa a rapidez com que sua unidade está trabalhando. Uma unidade com 100% de eficiência pode produzir o dobro de produtos que uma unidade com 50% de eficiência.</String>
-	<String id="Tutorial.Factories.Manufacturing_UpgradeAutomatically">Quando você pesquisa avanços tecnológicos, a unidade pode começar a usar essa tecnologia automaticamente. A desvantagem é que a eficiência cairá, pois seus funcionários não estão familiarizados com a nova tecnologia.</String>
-	<String id="Tutorial.Factories.CloseFactoryBuildingWindow">Feche a janela</String>
-	<String id="Tutorial.Factories.BuildOffice_Intro">Para aumentar seu nível de tecnologia, você precisa construir laboratórios de pesquisa.</String>
-	<String id="Tutorial.Factories.BuildOffice_Start">Selecione o botão Construir</String>
-	<String id="Tutorial.Factories.BuildOffice_PressOfficeButton">Selecionar Escritórios</String>
-	<String id="Tutorial.Factories.BuildOffice_PlaceBuilding">Coloque o edifício próximo a uma estrada.</String>
-	<String id="Tutorial.Factories.BuildOffice_PressOfficeButton_Confirm">Confirme a construção.</String>
-	<String id="Tutorial.Factories.BuildOffice_AddResearch">Clique no botão de adição para adicionar uma unidade</String>
-	<String id="Tutorial.Factories.BuildOffice_BuildDepButton">Selecione um laboratório de pesquisa médio</String>
-	<String id="Tutorial.Factories.BuildOffice_OpenSelectWindow">Clique no botão para selecionar o projeto de pesquisa</String>
-	<String id="Tutorial.Factories.BuildOffice_SelectSocks">Selecione meias</String>
-	<String id="Tutorial.Factories.BuildOffice_Select2Years">Selecione um projeto de 2 anos. Projetos mais longos proporcionam maior avanço por mês.</String>
-	<String id="Tutorial.Factories.BuildOffice_ConfirmSocks">Confirme</String>
-	<String id="Tutorial.Factories.BuildOffice_Research_Outro">Em dois anos a pesquisa estará completa e seu nível tecnológico avançará.</String>
-	<String id="Tutorial.Factories.Finished">Neste tutorial você aprendeu como produzir mercadorias em fábricas</String>
+		<String id="Tutorial.Factories.Intro">Neste tutorial você aprenderá como produzir bens em fábricas</String>
+		<String id="Tutorial.Factories.PressBuildButton_Factory">Clique no botão Construir</String>
+		<String id="Tutorial.Factories.PressFactoryButton">Clique no botão Fábrica</String>
+		<String id="Tutorial.Factories.PlaceFactoryBuilding">Coloque a fábrica na região.  Ela precisa estar ao lado de uma estrada.  Observe o custo do terreno - mais próximo da cidade é mais caro.</String>
+		<String id="Tutorial.Factories.PressFactoryButton_Confirm">Confirme sua localização.  Você poderia construir uma fábrica pequena ou grande, mas nós ficaremos com uma fábrica média neste tutorial.</String>
+		<String id="Tutorial.Factories.AddManufacturing_NewDepButton">Você precisa de uma unidade de manufatura para fabricar um produto.  Clique no botão "mais".</String>
+		<String id="Tutorial.Factories.AddManufacturing_BuildDepButton">Selecione uma unidade Média</String>
+		<String id="Tutorial.Factories.AddManufacturing_OpenSelectWindow">Você precisa selecionar um produto para fabricar.  Clique no botão Selecionar Produto.</String>
+		<String id="Tutorial.Factories.AddManufacturing_SelectSocks">Não temos muitas opções neste tutorial.  Selecione as meias.</String>
+		<String id="Tutorial.Factories.AddManufacturing_ConfirmSocks">Confirme sua seleção</String>
+		<String id="Tutorial.Factories.Manufacturing_Input">Observe como precisamos de Lã e tecidos para fazer meias.  Precisamos comprar os dois produtos.</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_NewDepButton">Pressione o botão "mais" para construir a primeira unidade de compra</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_BuildDepButton">Selecione uma unidade de compras pequena</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_ConnectRaising">Vincule as duas unidades para que os produtos comprados pela unidade de Compras possam fluir para a unidade de Manufatura</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_OpenSelectWindow">Em seguida, você precisará selecionar um fornecedor. Clique no botão Selecionar fornecedor</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_SelectWool">Selecione Lã</String>
+		<String id="Tutorial.Factories.AddPurchaseWool_ConfirmWool">Confirme sua escolha</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_NewDepButton">Em seguida, você precisará de outra unidade de Compras para comprar tecidos. Clique no botão mais</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_BuildDepButton">Selecione outra unidade de Compra Pequena</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_ConnectRaising">Conecte a unidade de compras à unidade de manufatura. Clique na seta.</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_OpenSelectWindow">Clique no botão Selecionar fornecedor</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_SelectTextiles">Selecione tecidos</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_ConfirmTextiles">Confirme a escolha</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_Stock">Isso mostra a quantidade de tecidos armazenados na unidade de compras. Isso fluirá para a Manufatura.</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_Supply">Observe as barras de oferta e demanda. Estes são para os tecidos vendidos pelo Porto marítimo. Se a demanda se tornar maior do que a oferta, o porto não poderá fornecer tecidos suficientes e você pode precisar procurar outro fornecedor.</String>
+		<String id="Tutorial.Factories.AddPurchaseTextiles_AutoLinkSupplierCheckbox">Às vezes o fornecimento para, seja porque uma fábrica deixa de fabricar ou um porto deixa de importar. Neste caso, a unidade de Compras pode procurar um fornecedor substituto.</String>
+		<String id="Tutorial.Factories.AddSocksSales_NewDepButton">Você também precisa de uma unidade de vendas para vender suas meias. Clique no botão mais</String>
+		<String id="Tutorial.Factories.AddSocksSales_BuildDepButton">Selecione uma unidade de venda pequena</String>
+		<String id="Tutorial.Factories.AddSocksSales_ConnectProcessing">Conecte as unidades de Processamento e Vendas para que as meias possam fluir para as Vendas. Clique na seta</String>
+		<String id="Tutorial.Factories.QualityInfo_SelectManufacturing">Selecione sua unidade de manufatura</String>
+		<String id="Tutorial.Factories.Manufacturing_Stock">Isso mostra a quantidade de produto acabado armazenado na unidade. O estoque daqui fluirá para Vendas conforme necessário.</String>
+		<String id="Tutorial.Factories.Manufacturing_InputStock0">Isso mostra a quantidade de Lã armazenada nesta unidade, pronta para ser usada na produção</String>
+		<String id="Tutorial.Factories.Manufacturing_InputStock1">Isso mostra a quantidade de tecidos armazenados nesta unidade, prontos para serem usados na produção</String>
+		<String id="Tutorial.Factories.Manufacturing_Utilization">Isso mostra o quanto a unidade de manufatura está ocupada. Se permanecer em 100%, a unidade está muito ocupada para produzir produtos suficientes.</String>
+		<String id="Tutorial.Factories.Manufacturing_Quality">Esta parte informa a qualidade do seu produto acabado.</String>
+		<String id="Tutorial.Factories.Manufacturing_QualityParts">Isso mostra como a qualidade é calculada. É a soma do valor de cada um dos produtos de entrada e o nível de tecnologia.</String>
+		<String id="Tutorial.Factories.Manufacturing_TechnologyLevel">Isso mostra o nível de tecnologia em uso por esta unidade, bem como o nível de tecnologia de sua corporação. Esta unidade usa o nível 30 do nível tecnológico de sua corporação de 30. O nível tecnológico mais alto do mundo é 100.</String>
+		<String id="Tutorial.Factories.Manufacturing_Efficiency">A eficiência informa a rapidez com que sua unidade está trabalhando. Uma unidade com 100% de eficiência pode produzir o dobro de produtos que uma unidade com 50% de eficiência.</String>
+		<String id="Tutorial.Factories.Manufacturing_UpgradeAutomatically">Quando você pesquisa avanços tecnológicos, a unidade pode começar a usar essa tecnologia automaticamente. A desvantagem é que a eficiência cairá, pois seus funcionários não estão familiarizados com a nova tecnologia.</String>
+		<String id="Tutorial.Factories.CloseFactoryBuildingWindow">Feche a janela</String>
+		<String id="Tutorial.Factories.BuildOffice_Intro">Para aumentar seu nível de tecnologia, você precisa construir laboratórios de pesquisa.</String>
+		<String id="Tutorial.Factories.BuildOffice_Start">Selecione o botão Construir</String>
+		<String id="Tutorial.Factories.BuildOffice_PressOfficeButton">Selecionar Escritórios</String>
+		<String id="Tutorial.Factories.BuildOffice_PlaceBuilding">Coloque o edifício próximo a uma estrada.</String>
+		<String id="Tutorial.Factories.BuildOffice_PressOfficeButton_Confirm">Confirme a construção.</String>
+		<String id="Tutorial.Factories.BuildOffice_AddResearch">Clique no botão de adição para adicionar uma unidade</String>
+		<String id="Tutorial.Factories.BuildOffice_BuildDepButton">Selecione um laboratório de pesquisa médio</String>
+		<String id="Tutorial.Factories.BuildOffice_OpenSelectWindow">Clique no botão para selecionar o projeto de pesquisa</String>
+		<String id="Tutorial.Factories.BuildOffice_SelectSocks">Selecione meias</String>
+		<String id="Tutorial.Factories.BuildOffice_Select2Years">Selecione um projeto de 2 anos. Projetos mais longos proporcionam maior avanço por mês.</String>
+		<String id="Tutorial.Factories.BuildOffice_ConfirmSocks">Confirme</String>
+		<String id="Tutorial.Factories.BuildOffice_Research_Outro">Em dois anos a pesquisa estará completa e seu nível tecnológico avançará.</String>
+		<String id="Tutorial.Factories.Finished">Neste tutorial você aprendeu como produzir mercadorias em fábricas</String>
 
 	<Names Format="{1} {0}" ShortFormat="{0}" CorporationFormat="{1} {2}">
 		<!-- Format and ShortFormat: {0}=LastName, {1}=FirstName -->
@@ -1411,6 +1579,5 @@
 		<Name Kind="CorporationSuffix">International</Name>
 		<Name Kind="CorporationSuffix">Corporation</Name>
 	</Names>
-
-
+	
 </Language>
