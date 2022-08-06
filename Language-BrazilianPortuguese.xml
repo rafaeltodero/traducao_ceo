@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
-<Language name="Brazilian Portuguese" Culture="pt-BR">
+<Language name="Português-Brasil" SteamLanguageName="brazilian" Culture="pt-BR" FileId="0">
 
 
 	<String id="Action.Auctions.ToolTip">Leilões|Lista de todos os leilões em andamento e ofertas de ações/tecnologia</String>
