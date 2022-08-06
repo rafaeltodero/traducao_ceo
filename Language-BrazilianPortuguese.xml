@@ -457,9 +457,9 @@
 	<String id="Recipe.ProducedIn.CropText">Crescido em um slot de Cultivo Crescendo em uma Fazenda</String>
 	<String id="Recipe.ProducedIn.LivestockText">Feito em um slot de processamento de animais em uma fazenda</String>
 	<String id="Recipe.ProducedIn.LoggingText">Feito em um slot de Extração de Madereira em um acampamento madereiro</String>
-	<String id="Recipe.ProducedIn.ManufacturingText">Made in a Manufacturing slot in a Factory <= Linha nova }</String>
-	<String id="Recipe.ProducedIn.MineText">Made in a Mining slot in a Mine <= Linha nova }</String>
-	<String id="Recipe.ProducedIn.OilText">Made in an Oil Extraction slot in an Oil Well <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.ManufacturingText">Feito em um slot de manufatura em uma fábrica</String>
+	<String id="Recipe.ProducedIn.MineText">Feito em um slot de mineração em uma mina</String>
+	<String id="Recipe.ProducedIn.OilText">Feito em um slot de extração de petróleo em um poço de petróleo</String>
 	<String id="Region.1.Name">O Norte</String>
 	<String id="Region.2.Name">O Sul</String>
 	<String id="Region.255.Name">Tutorialville</String>
@@ -498,17 +498,17 @@
 	<String id="Scene.CustomGame.StartGameButton.Text">INICIAR JOGO</String>
 	<String id="Scene.CustomGame.WorldSettings.Text">Configurações do Mundo</String>
 	<String id="Scene.GameResults.DetailedScore.Text">Pontuação detalhada</String>
-	<String id="Scene.GameResults.Goals.Text">Goals <= Linha nova }</String>
-	<String id="Scene.GameResults.MultiplayerNoCorporation.Text">No corporation <= Linha nova }</String>
-	<String id="Scene.GameResults.NoCorporation.Text">Liquidated <= Linha nova }</String>
-	<String id="Scene.GameResults.NotCompleted.Text">Game not completed <= Linha nova }</String>
+	<String id="Scene.GameResults.Goals.Text">Objectivos</String>
+	<String id="Scene.GameResults.MultiplayerNoCorporation.Text">Nenhuma corporação</String>
+	<String id="Scene.GameResults.NoCorporation.Text">Liquidada</String>
+	<String id="Scene.GameResults.NotCompleted.Text">Jogo não concluído</String>
 	<String id="Scene.GameResults.OkButton.Text">OK</String>
 	<String id="Scene.GameResults.Players.Text">Jogadores</String>
-	<String id="Scene.GameResults.Result.AchievedGoals.Text">You achieved all goals <= Linha nova }</String>
-	<String id="Scene.GameResults.Result.FailedAchieveGoals.Text">You failed to achieve all goals <= Linha nova }</String>
-	<String id="Scene.GameResults.Result.MultiplayerNoCorporation.Text">You do not control a corporation - you failed the game <= Linha nova }</String>
-	<String id="Scene.GameResults.Result.NoCorporation.Text">Your corporation was liquidated - you failed the game <= Linha nova }</String>
-	<String id="Scene.GameResults.Result.NoGoals.Text">Game is over <= Linha nova }</String>
+	<String id="Scene.GameResults.Result.AchievedGoals.Text">Você atingiu todos os objetivos</String>
+	<String id="Scene.GameResults.Result.FailedAchieveGoals.Text">Você não conseguiu atingir todos os objetivos</String>
+	<String id="Scene.GameResults.Result.MultiplayerNoCorporation.Text">Você não controla uma corporação - você falhou no jogo</String>
+	<String id="Scene.GameResults.Result.NoCorporation.Text">Sua corporação foi liquidada - você falhou no jogo</String>
+	<String id="Scene.GameResults.Result.NoGoals.Text">O jogo acabou</String>
 	<String id="Scene.GameResults.ScoreLabel.Text">Pontos:</String>
 	<String id="Scene.MainLobby.ContinueButton.Text">CONTINUAR O JOGO</String>
 	<String id="Scene.MainLobby.CreditsButton.Text">CRÉDITOS</String>
@@ -520,19 +520,19 @@
 	<String id="Scene.MainLobby.ScenariosButton.Text">CENÁRIOS</String>
 	<String id="Scene.MainLobby.TutorialsButton.Text">TUTORIAIS</String>
 	<String id="Scene.Multiplayer.DirectConnectButton.Text">CONEXÃO DIRETA</String>
-	<String id="Scene.Multiplayer.GameList.NoGames1">No games found <= Linha nova }</String>
-	<String id="Scene.Multiplayer.GameList.NoGames2">Wait for a game to be created or start a new game yourself <= Linha nova }</String>
+	<String id="Scene.Multiplayer.GameList.NoGames1">Nenhum jogo encontrado</String>
+	<String id="Scene.Multiplayer.GameList.NoGames2">Aguarde a criação de um jogo ou inicie um novo jogo você mesmo</String>
 	<String id="Scene.Multiplayer.HostGameButton.Text">NOVO JOGO</String>
 	<String id="Scene.Multiplayer.JoinGameButton.Text">ENTRAR NO JOGO</String>
 	<String id="Scene.Multiplayer.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Multiplayer.MultiplayerGames.Text">Jogos Multiplayer</String>
-	<String id="Scene.Multiplayer.NewGame.CreateGame.Text">CREATE GAME <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.GameName.HintText">Game name <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.GameName.Label">Game name <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.MaxPlayers.Label">Max players <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.Password.HintText">Optional password <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.Password.Label">Password <= Linha nova }</String>
-	<String id="Scene.Multiplayer.NewGame.Title">New game <= Linha nova }</String>
+	<String id="Scene.Multiplayer.NewGame.CreateGame.Text">CRIAR JOGO</String>
+	<String id="Scene.Multiplayer.NewGame.GameName.HintText">Nome do jogo</String>
+	<String id="Scene.Multiplayer.NewGame.GameName.Label">Nome do jogo</String>
+	<String id="Scene.Multiplayer.NewGame.MaxPlayers.Label">Máximo de jogadores</String>
+	<String id="Scene.Multiplayer.NewGame.Password.HintText">Senha opcional</String>
+	<String id="Scene.Multiplayer.NewGame.Password.Label">Senha</String>
+	<String id="Scene.Multiplayer.NewGame.Title">Novo jogo</String>
 	<String id="Scene.Multiplayer.SwitchLanGameButton.Text">LAN</String>
 	<String id="Scene.MultiplayerLobby.AbortGameButton.Text">ABORTAR JOGO</String>
 	<String id="Scene.MultiplayerLobby.Chat.Text">Chat</String>
@@ -554,12 +554,12 @@
 	<String id="Scene.Tutorials.MainMenuButton.Text">MENU PRINCIPAL</String>
 	<String id="Scene.Tutorials.StartButton.Text">INICIAR</String>
 	<String id="Scene.Tutorials.StartGameButton.Text">INICIAR JOGO</String>
-	<String id="Settings.Difficulty0">Very easy <= Linha nova }</String>
-	<String id="Settings.Difficulty1">Easy <= Linha nova }</String>
-	<String id="Settings.Difficulty2">Normal <= Linha nova }</String>
-	<String id="Settings.Difficulty3">Hard <= Linha nova }</String>
-	<String id="Settings.Difficulty4">Very hard <= Linha nova }</String>
-	<String id="Settings.DifficultyCustom">Custom <= Linha nova }</String>
+	<String id="Settings.Difficulty0">Muito fácil</String>
+	<String id="Settings.Difficulty1">Fácil</String>
+	<String id="Settings.Difficulty2">Normal</String>
+	<String id="Settings.Difficulty3">Difícil</String>
+	<String id="Settings.Difficulty4">Muito difícil</String>
+	<String id="Settings.DifficultyCustom">Personalizado</String>
 	<String id="Settings.EconomyLevel0">Muito fácil</String>
 	<String id="Settings.EconomyLevel1">Fácil</String>
 	<String id="Settings.EconomyLevel2">Normal</String>
@@ -604,77 +604,77 @@
 	<String id="Status.SupplyLostLogEntry.Text" P0="Purchasing.Building.GetName()" P1="Purchasing.ProductType.Title">{0} perdeu o fornecimento de {1}</String>
 	<String id="Status.TechUpgradeAvailableLogEntry.Text" P0="Manufacturing.Building.GetName()" P1="Manufacturing.ProductType.Title">{0} pode atualizar a tecnologia de {1}</String>
 	<String id="StatusBit.Advancement.Label">Progresso</String>
-	<String id="StatusBit.Advancement.ToolTip">The increase in technology levels after this project completes <= Linha nova }</String>
+	<String id="StatusBit.Advancement.ToolTip">O aumento dos níveis de tecnologia após a conclusão deste projeto</String>
 	<String id="StatusBit.AdvertisingSpending.Label">Custo mensal</String>
-	<String id="StatusBit.AdvertisingSpending.ToolTip">How much is spent per month for advertising by this unit <= Linha nova }</String>
+	<String id="StatusBit.AdvertisingSpending.ToolTip">Quanto é gasto por mês em publicidade por esta unidade</String>
 	<String id="StatusBit.AnimalCount.Label">Rebanho</String>
-	<String id="StatusBit.AnimalCount.ToolTip">Size of the herd in number of animals <= Linha nova }</String>
-	<String id="StatusBit.AnimalDemand.Label">Demand <= Linha nova }</String>
-	<String id="StatusBit.AnimalDemand.ToolTip">Current Demand for this livestock.  If this bar is higher than Supply-bar, the herd is too small to meet demand. <= Linha nova }</String>
-	<String id="StatusBit.AnimalQuality.Label">Quality <= Linha nova }</String>
-	<String id="StatusBit.AnimalQuality.ToolTip">The livestock's current quality <= Linha nova }</String>
-	<String id="StatusBit.AnimalSupply.Label">Supply <= Linha nova }</String>
-	<String id="StatusBit.AnimalSupply.ToolTip">Currently available Supply of this livestock.  If bar is full, the herd is big enough to meet the demand. <= Linha nova }</String>
+	<String id="StatusBit.AnimalCount.ToolTip">Tamanho do rebanho em número de animais</String>
+	<String id="StatusBit.AnimalDemand.Label">Demanda</String>
+	<String id="StatusBit.AnimalDemand.ToolTip">Demanda atual para este gado. Se esta barra for maior que a barra de oferta, o rebanho é muito pequeno para atender a demanda.</String>
+	<String id="StatusBit.AnimalQuality.Label">Qualidade</String>
+	<String id="StatusBit.AnimalQuality.ToolTip">A qualidade atual do gado</String>
+	<String id="StatusBit.AnimalSupply.Label">Fornecimento</String>
+	<String id="StatusBit.AnimalSupply.ToolTip">Fornecimento atualmente disponível deste animal. Se a barra estiver cheia, o rebanho é grande o suficiente para atender a demanda.</String>
 	<String id="StatusBit.Availability.Label">Disponibilidade</String>
-	<String id="StatusBit.Availability.ToolTip">Period this product is available (can be produced) <= Linha nova }</String>
-	<String id="StatusBit.AverageBrand.Label">Brand <= Linha nova }</String>
-	<String id="StatusBit.AverageBrand.ToolTip">Average Brand-rating of products sold <= Linha nova }</String>
-	<String id="StatusBit.AveragePrice.Label">Price <= Linha nova }</String>
-	<String id="StatusBit.AveragePrice.ToolTip">Average price of products sold <= Linha nova }</String>
-	<String id="StatusBit.AverageQuality.Label">Quality <= Linha nova }</String>
-	<String id="StatusBit.AverageQuality.ToolTip">Average Quality-rating of products sold <= Linha nova }</String>
-	<String id="StatusBit.AverageRating.Label">Rating <= Linha nova }</String>
-	<String id="StatusBit.AverageRating.ToolTip">Average (weighted) rating of products sold <= Linha nova }</String>
+	<String id="StatusBit.Availability.ToolTip">Período em que este produto está disponível (pode ser produzido)</String>
+	<String id="StatusBit.AverageBrand.Label">Marca</String>
+	<String id="StatusBit.AverageBrand.ToolTip">Classif. média da marca dos produtos vendidos</String>
+	<String id="StatusBit.AveragePrice.Label">Preço</String>
+	<String id="StatusBit.AveragePrice.ToolTip">Preço médio dos produtos vendidos</String>
+	<String id="StatusBit.AverageQuality.Label">Qualidade</String>
+	<String id="StatusBit.AverageQuality.ToolTip">Classificação média de qualidade dos produtos vendidos</String>
+	<String id="StatusBit.AverageRating.Label">Avaliação</String>
+	<String id="StatusBit.AverageRating.ToolTip">Classificação média (ponderada) dos produtos vendidos</String>
 	<String id="StatusBit.Brand.Label">Marca</String>
-	<String id="StatusBit.Brand.ToolTip">The current rating for this brand <= Linha nova }</String>
+	<String id="StatusBit.Brand.ToolTip">A classificação atual para esta marca</String>
 	<String id="StatusBit.BrandConcern.Label">Preocupação com a marca</String>
-	<String id="StatusBit.BrandConcern.ToolTip">Shows the effect the Brand rating has on the overall product rating. <= Linha nova }</String>
+	<String id="StatusBit.BrandConcern.ToolTip">Mostra o efeito que a classificação da marca tem na classificação geral do produto.</String>
 	<String id="StatusBit.Cash.Label">Dinheiro</String>
-	<String id="StatusBit.ContainerPerDay.Label">Container/day <= Linha nova }</String>
-	<String id="StatusBit.ContainerPerDay.ToolTip">Number of containers produced per day in a size 1 unit at 100% efficiency <= Linha nova }</String>
-	<String id="StatusBit.ContainerPerDay.Value" P="unit count">{0:n0} <= Linha nova }</String>
+	<String id="StatusBit.ContainerPerDay.Label">Contêiner/dia</String>
+	<String id="StatusBit.ContainerPerDay.ToolTip">Número de contêineres produzidos por dia em uma unidade de tamanho 1 com 100% de eficiência</String>
+	<String id="StatusBit.ContainerPerDay.Value" P="unit count">{0:n0}</String>
 	<String id="StatusBit.Cost.Label">Custo</String>
-	<String id="StatusBit.Cost.ToolTip">Cost per unit <= Linha nova }</String>
-	<String id="StatusBit.CropProgress.Label">Progress <= Linha nova }</String>
-	<String id="StatusBit.CropProgress.ToolTip">The current stage of the growing process.  The progress bar starts at sowing and stops at the end of harvesting <= Linha nova }</String>
+	<String id="StatusBit.Cost.ToolTip">Custo por unid.</String>
+	<String id="StatusBit.CropProgress.Label">Progresso</String>
+	<String id="StatusBit.CropProgress.ToolTip">O estágio atual do processo de crescimento. A barra de progresso começa na semeadura e para no final da colheita</String>
 	<String id="StatusBit.CurrentLevel.Label">Nível tecnológico atual</String>
-	<String id="StatusBit.CurrentLevel.ToolTip">Corporation's current Technology level <= Linha nova }</String>
+	<String id="StatusBit.CurrentLevel.ToolTip">Nível de tecnologia atual da corporação</String>
 	<String id="StatusBit.Demand.Label">Demanda</String>
-	<String id="StatusBit.Demand.ToolTip">Current Demand for this product.  If this bar is higher than Supply-bar, there is not enough supply to meet demand. <= Linha nova }</String>
+	<String id="StatusBit.Demand.ToolTip">Demanda atual para este produto. Se esta barra for superior à barra de oferta, não há oferta suficiente para atender à demanda.</String>
 	<String id="StatusBit.Efficiency.Label">Eficiência</String>
-	<String id="StatusBit.Efficiency.ToolTip">The efficiency of this unit.|Higher efficiency units can move/store/produce more units per day.|Can be increased with training. <= Linha nova }</String>
+	<String id="StatusBit.Efficiency.ToolTip">A eficiência desta unidade.|Unidades de maior eficiência podem mover/armazenar/produzir mais unidades por dia.|Pode ser aumentada com treinamento.</String>
 	<String id="StatusBit.Exhausted.Value">O recurso está esgotado</String>
-	<String id="StatusBit.FreightPerContainer.Label">Freight/container <= Linha nova }</String>
-	<String id="StatusBit.FreightPerContainer.ToolTip">Base freight cost per container|Adjusted for distance|Freight to or from a warehouse only pays 1/3 <= Linha nova }</String>
-	<String id="StatusBit.FreightPerContainer.Value" P="cost per container">{0:n2} <= Linha nova }</String>
+	<String id="StatusBit.FreightPerContainer.Label">Frete/contêiner</String>
+	<String id="StatusBit.FreightPerContainer.ToolTip">Custo base de frete por contêiner|Ajustado pela distância|Frete de ou para um armazém paga apenas 1/3</String>
+	<String id="StatusBit.FreightPerContainer.Value" P="cost per container">{0:n2}</String>
 	<String id="StatusBit.Goals.IndustriesDomineered.Label">Indústrias dominadas</String>
-	<String id="StatusBit.Goals.IndustriesDomineered.LongLabel"># of industries domineered <= Linha nova }</String>
+	<String id="StatusBit.Goals.IndustriesDomineered.LongLabel"># das indústrias dominadas</String>
 	<String id="StatusBit.Goals.MaxYears.Label">Máx. de anos</String>
-	<String id="StatusBit.Goals.MaxYears.LongLabel">Years to accomplish goals <= Linha nova }</String>
+	<String id="StatusBit.Goals.MaxYears.LongLabel">Anos para cumprir metas</String>
 	<String id="StatusBit.Goals.MaxYears.Value" P0="years elapsed" P1="target max years">{0:n0} de {1:n0} anos</String>
 	<String id="StatusBit.Goals.NetWorth.Label">Patrimônio líquido</String>
-	<String id="StatusBit.Goals.NetWorth.LongLabel">Net worth <= Linha nova }</String>
+	<String id="StatusBit.Goals.NetWorth.LongLabel">Patrimônio líquido</String>
 	<String id="StatusBit.Goals.Ownership.Label">Propriedade</String>
-	<String id="StatusBit.Goals.Ownership.LongLabel">Personal ownership <= Linha nova }</String>
+	<String id="StatusBit.Goals.Ownership.LongLabel">Propriedade pessoal</String>
 	<String id="StatusBit.Goals.PersonNetWorth.Label">Patrimônio líquido pessoal</String>
-	<String id="StatusBit.Goals.PersonNetWorth.LongLabel">Personal net worth <= Linha nova }</String>
+	<String id="StatusBit.Goals.PersonNetWorth.LongLabel">Patrimônio líquido pessoal</String>
 	<String id="StatusBit.Goals.PersonNetWorthWorldRanking.Label">Os mais ricos do mundo</String>
 	<String id="StatusBit.Goals.ProductClassesDomineered.Label">Classes de produtos dominadas</String>
-	<String id="StatusBit.Goals.ProductClassesDomineered.LongLabel"># of product classes domineered <= Linha nova }</String>
+	<String id="StatusBit.Goals.ProductClassesDomineered.LongLabel"># das classes de produtos dominada</String>
 	<String id="StatusBit.Goals.ProductClassesProduced.Label">Classes de produtos produzidos</String>
-	<String id="StatusBit.Goals.ProductClassesProduced.LongLabel"># of product classes produced <= Linha nova }</String>
+	<String id="StatusBit.Goals.ProductClassesProduced.LongLabel"># de classes de produtos produzidos</String>
 	<String id="StatusBit.Goals.ProductTypesDomineered.Label">Tipos de produtos dominados</String>
-	<String id="StatusBit.Goals.ProductTypesDomineered.LongLabel"># of product types domineered <= Linha nova }</String>
+	<String id="StatusBit.Goals.ProductTypesDomineered.LongLabel"># dos tipos de produtos dominados</String>
 	<String id="StatusBit.Goals.ProductTypesProduced.Label">Tipos de produtos produzidos</String>
-	<String id="StatusBit.Goals.ProductTypesProduced.LongLabel"># of product types produced <= Linha nova }</String>
+	<String id="StatusBit.Goals.ProductTypesProduced.LongLabel"># de tipos de produtos produzidos</String>
 	<String id="StatusBit.Goals.Profit.Label">Lucro anual</String>
-	<String id="StatusBit.Goals.Profit.LongLabel">Annual profit <= Linha nova }</String>
+	<String id="StatusBit.Goals.Profit.LongLabel">Lucro anual</String>
 	<String id="StatusBit.Goals.ProfitMargin.Label">Margem de lucro</String>
-	<String id="StatusBit.Goals.ProfitMargin.LongLabel">Profit margin <= Linha nova }</String>
+	<String id="StatusBit.Goals.ProfitMargin.LongLabel">Margem de lucro</String>
 	<String id="StatusBit.Goals.Revenue.Label">Receita anual</String>
-	<String id="StatusBit.Goals.Revenue.LongLabel">Annual revenue <= Linha nova }</String>
+	<String id="StatusBit.Goals.Revenue.LongLabel">Receita anual</String>
 	<String id="StatusBit.GrowPeriod.Label">Período de crescimento</String>
-	<String id="StatusBit.GrowPeriod.ToolTip">The first month is the sowing month, the last is the harvesting month.  The months in between is when the crops are growing. <= Linha nova }</String>
+	<String id="StatusBit.GrowPeriod.ToolTip">O primeiro mês é o mês da semeadura, o último é o mês da colheita. Os meses entre, é quando as colheitas estão crescendo.</String>
 	<String id="StatusBit.InputQualityN.Label" P0="Product type title">{0} Qualidade</String>
 	<String id="StatusBit.Invalid.Value">Parado</String>
 	<String id="StatusBit.Invalid_NoCrop.Value">Inativo - nenhum corte selecionado</String>
@@ -684,43 +684,43 @@
 	<String id="StatusBit.Invalid_NoProject.Value">Inativo - nenhum projeto selecionado</String>
 	<String id="StatusBit.Invalid_NoSupplier.Value">Nenhum fornecedor</String>
 	<String id="StatusBit.LivestockDemand.Label">Demanda de Animais</String>
-	<String id="StatusBit.LivestockDemand.ToolTip">This unit's current Demand for livestock.  If this bar is higher than Supply-bar, the herds are too small to meet demand. <= Linha nova }</String>
+	<String id="StatusBit.LivestockDemand.ToolTip">Demanda atual de animais desta unidade. Se esta barra for maior que a Barra de Abastecimento, os rebanhos são muito pequenos para atender a demanda.</String>
 	<String id="StatusBit.LivestockSupply.Label">Fornecimento de Animais</String>
-	<String id="StatusBit.LivestockSupply.ToolTip">Currently available Supply of this product.  If bar is full, the herds are big enough to meet this unit's demand. <= Linha nova }</String>
-	<String id="StatusBit.LocalVendorsBrand.Label">Brand <= Linha nova }</String>
-	<String id="StatusBit.LocalVendorsPrice.Label">Price <= Linha nova }</String>
-	<String id="StatusBit.LocalVendorsQuality.Label">Quality <= Linha nova }</String>
-	<String id="StatusBit.LocalVendorsRating.Label">Rating <= Linha nova }</String>
-	<String id="StatusBit.ManufacturingInputQuality.ToolTip">The quality of this input product and its effect on the manufactured product's quality <= Linha nova }</String>
-	<String id="StatusBit.ManufacturingInputStock.ToolTip">Current stock level of this input product <= Linha nova }</String>
-	<String id="StatusBit.ManufacturingTechnology.Label">Technology <= Linha nova }</String>
-	<String id="StatusBit.ManufacturingTechnology.ToolTip">Current technology and its effect on the manufactured product's quality <= Linha nova }</String>
+	<String id="StatusBit.LivestockSupply.ToolTip">Atualmente disponível Fornecimento deste produto. Se a barra estiver cheia, os rebanhos são grandes o suficiente para atender a demanda desta unidade.</String>
+	<String id="StatusBit.LocalVendorsBrand.Label">Marca</String>
+	<String id="StatusBit.LocalVendorsPrice.Label">Preço</String>
+	<String id="StatusBit.LocalVendorsQuality.Label">Qualidade</String>
+	<String id="StatusBit.LocalVendorsRating.Label">Avaliação</String>
+	<String id="StatusBit.ManufacturingInputQuality.ToolTip">A qualidade deste produto de entrada e seu efeito na qualidade do produto fabricado</String>
+	<String id="StatusBit.ManufacturingInputStock.ToolTip">Nível de estoque atual deste produto de entrada</String>
+	<String id="StatusBit.ManufacturingTechnology.Label">Tecnologia</String>
+	<String id="StatusBit.ManufacturingTechnology.ToolTip">Tecnologia atual e seu efeito na qualidade do produto fabricado</String>
 	<String id="StatusBit.MaxInventoryLevel.Label">Nível máximo</String>
 	<String id="StatusBit.OwnRating.Label">Avaliaç</String>
-	<String id="StatusBit.OwnRating.ToolTip">Product's current Rating|Rating is a combination of Brand rating, Quality rating and Price attractiveness <= Linha nova }</String>
+	<String id="StatusBit.OwnRating.ToolTip">A Avaliação atual do produto | Avaliação é uma combinação de classificação da marca, classificação de qualidade e atratividade do preço</String>
 	<String id="StatusBit.Price.Label">Preço</String>
-	<String id="StatusBit.Price.ToolTip">Price per unit <= Linha nova }</String>
-	<String id="StatusBit.Production.Label">Production <= Linha nova }</String>
-	<String id="StatusBit.Production.ToolTip">Number of units produced yesterday and yesterday's production capacity <= Linha nova }</String>
+	<String id="StatusBit.Price.ToolTip">Preço por unidade</String>
+	<String id="StatusBit.Production.Label">Produção</String>
+	<String id="StatusBit.Production.ToolTip">Número de unidades produzidas ontem e capacidade de produção de ontem</String>
 	<String id="StatusBit.ProjectSize.Label">Tamanho do projeto</String>
-	<String id="StatusBit.ProjectSize.ToolTip">Size of the project in months <= Linha nova }</String>
+	<String id="StatusBit.ProjectSize.ToolTip">Tamanho do projeto em meses</String>
 	<String id="StatusBit.ProjectSize.Value" P0="number of months">{0} meses</String>
 	<String id="StatusBit.Quality.Label">Qualid.</String>
-	<String id="StatusBit.Quality.ToolTip">The product's current quality <= Linha nova }</String>
+	<String id="StatusBit.Quality.ToolTip">A qualidade atual do produto</String>
 	<String id="StatusBit.QualitySpending.Label">Custo mensal</String>
-	<String id="StatusBit.QualitySpending.ToolTip">How much is spent per month to increase quality in this unit <= Linha nova }</String>
-	<String id="StatusBit.ResearchProgress.Label">Progress <= Linha nova }</String>
-	<String id="StatusBit.ResearchProgress.ToolTip">Shows the progress of this research progress.  Project ends when bar is full. <= Linha nova }</String>
+	<String id="StatusBit.QualitySpending.ToolTip">Quanto é gasto por mês para aumentar a qualidade nesta unidade</String>
+	<String id="StatusBit.ResearchProgress.Label">Progresso</String>
+	<String id="StatusBit.ResearchProgress.ToolTip">Mostra o andamento deste progresso de pesquisa. O projeto termina quando a barra está cheia.</String>
 	<String id="StatusBit.Reserve.Label">Reserva</String>
-	<String id="StatusBit.Reserve.ToolTip">How much natural resource is left to extract before this resource is exhausted <= Linha nova }</String>
-	<String id="StatusBit.Settings.Auctions.CheckboxLabel">Use auctions <= Linha nova }</String>
+	<String id="StatusBit.Reserve.ToolTip">Quanto recurso natural resta para extrair antes que este recurso se esgote</String>
+	<String id="StatusBit.Settings.Auctions.CheckboxLabel">Usar leilões</String>
 	<String id="StatusBit.Settings.Auctions.Label">Leilões</String>
 	<String id="StatusBit.Settings.Auctions.No">Off</String>
 	<String id="StatusBit.Settings.Auctions.Yes">On</String>
 	<String id="StatusBit.Settings.CompetitorCapital.Label">Capital concorrente</String>
 	<String id="StatusBit.Settings.CompetitorCount.Label">Concorrentes</String>
 	<String id="StatusBit.Settings.CompetitorLevel.Label">Nível do concorrente</String>
-	<String id="StatusBit.Settings.ConstantImports.CheckboxLabel">Constant <= Linha nova }</String>
+	<String id="StatusBit.Settings.ConstantImports.CheckboxLabel">Constante</String>
 	<String id="StatusBit.Settings.ConstantImports.Label">Importações constantes</String>
 	<String id="StatusBit.Settings.ConstantImports.No">NÃO</String>
 	<String id="StatusBit.Settings.ConstantImports.Yes">Sim</String>
@@ -731,22 +731,22 @@
 	<String id="StatusBit.Settings.LocalVendorsLevel.Label">Nível de fornecedores locais</String>
 	<String id="StatusBit.Settings.NaturalResourceAmount.Label">Recursos Naturais</String>
 	<String id="StatusBit.Settings.PlayerCapital.Label">Capital do jogador</String>
-	<String id="StatusBit.Settings.PriceAgreements.CheckboxLabel">Can not undercut producer <= Linha nova }</String>
+	<String id="StatusBit.Settings.PriceAgreements.CheckboxLabel">Não pode prejudicar o produtor</String>
 	<String id="StatusBit.Settings.PriceAgreements.Label">Acordos de preços</String>
 	<String id="StatusBit.Settings.PriceAgreements.No">Off</String>
 	<String id="StatusBit.Settings.PriceAgreements.Yes">On</String>
 	<String id="StatusBit.Settings.RegionCount.Label">Regiões</String>
 	<String id="StatusBit.Settings.RegionCount.Value" P0="Region count">{0} regiões</String>
-	<String id="StatusBit.Settings.StockMarket.CheckboxLabel">Available <= Linha nova }</String>
+	<String id="StatusBit.Settings.StockMarket.CheckboxLabel">Disponível</String>
 	<String id="StatusBit.Settings.StockMarket.Label">Mercado de ações</String>
 	<String id="StatusBit.Settings.StockMarket.No">Indisponível</String>
 	<String id="StatusBit.Settings.StockMarket.Yes">Disponível</String>
-	<String id="StatusBit.Settings.TradeSecrets.CheckboxLabel">Hide trade secrets <= Linha nova }</String>
+	<String id="StatusBit.Settings.TradeSecrets.CheckboxLabel">Ocultar segredos comerciais</String>
 	<String id="StatusBit.Settings.TradeSecrets.Label">Segredos comerciais</String>
 	<String id="StatusBit.Settings.TradeSecrets.No">Off</String>
 	<String id="StatusBit.Settings.TradeSecrets.Yes">On</String>
 	<String id="StatusBit.Shipping.Label">Transporte</String>
-	<String id="StatusBit.Shipping.ToolTip">Transportation cost per unit <= Linha nova }</String>
+	<String id="StatusBit.Shipping.ToolTip">Custo de transporte por unidade</String>
 	<String id="StatusBit.Stock.DividendYield.Label">Dividend Yield</String>
 	<String id="StatusBit.Stock.EarningsPerShare.Label">Lucro por ação</String>
 	<String id="StatusBit.Stock.EquityPerShare.Label">Patrimônio por ação</String>
@@ -754,33 +754,33 @@
 	<String id="StatusBit.Stock.PriceEarningsRatio.Label">Índice Preço/Lucro</String>
 	<String id="StatusBit.Stock.ShareCount.Label">Nº total de ações</String>
 	<String id="StatusBit.Stock.StockPrice.Label">Preço da ação</String>
-	<String id="StatusBit.Stock.ToolTip">How much stock is stored in the unit <= Linha nova }</String>
+	<String id="StatusBit.Stock.ToolTip">Quanto estoque é armazenado na unidade</String>
 	<String id="StatusBit.Stock.TotalReturn.Label">Retorno total</String>
 	<String id="StatusBit.Stocks.Label">Estoque</String>
 	<String id="StatusBit.Supply.Label">Oferta</String>
-	<String id="StatusBit.Supply.ToolTip">Currently available Supply of this product.  If bar is full, all demand is met. <= Linha nova }</String>
+	<String id="StatusBit.Supply.ToolTip">Atualmente disponível Fornecimento deste produto. Se a barra estiver cheia, toda a demanda será atendida.</String>
 	<String id="StatusBit.Technology.Label">Tecnologia</String>
 	<String id="StatusBit.Technology.Value" P0="TechnologyQualityPart" P1="TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)" P3="ProductType.Recipe.QualityTechnologyShare">{0} ({1} / {2} × {3:0%})</String>
 	<String id="StatusBit.TechnologyLevel.Label">Technology Level</String>
-	<String id="StatusBit.TechnologyLevel.ToolTip">Current Technology Level in use in this unit, Corporation's Technology Level and World's Technology Level <= Linha nova }</String>
-	<String id="StatusBit.TechnologyLevel.Value" P0="TechnologyLevel" P1="Building.Operator.CorporationProductTypes[ProductType].TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)">{0} of {1} (Top {2}) <= Linha nova }</String>
+	<String id="StatusBit.TechnologyLevel.ToolTip">Nível de Tecnologia Atual em uso nesta unidade, Nível de Tecnologia da Corporação e Nível de Tecnologia do Mundo</String>
+	<String id="StatusBit.TechnologyLevel.Value" P0="TechnologyLevel" P1="Building.Operator.CorporationProductTypes[ProductType].TechnologyLevel" P2="Building.Region.World.GetTopTechnologyLevel(ProductType)">{0} de {1} (Top {2})</String>
 	<String id="StatusBit.TrainingSpending.Label">Nível de treinamento</String>
-	<String id="StatusBit.TrainingSpending.ToolTip">The current monthly spending on training (as a percentage of current monthly wages) <= Linha nova }</String>
-	<String id="StatusBit.UnitPerContainer.Label">Units/container <= Linha nova }</String>
-	<String id="StatusBit.UnitPerContainer.ToolTip">Number of units per container <= Linha nova }</String>
-	<String id="StatusBit.UnitPerContainer.Value" P="unit count">{0:n0} <= Linha nova }</String>
+	<String id="StatusBit.TrainingSpending.ToolTip">O gasto mensal atual em treinamento (como porcentagem do salário mensal atual)</String>
+	<String id="StatusBit.UnitPerContainer.Label">Unid/contêiner</String>
+	<String id="StatusBit.UnitPerContainer.ToolTip">Número de unidades por contêiner</String>
+	<String id="StatusBit.UnitPerContainer.Value" P="unit count">{0:n0}</String>
 	<String id="StatusBit.Utilization.Label">Utilização</String>
-	<String id="StatusBit.Utilization.ToolTip">Shows the average level of utilization for this unit over the last month.|100% means that the unit is unable to do any more work. <= Linha nova }</String>
+	<String id="StatusBit.Utilization.ToolTip">Mostra o nível médio de utilização desta unidade no último mês.|100% significa que a unidade não pode mais trabalhar.</String>
 	<String id="StatusBit.Value.Label">Valor</String>
 	<String id="StatusBit.Wages.Label">Salários mensais</String>
-	<String id="StatusBit.Wages.ToolTip">Monthly cost of wages for this unit <= Linha nova }</String>
+	<String id="StatusBit.Wages.ToolTip">Custo mensal dos salários para esta unidade</String>
 	<String id="StatusBit.Worth.Label">Worth</String>
 	<String id="StockOfferCard.AcceptButton.ToolTip">Aceitar oferta</String>
 	<String id="StockOfferCard.Ask100Button.ToolTip">Pedir mais 100%</String>
 	<String id="StockOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.Ask50Button.ToolTip">Pedir mais 25%</String>
 	<String id="StockOfferCard.RejectButton.ToolTip">Rejeitar oferta</String>
-	<String id="StockOfferCard.Title">Stock offer <= Linha nova }</String>
+	<String id="StockOfferCard.Title">Oferta de ações</String>
 	<String id="TechnologyOfferCard.AcceptButton.ToolTip">Aceitar oferta</String>
 	<String id="TechnologyOfferCard.Ask100Button.ToolTip">Pedir 100% mais</String>
 	<String id="TechnologyOfferCard.Ask25Button.ToolTip">Pedir mais 25%</String>
@@ -790,7 +790,7 @@
 	<String id="TopHud.GameMenu.ToolTip">Menu do Jogo</String>
 	<String id="TopHud.GameOverIndicator.ToolTip">O jogo acabou - sair do jogo</String>
 	<String id="TopHud.ProfitBar.ToolTip">Lucro nos últimos 12 meses</String>
-	<String id="TopHud.SpeedSlider.ToolTip">Game speed|Use keyboard keys 0-4 to set speed, or Spacebar to toggle pause (speed 0) <= Linha alterada => Velocidade do jogo</String>
+	<String id="TopHud.SpeedSlider.ToolTip">Velocidade do jogo | Use as teclas do teclado 0-4 para definir a velocidade ou a barra de espaço para alternar a pausa (velocidade 0)</String>
 	<String id="TopHud.UserReporting.ToolTip">Relate bug/problema ou faça uma sugestão/comentário</String>
 	<String id="UI.BankruptcyWarning" P0="Day count">Falência em {0} dias</String>
 	<String id="UI.BuildingSize.1">Pequena</String>
@@ -802,8 +802,8 @@
 	<String id="UI.DefaultPlayerName">Jogador</String>
 	<String id="UI.HUD.AutoSaving">Auto-saving game</String>
 	<String id="UI.HUD.Cash" P0="Cash amount">{0:n0}</String>
-	<String id="UI.HUD.Cash.K" P0="Cash amount in thousands">{0:n0} K <= Linha nova }</String>
-	<String id="UI.HUD.Cash.M" P0="Cash amount in millions">{0:n0} M <= Linha nova }</String>
+	<String id="UI.HUD.Cash.K" P0="Cash amount in thousands">{0:n0} K</String>
+	<String id="UI.HUD.Cash.M" P0="Cash amount in millions">{0:n0} M</String>
 	<String id="UI.HUD.NumberInMillions" P0="Number in 1000000" P1="Number in 10000">{0:n0} M</String>
 	<String id="UI.HUD.WorldDate" P0="Date">{0:MMM d yyyy}</String>
 	<String id="UI.LivestockFilterCriteria.All">Todos animais</String>
@@ -815,19 +815,19 @@
 	<String id="UI.Multiplayer.AbandonNew.Title">Abandonar</String>
 	<String id="UI.Multiplayer.ConnectionFailed.Text">Falha na conexão</String>
 	<String id="UI.Multiplayer.ConnectionFailed.Title">Falha</String>
-	<String id="UI.Multiplayer.NewGameName" P0="Creator player name">{0}'s game</String>
+	<String id="UI.Multiplayer.NewGameName" P0="Creator player name">{0}'s jogos</String>
 	<String id="UI.Multiplayer.PasswordDialog.Affirmative">CONECTAR</String>
 	<String id="UI.Multiplayer.PasswordDialog.PasswordHint">Digite a senha</String>
 	<String id="UI.Multiplayer.PasswordDialog.PasswordLabel">Senha</String>
 	<String id="UI.Multiplayer.PasswordDialog.Title">Entrar no jogo com senha</String>
-	<String id="UI.Multiplayer.Refused.Desynced">Out of sync with host <= Linha nova }</String>
+	<String id="UI.Multiplayer.Refused.Desynced">Fora de sincronia com o host</String>
 	<String id="UI.Multiplayer.Refused.GameFull">O jogo estava cheio</String>
 	<String id="UI.Multiplayer.Refused.GameStarted">O jogo tinha começado</String>
 	<String id="UI.Multiplayer.Refused.IncorrectPassword">A senha estava incorreta</String>
 	<String id="UI.Multiplayer.Refused.KickedByHost">Você foi expulso pelo host</String>
 	<String id="UI.Multiplayer.Refused.Title">Desconectado do jogo</String>
 	<String id="UI.Multiplayer.Refused.UnknownError">Você foi desconectado do jogo</String>
-	<String id="UI.Multiplayer.Refused.UnsupportedVersion">You and host run different versions <= Linha nova }</String>
+	<String id="UI.Multiplayer.Refused.UnsupportedVersion">Você e o host executam versões diferentes</String>
 	<String id="UI.Preferences.PreferQuantityOverRevenue.FalseCommandLabel">Mostrar quantidade vendida</String>
 	<String id="UI.Preferences.PreferQuantityOverRevenue.TrueCommandLabel">Mostrar receita</String>
 	<String id="UI.ProductClassesFilterCriteria.All">Todas classes</String>
@@ -869,9 +869,9 @@
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuilding.DemolishButton.Text">DEMOLIR</String>
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuilding.Text">Demolir prédio</String>
 	<String id="Window.BuildingWindow.BuildingManager.DemolishBuildingExplanation.Text">Demolir o prédio e vender o terreno.</String>
-	<String id="Window.BuildingWindow.BuildingManager.Layouts.Text">Building layouts <= Linha nova }</String>
-	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.Text">LAYOUT LIBRARY <= Linha nova }</String>
-	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.ToolTip">Save current library to library or apply another layout to this building <= Linha nova }</String>
+	<String id="Window.BuildingWindow.BuildingManager.Layouts.Text">Layouts de construção</String>
+	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.Text">BIBLIOTECA DE LAYOUT</String>
+	<String id="Window.BuildingWindow.BuildingManager.LayoutsButton.ToolTip">Salve a biblioteca atual na biblioteca ou aplique outro layout a este edifício</String>
 	<String id="Window.BuildingWindow.BuildingManager.RenameBuilding.Text">Renomear prédio</String>
 	<String id="Window.BuildingWindow.BuildingManager.SellBuilding.OfferButton.Text">PÔR EDIFÍCIO À VENDA</String>
 	<String id="Window.BuildingWindow.BuildingManager.SellBuilding.StopSaleButton.Text">PARAR A VENDA</String>
@@ -904,18 +904,18 @@
 	<String id="Window.BuildingWindow.Department.TechUpgrade.Auto.Text">Atualize autom. quando uma nova tecnologia estiver disponível</String>
 	<String id="Window.BuildingWindow.Department.TechUpgrade.Text">Atualização de tecnologia</String>
 	<String id="Window.BuildingWindow.Department.UpgradeTechButton.Text">UPGRADE TECH</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.AddButton.Text">ADD <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.AddToLibraryHeader.Text">Add current layout to library <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make1Text">Make {0} <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make2Text">Make {0} and {1} <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Affirmative">Yes <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Dismissive">No <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Query">Delete layout? <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Title">Delete layout <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.ExistingLayoutsHeader.Text">Existing layouts <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.NoItems.Text">No layouts <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.SearchField.HintText">Search <= Linha nova }</String>
-	<String id="Window.BuildingWindow.LayoutsLibrary.Text">Layout library <= Linha nova }</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.AddButton.Text">ADD</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.AddToLibraryHeader.Text">Adicionar layout atual à biblioteca</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make1Text">Faça {0}</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.DefaultLayoutName.Make2Text">Faça {0} e {1}</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Affirmative">Sim</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Dismissive">Não</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Query">Excluir layout?</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Delete.Title">Excluir layout?</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.ExistingLayoutsHeader.Text">Layouts existentes</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.NoItems.Text">Sem layouts</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.SearchField.HintText">Procurar</String>
+	<String id="Window.BuildingWindow.LayoutsLibrary.Text">Biblioteca de layouts</String>
 	<String id="Window.BuildingWindow.ManagerButton.Text">GERENTE</String>
 	<String id="Window.BuildingWindow.NewDepartment.Space.Text" P0="units free" P1="unit capacity" P2="slots free" P3="slot capacity">{0} de {1} unidades e {2} de {3} vagas disponíveis.</String>
 	<String id="Window.BuildingWindow.NewDepartment.Text">Nova unidade</String>
@@ -956,7 +956,7 @@
 	<String id="Window.BuildTools.Small.Text">Pequeno</String>
 	<String id="Window.BuildTools.Title" P0="Building name">Construir {0}</String>
 	<String id="Window.BuildTools.TotalCost.Text">Custo total</String>
-	<String id="Window.ConfigurePlayerWindow.CloseButton.Text">CLOSE <= Linha nova }</String>
+	<String id="Window.ConfigurePlayerWindow.CloseButton.Text">FECHAR</String>
 	<String id="Window.ConfigurePlayerWindow.CorporationName.Text">Nome da Corporação</String>
 	<String id="Window.ConfigurePlayerWindow.Name.Text">Nome</String>
 	<String id="Window.ConfigurePlayerWindow.Title">Configure</String>
@@ -1011,7 +1011,7 @@
 	<String id="Window.CorporationReportWindow.NetProfitPanel.Text">Lucro líquido</String>
 	<String id="Window.CorporationReportWindow.Overview.Title">Visão geral</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Class.Text">Política de Classe de Produto</String>
-	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Info.Text">With the Product policy, each product has a unique brand.  With the Class policy, all products in the same class use the same brand. <= Linha alterada => Com a política de Produto, cada produto tem uma marca única. Com a política de classe, todos os produtos da mesma classe usam a mesma marca.</String>
+	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Info.Text">Com a política de Produto, cada produto tem uma marca única. Com a política de classe, todos os produtos da mesma classe usam a mesma marca.</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Product.Text">Política de tipo de produto</String>
 	<String id="Window.CorporationReportWindow.Policy.BrandPolicy.Text">Política de Marca</String>
 	<String id="Window.CorporationReportWindow.Policy.CEOBonus.ModifiedValue" P0="Profit ratio">({0:0.00%}) dos lucros</String>
@@ -1085,15 +1085,15 @@
 	<String id="Window.GameOverWindow.VictoryTitle">VITÓRIA</String>
 	<String id="Window.GoalsSetupWindow.Close.Text">Fechar</String>
 	<String id="Window.GoalsSetupWindow.Title">Metas</String>
-	<String id="Window.GuideWindow.Buildings.Title">Buildings <= Linha nova }</String>
-	<String id="Window.GuideWindow.Information.Title">Information <= Linha nova }</String>
-	<String id="Window.GuideWindow.InputProductTypesFilterCriteria.AllCaption">Input products <= Linha nova }</String>
-	<String id="Window.GuideWindow.NextOutputProduct.ToolTip">Next product made with this as input <= Linha nova }</String>
-	<String id="Window.GuideWindow.PreviousOutputProduct.ToolTip">Previous product made with this as input <= Linha nova }</String>
-	<String id="Window.GuideWindow.ProductDetail.Text">DETAILS <= Linha nova }</String>
-	<String id="Window.GuideWindow.ProductDetail.ToolTip">Show Product Details for this product <= Linha nova }</String>
-	<String id="Window.GuideWindow.Products.Title">Products <= Linha nova }</String>
-	<String id="Window.GuideWindow.Title">Guide <= Linha nova }</String>
+	<String id="Window.GuideWindow.Buildings.Title">Edifícios</String>
+	<String id="Window.GuideWindow.Information.Title">Informações</String>
+	<String id="Window.GuideWindow.InputProductTypesFilterCriteria.AllCaption">Produtos de entrada</String>
+	<String id="Window.GuideWindow.NextOutputProduct.ToolTip">Próximo produto feito com isso como entrada</String>
+	<String id="Window.GuideWindow.PreviousOutputProduct.ToolTip">Produto anterior feito com isso como entrada</String>
+	<String id="Window.GuideWindow.ProductDetail.Text">DETALHES</String>
+	<String id="Window.GuideWindow.ProductDetail.ToolTip">Mostrar detalhes do produto para este produto</String>
+	<String id="Window.GuideWindow.Products.Title">Produtos</String>
+	<String id="Window.GuideWindow.Title">Guia</String>
 	<String id="Window.IssueStockWindow.CurrentShares.Text">Ações atuais</String>
 	<String id="Window.IssueStockWindow.IssueButton.Text">EMITIR AÇÕES</String>
 	<String id="Window.IssueStockWindow.IssuePrice.Text">Preço de emissão</String>
@@ -1119,29 +1119,29 @@
 	<String id="Window.LogWindow.FinancialNews.Title">Notícias Financeiras</String>
 	<String id="Window.LogWindow.News.NoItems.Text">Nenhuma notícia</String>
 	<String id="Window.LogWindow.News.Title">Notícias</String>
-	<String id="Window.LogWindow.Settings.HelpText">Checked items will show as notification popup with sound <= Linha nova }</String>
+	<String id="Window.LogWindow.Settings.HelpText">Os itens marcados serão exibidos como pop-up de notificação com som</String>
 	<String id="Window.LogWindow.Settings.Title">Configurações</String>
 	<String id="Window.LogWindow.Title">Registro</String>
-	<String id="Window.MergerWindow.Acquiring.Text">acquiring <= Linha nova }</String>
+	<String id="Window.MergerWindow.Acquiring.Text">adquirindo</String>
 	<String id="Window.MergerWindow.Cash.Text">Pagar à vista</String>
-	<String id="Window.MergerWindow.Cash.ToolTip">Buy all remaining shares using cash <= Linha nova }</String>
-	<String id="Window.MergerWindow.MarketSharePrice.Text">Market share price <= Linha nova }</String>
-	<String id="Window.MergerWindow.MarketSharePrice.ToolTip">Current market price per share <= Linha nova }</String>
+	<String id="Window.MergerWindow.Cash.ToolTip">Compre todas as ações restantes usando dinheiro</String>
+	<String id="Window.MergerWindow.MarketSharePrice.Text">Market share preço</String>
+	<String id="Window.MergerWindow.MarketSharePrice.ToolTip">Atual preço de mercado por ação</String>
 	<String id="Window.MergerWindow.MergeButton.Text">FUNDIR CORPORAÇÕES</String>
-	<String id="Window.MergerWindow.MergeButton.ToolTip">Merge the selected corporation into your corporation <= Linha nova }</String>
-	<String id="Window.MergerWindow.OwnShareDilution.Text">Stock dilution <= Linha nova }</String>
-	<String id="Window.MergerWindow.OwnShareDilution.ToolTip">How much your owner's current ownership share will be diluted after issuing new shares.|Note - you are also diluting your own ownership share <= Linha nova }</String>
-	<String id="Window.MergerWindow.OwnShareIssueCount.Text">Own shares to issue <= Linha nova }</String>
-	<String id="Window.MergerWindow.OwnShareIssueCount.ToolTip">Number of shares you need to issue in your corporation to swap with current owners <= Linha nova }</String>
+	<String id="Window.MergerWindow.MergeButton.ToolTip">Fundir a corporação selecionada em sua corporação</String>
+	<String id="Window.MergerWindow.OwnShareDilution.Text">Diluição de ações</String>
+	<String id="Window.MergerWindow.OwnShareDilution.ToolTip">Quanto a participação acionária atual do seu proprietário será diluída após a emissão de novas ações.|Observação - você também está diluindo sua própria participação acionária</String>
+	<String id="Window.MergerWindow.OwnShareIssueCount.Text">Ações próprias a emitir</String>
+	<String id="Window.MergerWindow.OwnShareIssueCount.ToolTip">Número de ações que você precisa emitir em sua corporação para trocar com os atuais proprietários</String>
 	<String id="Window.MergerWindow.Query.Text">Como você pagará as ações restantes?</String>
-	<String id="Window.MergerWindow.RemainingShares.Text">Remaining shares <= Linha nova }</String>
-	<String id="Window.MergerWindow.RemainingShares.ToolTip">Number of shares that is not owned by your corporation <= Linha nova }</String>
-	<String id="Window.MergerWindow.Stocks.Text">Issue Shares <= Linha alterada => Emitir Ações</String>
-	<String id="Window.MergerWindow.Stocks.ToolTip">Issue shares to swap with owners <= Linha nova }</String>
-	<String id="Window.MergerWindow.TakeoverCost.Text">Total takeover cost <= Linha nova }</String>
-	<String id="Window.MergerWindow.TakeoverCost.ToolTip">Total cost to buy all remaining shares with cash <= Linha nova }</String>
-	<String id="Window.MergerWindow.TakeoverSharePrice.Text">Takeover share price <= Linha nova }</String>
-	<String id="Window.MergerWindow.TakeoverSharePrice.ToolTip">Price you have to pay per share to ensure all owners accept the offer <= Linha nova }</String>
+	<String id="Window.MergerWindow.RemainingShares.Text">Ações restantes</String>
+	<String id="Window.MergerWindow.RemainingShares.ToolTip">Número de ações que não são de propriedade da sua corporação</String>
+	<String id="Window.MergerWindow.Stocks.Text">Emitir Ações</String>
+	<String id="Window.MergerWindow.Stocks.ToolTip">Emitir ações para trocar com os proprietários</String>
+	<String id="Window.MergerWindow.TakeoverCost.Text">Custo total de aquisição</String>
+	<String id="Window.MergerWindow.TakeoverCost.ToolTip">Custo total para comprar todas as ações restantes com dinheiro</String>
+	<String id="Window.MergerWindow.TakeoverSharePrice.Text">Preço da ação de aquisição</String>
+	<String id="Window.MergerWindow.TakeoverSharePrice.ToolTip">Preço que você deve pagar por ação para garantir que todos os proprietários aceitem a oferta</String>
 	<String id="Window.MergerWindow.Title">Fusão</String>
 	<String id="Window.NaturalResourcesListWindow.Title">Recursos Naturais</String>
 	<String id="Window.OptionsWindow.EffectsVolume.Text">Volume dos efeitos</String>
@@ -1156,7 +1156,7 @@
 	<String id="Window.PeopleListWindow.Stocks.Text">Ações</String>
 	<String id="Window.PeopleListWindow.Title">Pessoas</String>
 	<String id="Window.PeopleListWindow.Worth.Text">Valor</String>
-	<String id="Window.ProductDetailWindow.BrandPieHeader.Text">Brand <= Linha nova }</String>
+	<String id="Window.ProductDetailWindow.BrandPieHeader.Text">Marca</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Brand.Text">Marca</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Price.Text">Preço</String>
 	<String id="Window.ProductDetailWindow.ProductDetailRetailPanel.Quality.Text">Qualidade</String>
@@ -1175,7 +1175,7 @@
 	<String id="Window.ProductDetailWindow.Recipe.QualityFactorsDescription.Header" P0="Product title">A qualidade de {0} é determinada por:</String>
 	<String id="Window.ProductDetailWindow.Recipe.Technology.Text">Tecnologia</String>
 	<String id="Window.ProductDetailWindow.Recipe.Title">Receita</String>
-	<String id="Window.ProductDetailWindow.RetailPieHeader.Text">Retail <= Linha nova }</String>
+	<String id="Window.ProductDetailWindow.RetailPieHeader.Text">Varejo</String>
 	<String id="Window.ProductDetailWindow.Tech.AnnualProfit.Text">Lucro Anual</String>
 	<String id="Window.ProductDetailWindow.Tech.AnnualRevenue.Text">Receita Anual</String>
 	<String id="Window.ProductDetailWindow.Tech.Corporation.Text">Corporação</String>
@@ -1276,9 +1276,9 @@
 	<String id="Window.StockMarketWindow.Sell.Total.Text">Total</String>
 	<String id="Window.StockMarketWindow.SellButton.Text">VENDER</String>
 	<String id="Window.StockMarketWindow.Title">Bolsa de Valores</String>
-	<String id="WorkBuildingTemplateCard.DeleteLayoutButton.Text">DELETE <= Linha nova }</String>
-	<String id="WorkBuildingTemplateCard.UseLayoutButton.Text">USE LAYOUT <= Linha nova }</String>
-	<String id="WorkBuildingWindow.SizeOverview">Units in use (filled) and available units (unfilled).|You can build new units or upgrade existing ones to use the free units <= Linha nova }</String>
+	<String id="WorkBuildingTemplateCard.DeleteLayoutButton.Text">EXCLUIR</String>
+	<String id="WorkBuildingTemplateCard.UseLayoutButton.Text">USAR LAYOUT</String>
+	<String id="WorkBuildingWindow.SizeOverview">Unidades em uso (preenchidas) e unidades disponíveis (não preenchidas).|Você pode construir novas unidades ou atualizar as existentes para usar as unidades gratuitas</String>
 
 
 	<String id="Tutorial.Resources.Title">Fazendo estantes de madeira</String>
