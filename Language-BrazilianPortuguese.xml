@@ -2,34 +2,34 @@
 <Language name="Brazilian Portuguese" Culture="pt-BR">
 
 
-	<String id="Action.Auctions.ToolTip">Auctions|List of all ongoing auctions and stock/technology offers <= Linha alterada => Leilões</String>
+	<String id="Action.Auctions.ToolTip">Leilões|Lista de todos os leilões em andamento e ofertas de ações/tecnologia</String>
 	<String id="Action.Build.Factory.ToolTip">Construir fábrica</String>
 	<String id="Action.Build.Farm.ToolTip">Construir fazenda</String>
-	<String id="Action.Build.LoggingCamp.ToolTip">Build  logging camp <= Linha alterada => Construir acampamento Madereiro</String>
+	<String id="Action.Build.LoggingCamp.ToolTip">Construir acampamento Madereiro</String>
 	<String id="Action.Build.Mine.ToolTip">Construir mina</String>
 	<String id="Action.Build.Offices.ToolTip">Construir escritórios</String>
 	<String id="Action.Build.OilWell.ToolTip">Construir poço de petróleo</String>
 	<String id="Action.Build.Store.ToolTip">Construir loja</String>
 	<String id="Action.Build.Warehouse.ToolTip">Construir armazém</String>
-	<String id="Action.BuildingsList.ToolTip">Buildings|Filterable list of all buildings <= Linha alterada => Edifícios</String>
+	<String id="Action.BuildingsList.ToolTip">Edifícios|Lista filtrável de todos os edifícios</String>
 	<String id="Action.ConstructionButton.ToolTip">Construir novo edifício</String>
-	<String id="Action.CorporationsList.ToolTip">Corporations|List of all corporations; gives access to other corporations' Corporate Report <= Linha alterada => Corporações</String>
-	<String id="Action.Guide.ToolTip">Guide|Learn about products and buildings <= Linha nova }</String>
+	<String id="Action.CorporationsList.ToolTip">Corporações|Lista de todas as empresas; dá acesso ao Relatório Corporativo de outras corporações</String>
+	<String id="Action.Guide.ToolTip">Guia|Saiba mais sobre produtos e edifícios</String>
 	<String id="Action.LoansList.ToolTip">Empréstimos Bancários</String>
-	<String id="Action.Log.ToolTip">Log|Log of news items, split by general news and financial.|Has settings to set which news pop up on screen <= Linha alterada => Log</String>
-	<String id="Action.MyCorporationReport.ToolTip">My Corporation Report|All details about your corporation|(To see the report for other corporations, open the Corporations list) <= Linha alterada => Relatório da Minha Empresa</String>
-	<String id="Action.NaturalResourcesList.ToolTip">Natural resources|List of all existing natural resources <= Linha alterada => Recursos naturais</String>
+	<String id="Action.Log.ToolTip">Log|Log de notícias, dividido por notícias gerais e financeiras.|Tem configurações para definir quais notícias aparecem na tela</String>
+	<String id="Action.MyCorporationReport.ToolTip">Meu Relatório Corporativo|Todos os detalhes sobre sua corporação|(Para ver o relatório de outras corporações, abra a lista Corporações)</String>
+	<String id="Action.NaturalResourcesList.ToolTip">Recursos naturais|Lista de todos os recursos naturais existentes</String>
 	<String id="Action.Overlay.Corporations.ToolTip">Posse da construção</String>
 	<String id="Action.Overlay.LandValue.ToolTip">Valor do terreno</String>
 	<String id="Action.Overlay.None.ToolTip">Nenhum</String>
 	<String id="Action.Overlay.Profitability.ToolTip">Lucratividade</String>
-	<String id="Action.OverlayPanel.ToolTip">Map overlay|Overlay geographic information on the region map <= Linha alterada => Sobreposição de mapa</String>
-	<String id="Action.PeopleList.ToolTip">People|List of people (players and investors) in the world <= Linha alterada => Pessoas</String>
-	<String id="Action.ProductsList.ToolTip">Products|Lists all known products with their financial indicators and marketing information <= Linha alterada => Produtos</String>
-	<String id="Action.RegionsList.ToolTip">Regions|Lists available regions in the world <= Linha alterada => Regiões</String>
+	<String id="Action.OverlayPanel.ToolTip">Sobreposição de mapa|Sobreposição de informações geográficas no mapa da região</String>
+	<String id="Action.PeopleList.ToolTip">Pessoas|Lista de pessoas (jogadores e investidores) no mundo</String>
+	<String id="Action.ProductsList.ToolTip">Produtos|Lista todos os produtos conhecidos com seus indicadores financeiros e informações de marketing</String>
+	<String id="Action.RegionsList.ToolTip">Regiões|Lista as regiões disponíveis no mundo</String>
 	<String id="Action.StockMarket.ToolTip">Bolsa de Valores</String>
 	<String id="Action.ToggleMinimap.ToolTip">Alternar minimapa</String>
-	<String id="AuctionOfferCard.NoCashWarning">Low cash warning <= Linha nova }</String>
+	<String id="AuctionOfferCard.NoCashWarning">Aviso de dinheiro baixo</String>
 	<String id="BalanceSheetType.Assets.Title">Ativos</String>
 	<String id="BalanceSheetType.Cash.Title">Dinheiro</String>
 	<String id="BalanceSheetType.CommonStock.Title">Ações Ordinárias</String>
@@ -47,7 +47,7 @@
 	<String id="Building.Product.DecreasePriceButton.ToolTip">Diminuir preço</String>
 	<String id="Building.Product.IncreasePriceButton.ToolTip">Aumentar preço</String>
 	<String id="Building.Product.InternalSalesCheckbox.ToolTip">Venda apenas para seus próprios prédios</String>
-	<String id="Building.Product.StoreManager.ToolTip">Price controlled by Store Manager <= Linha nova }</String>
+	<String id="Building.Product.StoreManager.ToolTip">Preço controlado pelo gerente da loja</String>
 	<String id="Building.Product.WarehouseOnlyCheckbox.ToolTip">Só vender para armazéns</String>
 	<String id="BuildingAuctionCard.GotoButton.ToolTip">Mostrar no mapa</String>
 	<String id="BuildingAuctionCard.OpenButton.ToolTip">Abrir edifício</String>
@@ -87,12 +87,12 @@
 	<String id="DepartmentType.Advertising.Title">Publicidade</String>
 	<String id="DepartmentType.CropGrowing.NoProductText">Nenhuma cultura</String>
 	<String id="DepartmentType.CropGrowing.Title">Cultivo</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Growing <= Linha nova }</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Growing <= Linha nova }</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.Harvesting">Harvesting <= Linha nova }</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.None">- <= Linha nova }</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.Sowing">Sowing <= Linha nova }</String>
-	<String id="DepartmentType.CropGrowing.WorkStatus.Waiting">Waiting <= Linha nova }</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Crescendo</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Growing">Crescendo</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Harvesting">Colhendo</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.None">-</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Sowing">Semeando</String>
+	<String id="DepartmentType.CropGrowing.WorkStatus.Waiting">Esperando</String>
 	<String id="DepartmentType.Inventory.Title">Inventário</String>
 	<String id="DepartmentType.LivestockProcessing.Title">Processamento de Animais</String>
 	<String id="DepartmentType.LivestockRaising.NoProductText">Sem animais</String>
@@ -138,7 +138,7 @@
 	<String id="LogEntryCategory.Auctions.Title">Leilões</String>
 	<String id="LogEntryCategory.Miscellaneous.Title">Diversos</String>
 	<String id="LogEntryCategory.NewOffer.Title">Ofertas</String>
-	<String id="LogEntryCategory.NewResources.Title">New natural resources <= Linha nova }</String>
+	<String id="LogEntryCategory.NewResources.Title">Novos recursos naturais</String>
 	<String id="LogEntryCategory.OtherCorporationsBuilding.Title">Outras construções</String>
 	<String id="LogEntryCategory.OtherStocks.Title">Outras negociações de ações</String>
 	<String id="LogEntryCategory.PlayerCorporationBuilding.Title">Construção do jogador</String>
@@ -199,7 +199,7 @@
 	<String id="Panel.CorporationReportBrandCard.MonthlySpending.Text">Gastos mensais</String>
 	<String id="Panel.CorporationReportBrandCard.Rating.Text">Avaliação</String>
 	<String id="Panel.CorporationReportProductCard.CurrentResearch.Text">Pesquisa atual</String>
-	<String id="Panel.CorporationReportProductCard.CurrentResearch.TradeSecret">Researching <= Linha nova }</String>
+	<String id="Panel.CorporationReportProductCard.CurrentResearch.TradeSecret">Pesquisando</String>
 	<String id="Panel.CorporationReportProductCard.Technology.Text">Tecnologia</String>
 	<String id="Panel.CorporationSummaryCard.AnnualProfit.Text">Lucro anual</String>
 	<String id="Panel.CorporationSummaryCard.AnnualRevenue.Text">Receita anual</String>
@@ -216,7 +216,7 @@
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Dismissive">Não</String>
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Query" P0="Player's name">Expulsar {0} do jogo?</String>
 	<String id="Panel.LobbyPlayerCard.KickPlayer.Title">Expulsar</String>
-	<String id="Panel.LobbyPlayerCard.Ready">Ready <= Linha nova }</String>
+	<String id="Panel.LobbyPlayerCard.Ready">Pronto</String>
 	<String id="Panel.NaturalResourceAuctionCard.LeadingBidLabel.Text">Lance principal:</String>
 	<String id="Panel.NaturalResourceAuctionCard.MadeBidButton.Text">FAZER LANCE</String>
 	<String id="Panel.NaturalResourceAuctionCard.NextBidLabel.Text">Próximo lance:</String>
@@ -229,8 +229,8 @@
 	<String id="Panel.ProductDetailCorporateTechCard.AnnualRevenue.Label">Receita Anual</String>
 	<String id="Panel.ProductDetailCorporateTechCard.CurrentResearch.Label">Pesquisa atual</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Level.Label">Nível</String>
-	<String id="Panel.ProductDetailCorporateTechCard.OfferBuy.Text">OFFER TO BUY <= Linha nova }</String>
-	<String id="Panel.ProductDetailCorporateTechCard.TechLevelToBuy.Label">Tech. level <= Linha nova }</String>
+	<String id="Panel.ProductDetailCorporateTechCard.OfferBuy.Text">OFERTA DE COMPRA</String>
+	<String id="Panel.ProductDetailCorporateTechCard.TechLevelToBuy.Label">Tech. level</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Technology.Label">Tecnologia</String>
 	<String id="Panel.ProductDetailCorporateTechCard.Value.Label">Valor</String>
 	<String id="Panel.ProductDetailRetailAverageCard.ConcernLabel.Text">Interesse:</String>
@@ -270,7 +270,7 @@
 	<String id="Panel.TechnologyOfferCard.CurrentLevel.Text">Nível atual</String>
 	<String id="Panel.TechnologyOfferCard.DeclineButton.Text">NÃO</String>
 	<String id="Panel.TechnologyOfferCard.Product.Text" P0="TechnologyLevel" P1="Product title">Nível {0:n0} de {1}</String>
-	<String id="Panel.TechnologyOfferCard.Title">Technology offer <= Linha nova }</String>
+	<String id="Panel.TechnologyOfferCard.Title">Oferta de tecnologia</String>
 	<String id="Panel.TechnologyOfferCard.TopLevel.Text">Top level</String>
 	<String id="Panel.Tutorial.Continue.Text">CONTINUE</String>
 	<String id="PlayerDisconnectReason.Authentication">Autenticação</String>
@@ -283,7 +283,7 @@
 	<String id="ProductClass.AnimalProducts.Title">Produtos Animais</String>
 	<String id="ProductClass.Appliances.Title">Eletrodomésticos</String>
 	<String id="ProductClass.Automotive.Title">Automotivo</String>
-	<String id="ProductClass.BeautyPersonalCare.Title">Beauty &amp; Personal Care <= Linha alterada => Beleza &amp; Cuidado Pessoal</String>
+	<String id="ProductClass.BeautyPersonalCare.Title">Beleza &amp; Cuidado Pessoal</String>
 	<String id="ProductClass.Beverages.Title">Bebidas</String>
 	<String id="ProductClass.Computers.Title">Computadores</String>
 	<String id="ProductClass.Crops.Title">Crops</String>
@@ -293,7 +293,7 @@
 	<String id="ProductClass.Furniture.Title">Móveis</String>
 	<String id="ProductClass.Gadgets.Title">Gadgets</String>
 	<String id="ProductClass.Health.Title">Saúde</String>
-	<String id="ProductClass.HealthHygiene.Title">Health &amp; Hygiene <= Linha alterada => Saúde &amp; Higiene</String>
+	<String id="ProductClass.HealthHygiene.Title">Saúde &amp; Higiene</String>
 	<String id="ProductClass.Household.Title">Doméstico</String>
 	<String id="ProductClass.Intermediate.Title">Intermediário</String>
 	<String id="ProductClass.Jewelry.Title">Jóias</String>
@@ -454,9 +454,9 @@
 	<String id="ProfitBarChartType.StockReturn.Title">Stock returns</String>
 	<String id="ProfitBarChartType.Stocks.Title">Owned stock value</String>
 	<String id="ProfitBarChartType.WriteOffs.Title">Baixas</String>
-	<String id="Recipe.ProducedIn.CropText">Grown in a Crop Growing slot in a Farm <= Linha nova }</String>
-	<String id="Recipe.ProducedIn.LivestockText">Made in a Livestock Processing slot in a Farm <= Linha nova }</String>
-	<String id="Recipe.ProducedIn.LoggingText">Made in a Logging slot in a Logging camp <= Linha nova }</String>
+	<String id="Recipe.ProducedIn.CropText">Crescido em um slot de Cultivo Crescendo em uma Fazenda</String>
+	<String id="Recipe.ProducedIn.LivestockText">Feito em um slot de processamento de animais em uma fazenda</String>
+	<String id="Recipe.ProducedIn.LoggingText">Feito em um slot de Extração de Madereira em um acampamento madereiro</String>
 	<String id="Recipe.ProducedIn.ManufacturingText">Made in a Manufacturing slot in a Factory <= Linha nova }</String>
 	<String id="Recipe.ProducedIn.MineText">Made in a Mining slot in a Mine <= Linha nova }</String>
 	<String id="Recipe.ProducedIn.OilText">Made in an Oil Extraction slot in an Oil Well <= Linha nova }</String>
